@@ -6,6 +6,7 @@ import logging.handlers
 import sys
 from pathlib import Path
 
+import click
 import pandas as pd
 import requests
 
@@ -129,22 +130,31 @@ def download_xml_amendements(df: pd.DataFrame, dest_dir: Path) -> list[Path]:
     return xml_paths
 
 
-def main() -> None:
-    """
-    Point d'entrée principal de l'application.
-
-    Initialise le journal, enregistre le démarrage de l'application,
-    l'étape courante, et le chemin à partir duquel les variables
-    d'environnement sont chargées.
-    """
+@click.command(
+    name="download-xml",
+    help="Télécharge les fichiers XML listés dans le CSV des amendements.",
+)
+@click.option(
+    "--csv-url",
+    default="https://data.assemblee-nationale.fr/static/openData/repository/17/dossiers_legislatifs_opendata/54085/libre_office.csv",
+    show_default=True,
+    help="URL du fichier CSV des amendements.",
+)
+@click.option(
+    "--xml-dir",
+    type=click.Path(path_type=Path, file_okay=False, resolve_path=True),
+    default=XML_DIR,
+    show_default=True,
+    help="Répertoire de destination pour les fichiers XML téléchargés.",
+)
+def main(csv_url: str, xml_dir: Path) -> None:
+    """Télécharge les fichiers XML listés dans le CSV fourni."""
     configure_logging()
     logger = logging.getLogger(__name__)
 
     logger.info("Démarrage de l'application analyse_an")
     logger.debug(f"Fichier de log: {LOG_FILE}")
 
-    # Lecture de la liste des amendements depuis une URL HTTP
-    csv_url = "https://data.assemblee-nationale.fr/static/openData/repository/17/dossiers_legislatifs_opendata/54085/libre_office.csv"
     try:
         df_amendements = read_csv_from_http(csv_url)
         logger.info("Amendements chargés et prêts à être analysés.")
@@ -158,9 +168,9 @@ def main() -> None:
     )
     print(df_amendements[["Désignation de l'article", XML_URL_COLUMN]].head())
 
-    xml_paths = download_xml_amendements(df_amendements, XML_DIR)
+    xml_paths = download_xml_amendements(df_amendements, xml_dir)
     logger.info(
-        f"Téléchargement terminé: {len(xml_paths)} fichiers XML enregistrés dans {XML_DIR}"
+        f"Téléchargement terminé: {len(xml_paths)} fichiers XML enregistrés dans {xml_dir}"
     )
 
 

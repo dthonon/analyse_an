@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO419865B2632P0D1N000190</uid>    
+   <chronotag>1777496884794</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>CD190</numeroLong>        
+      <numeroOrdreDepot>190</numeroOrdreDepot>        
+      <prefixeOrganeExamen>CION-DVP</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO419865B2632P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17B2632</texteLegislatifRef>    
+   <triAmendement>esaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaauftbo</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA840665</acteurRef>            
+         <groupePolitiqueRef>PO845419</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA841381</acteurRef>            
+         <acteurRef>PA840673</acteurRef>            
+         <acteurRef>PA793816</acteurRef>            
+         <acteurRef>PA607553</acteurRef>            
+         <acteurRef>PA795430</acteurRef>            
+         <acteurRef>PA841633</acteurRef>            
+         <acteurRef>PA842195</acteurRef>            
+         <acteurRef>PA841665</acteurRef>            
+         <acteurRef>PA643192</acteurRef>            
+         <acteurRef>PA774958</acteurRef>            
+         <acteurRef>PA840829</acteurRef>            
+         <acteurRef>PA841327</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> Mme&amp;#160;Allemand,  Mme&amp;#160;Pantel, Mme&amp;#160;Rossi, Mme&amp;#160;Thomin, M.&amp;#160;Potier, M.&amp;#160;Delautrette, M.&amp;#160;Dufau, M.&amp;#160;Eskenazi, M.&amp;#160;F&amp;#233;gn&amp;#233;, Mme&amp;#160;Jourdan, M.&amp;#160;Leseul, M.&amp;#160;Barusseau et M.&amp;#160;Roussel</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2632.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>                
+            <numero>5</numero>                
+            <alineaDesignation>Alinéa 5</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;&amp;#x00C0;&amp;nbsp;l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;5, apr&amp;#x00E8;s le mot&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;nationale&amp;nbsp;&amp;#x00BB;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;sont ins&amp;#x00E9;r&amp;#x00E9;s les mots&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;en s&amp;#x2019;appuyant sur une m&amp;#x00E9;thode d&amp;#x2019;estimation de la population de loups d&amp;#x00E9;finie en concertation avec des repr&amp;#x00E9;sentants des collectivit&amp;#x00E9;s territoriales et de leurs groupements, des professions agricole et foresti&amp;#x00E8;re, des chambres d&amp;#x2019;agriculture et des organismes nationaux &amp;#x00E0; vocation agricole et rurale, des associations agr&amp;#x00E9;&amp;#x00E9;es de protection de l&amp;#x2019;environnement et des f&amp;#x00E9;d&amp;#x00E9;rations d&amp;#x00E9;partementales ou interd&amp;#x00E9;partementales des chasseurs&amp;nbsp;&amp;#x00BB;.&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Cet amendement du groupe Socialistes et apparent&amp;#x00E9;ss vise &amp;#x00E0; souligner la n&amp;#x00E9;cessit&amp;#x00E9; d&amp;#x2019;adopter une m&amp;#x00E9;thode d&amp;#x2019;estimation de la population de loups fiable et partag&amp;#x00E9;e par l&amp;#x2019;ensemble des acteurs concern&amp;#x00E9;s.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;En effet, la politique de gestion et de pr&amp;#x00E9;l&amp;#x00E8;vement de la population lupine est directement index&amp;#x00E9;e sur les effectifs estim&amp;#x00E9;s. Or, les m&amp;#x00E9;thodes de comptage actuellement utilis&amp;#x00E9;es ne sont pas toujours consid&amp;#x00E9;r&amp;#x00E9;es comme efficaces par les acteurs de la ruralit&amp;#x00E9;.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Depuis le 1&lt;sup&gt;er&lt;/sup&gt;&amp;nbsp;janvier&amp;nbsp;2025, l&amp;#x2019;estimation de l&amp;#x2019;effectif moyen de la population lupine se fait d&amp;#x00E9;sormais uniquement avec la m&amp;#x00E9;thode &amp;#x00AB;&amp;nbsp;Capture-Marquage-Recapture&amp;nbsp;&amp;#x00BB; (CMR). Si le Minist&amp;#x00E8;re de la Transition &amp;#x00E9;cologique pr&amp;#x00E9;sente cette m&amp;#x00E9;thode comme la plus fiable scientifiquement, il reconna&amp;#x00EE;t aussi que &amp;#x00AB;&amp;nbsp;la publication du chiffre d&amp;#x00E9;finitif de la CMR n&amp;#x2019;est possible que plusieurs ann&amp;#x00E9;es apr&amp;#x00E8;s le recueil des donn&amp;#x00E9;es g&amp;#x00E9;n&amp;#x00E9;tiques.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Cet amendement propose donc d&amp;#x2019;instaurer une concertation entre l&amp;#x2019;&amp;#x00C9;tat et le monde agricole afin de d&amp;#x00E9;finir une m&amp;#x00E9;thode de comptabilisation partag&amp;#x00E9;e et fiable.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-04-24</dateDepot>        
+      <datePublication>2026-04-29</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>DI</code>                
+            <libelle>Discuté</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>DI</code>                
+            <libelle>Tombé</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort>2026-04-29T23:07:51+02:00</dateSort>        
+      <sort>Tombé</sort>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO419865B2632P0D1N000190?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>
