@@ -12,6 +12,8 @@ import requests
 # Configuration du logging
 LOG_DIR = Path(__file__).parent.parent / "logs"
 LOG_FILE = LOG_DIR / "analyse_an.log"
+XML_DIR = Path(__file__).parent.parent / "data" / "xml"
+XML_URL_COLUMN = "URL Amendement format XML"
 
 
 def configure_logging() -> None:
@@ -100,6 +102,33 @@ def filter_amendements_by_designation(df: pd.DataFrame) -> pd.DataFrame:
     ].copy()
 
 
+def download_xml_amendements(df: pd.DataFrame, dest_dir: Path) -> list[Path]:
+    """Télécharge les fichiers XML listés dans la colonne URL Amendement format XML."""
+    logger = logging.getLogger(__name__)
+    dest_dir.mkdir(parents=True, exist_ok=True)
+
+    xml_paths: list[Path] = []
+    for idx, url in df[XML_URL_COLUMN].dropna().items():
+        if not isinstance(url, str) or not url.strip():
+            continue
+
+        filename = Path(url).name
+        filename = f"{idx:04d}_{filename}" if filename else f"amendement_{idx}.xml"
+        target_path = dest_dir / filename
+
+        logger.debug(f"Téléchargement XML {idx} depuis {url}")
+        try:
+            response = requests.get(url, timeout=30)
+            response.raise_for_status()
+            target_path.write_bytes(response.content)
+            xml_paths.append(target_path)
+            logger.info(f"Enregistré {target_path}")
+        except requests.RequestException as e:
+            logger.error(f"Erreur lors du téléchargement du XML {url}: {e}")
+
+    return xml_paths
+
+
 def main() -> None:
     """
     Point d'entrée principal de l'application.
@@ -127,8 +156,11 @@ def main() -> None:
     logger.info(
         f"Amendements filtrés par 'Désignation de l'article' : {len(df_amendements)} lignes restantes."
     )
-    print(
-        df_amendements[["Désignation de l'article", "URL Amendement format XML"]].head()
+    print(df_amendements[["Désignation de l'article", XML_URL_COLUMN]].head())
+
+    xml_paths = download_xml_amendements(df_amendements, XML_DIR)
+    logger.info(
+        f"Téléchargement terminé: {len(xml_paths)} fichiers XML enregistrés dans {XML_DIR}"
     )
 
 

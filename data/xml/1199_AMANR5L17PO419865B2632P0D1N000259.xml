@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO419865B2632P0D1N000259</uid>    
+   <chronotag>1777500271706</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>CD259</numeroLong>        
+      <numeroOrdreDepot>259</numeroOrdreDepot>        
+      <prefixeOrganeExamen>CION-DVP</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO419865B2632P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17B2632</texteLegislatifRef>    
+   <triAmendement>faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabn</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA720668</acteurRef>            
+         <groupePolitiqueRef>PO845401</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA841131</acteurRef>            
+         <acteurRef>PA841761</acteurRef>            
+         <acteurRef>PA841621</acteurRef>            
+         <acteurRef>PA793632</acteurRef>            
+         <acteurRef>PA842085</acteurRef>            
+         <acteurRef>PA796026</acteurRef>            
+         <acteurRef>PA841587</acteurRef>            
+         <acteurRef>PA794530</acteurRef>            
+         <acteurRef>PA840837</acteurRef>            
+         <acteurRef>PA793852</acteurRef>            
+         <acteurRef>PA795410</acteurRef>            
+         <acteurRef>PA794894</acteurRef>            
+         <acteurRef>PA796050</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Blairy,  Mme&amp;#160;Bouquin, M.&amp;#160;Dutremble, M.&amp;#160;Evrard, M.&amp;#160;Houssin, M.&amp;#160;Humbert, Mme&amp;#160;Lechanteux, M.&amp;#160;David&amp;#160;Magnier, M.&amp;#160;Marchio, M.&amp;#160;Markowsky, M.&amp;#160;Meurin, Mme&amp;#160;Roullaud, Mme&amp;#160;Sabatini et M.&amp;#160;Schreck</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>APRÈS ART. 14</articleDesignationCourte>            
+         <articleDesignation>APRÈS L'ARTICLE 14, insérer l'article suivant:</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>Après</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>true</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2632.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p&gt;Dans un d&amp;#x00E9;lai de douze mois &amp;#x00E0; compter de la promulgation de la pr&amp;#x00E9;sente loi, le Gouvernement remet au Parlement un rapport sur la n&amp;#x00E9;cessit&amp;#x00E9; et les modalit&amp;#x00E9;s de priorisation des missions des agents de l&amp;#x2019;Office fran&amp;#x00E7;ais de la biodiversit&amp;#x00E9;.&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p&gt;L&amp;#x2019;Office fran&amp;#x00E7;ais de la biodiversit&amp;#x00E9; remplit une large palette de missions, allant de la protection de la biodiversit&amp;#x00E9; &amp;#x00E0; la police de l&amp;#x2019;environnement, en passant par le suivi de la faune sauvage. Or, en raison de contraintes budg&amp;#x00E9;taires et de ressources humaines limit&amp;#x00E9;es, l&amp;#x2019;&amp;#x00E9;tablissement est confront&amp;#x00E9; &amp;#x00E0; une n&amp;#x00E9;cessaire hi&amp;#x00E9;rarchisation de ses priorit&amp;#x00E9;s.&lt;br&gt;&amp;nbsp;&lt;br&gt;Cet amendement vise &amp;#x00E0; obtenir du Gouvernement un rapport dans un d&amp;#x00E9;lai de douze mois, afin d&amp;#x2019;&amp;#x00E9;valuer la n&amp;#x00E9;cessit&amp;#x00E9; et les modalit&amp;#x00E9;s de prioriser les missions de l&amp;#x2019;OFB et d&amp;#x2019;&amp;#x00E9;clairer le Parlement sur les choix op&amp;#x00E9;r&amp;#x00E9;s. Il s&amp;#x2019;agit de garantir une action publique coh&amp;#x00E9;rente, lisible, et adapt&amp;#x00E9;e aux r&amp;#x00E9;alit&amp;#x00E9;s de terrain, notamment en mati&amp;#x00E8;re de chasse, de p&amp;#x00EA;che ou de pr&amp;#x00E9;servation des milieux.&lt;br&gt;&amp;nbsp;&lt;br&gt;Le pr&amp;#x00E9;sent amendement s&amp;#x2019;inscrit dans le prolongement des travaux de la mission parlementaire de la commission du d&amp;#x00E9;veloppement durable et de l&amp;#x2019;am&amp;#x00E9;nagement du territoire sur la conciliation des usages de la nature et de la protection de la biodiversit&amp;#x00E9;, remise &amp;#x00E0; ladite commission en mars 2025. Il en reprend directement la proposition n&amp;#x00B0;&amp;#x202F;8, qui recommande de d&amp;#x00E9;ployer davantage le travail de l&amp;#x2019;Office fran&amp;#x00E7;ais de la biodiversit&amp;#x00E9; vers des missions de police de la chasse.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-04-24</dateDepot>        
+      <datePublication>2026-04-29</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>DI</code>                
+            <libelle>Discuté</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>DI</code>                
+            <libelle>Rejeté</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort>2026-04-30T00:04:09+02:00</dateSort>        
+      <sort>Rejeté</sort>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO419865B2632P0D1N000259?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference>        
+      <codeLoi>Zrapp</codeLoi>        
+      <divisionCodeLoi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </loiReference>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

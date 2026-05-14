@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO419865B2632P0D1N000032</uid>    
+   <chronotag>1777496882765</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>CD32</numeroLong>        
+      <numeroOrdreDepot>32</numeroOrdreDepot>        
+      <prefixeOrganeExamen>CION-DVP</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO419865B2632P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17B2632</texteLegislatifRef>    
+   <triAmendement>esaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaufwv</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA330909</acteurRef>            
+         <groupePolitiqueRef>PO845425</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA266793</acteurRef>            
+         <acteurRef>PA793094</acteurRef>            
+         <acteurRef>PA718850</acteurRef>            
+         <acteurRef>PA793508</acteurRef>            
+         <acteurRef>PA266808</acteurRef>            
+         <acteurRef>PA718838</acteurRef>            
+         <acteurRef>PA607090</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Descoeur,  M.&amp;#160;Bony, M.&amp;#160;Ray, M.&amp;#160;Cordier, M.&amp;#160;Brigand, M.&amp;#160;Rolland, M.&amp;#160;Fabrice&amp;#160;Brun et M.&amp;#160;Jean-Pierre&amp;#160;Vigier</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2632.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>                
+            <numero>5</numero>                
+            <alineaDesignation>Alinéa 5</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s le mot&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;compte&amp;nbsp;&amp;#x00BB;,&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;r&amp;#x00E9;diger ainsi la fin de l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;5&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;du seuil de viabilit&amp;#x00E9; de l&amp;#x2019;esp&amp;#x00E8;ce d&amp;#x00E9;finit par le plan national d&amp;#x2019;actions sur le loup conform&amp;#x00E9;ment aux articles L.&amp;nbsp;411&amp;#x2011;1, L.&amp;nbsp;411&amp;#x2011;2 et L.&amp;nbsp;411&amp;#x2011;3 du code de l&amp;#x2019;environnement.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Le pr&amp;#x00E9;sent amendement vise &amp;#x00E0; inscrire dans la loi la prise en compte du seuil de viabilit&amp;#x00E9; de l&amp;#x2019;esp&amp;#x00E8;ce d&amp;#x00E9;fini par le Plan National d&amp;#x2019;Actions sur le loup (PNA) dans le calcul du nombre de sp&amp;#x00E9;cimens pouvant &amp;#x00EA;tre pr&amp;#x00E9;lev&amp;#x00E9;s annuellement.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-04-23</dateDepot>        
+      <datePublication>2026-04-29</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>DI</code>                
+            <libelle>Discuté</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>DI</code>                
+            <libelle>Tombé</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort>2026-04-29T23:07:55+02:00</dateSort>        
+      <sort>Tombé</sort>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO419865B2632P0D1N000032?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique>        
+      <idDiscussion>89589</idDiscussion>        
+      <typePosition>Premier</typePosition>    
+   </discussionIdentique>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

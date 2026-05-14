@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO419865B2632P0D1N000247</uid>    
+   <chronotag>1777497993602</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>CD247</numeroLong>        
+      <numeroOrdreDepot>247</numeroOrdreDepot>        
+      <prefixeOrganeExamen>CION-DVP</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO419865B2632P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17B2632</texteLegislatifRef>    
+   <triAmendement>esaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaavtu</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA2952</acteurRef>            
+         <groupePolitiqueRef>PO845485</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Warsmann</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2632.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>Apres</avant_A_Apres>                
+            <numero>7</numero>                
+            <alineaDesignation>Après l'alinéa 7</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;7, ins&amp;#x00E9;rer les deux alin&amp;#x00E9;as suivant&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;I&amp;nbsp;&lt;i&gt;bis&lt;/i&gt;.&amp;nbsp;&amp;#x2013;&amp;nbsp;Apr&amp;#x00E8;s l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;424&amp;#x2011;4 du code de l&amp;#x2019;environnement, il est ins&amp;#x00E9;r&amp;#x00E9; un article&amp;nbsp;L.&amp;nbsp;424&amp;#x2011;4&amp;#x2011;1 ainsi r&amp;#x00E9;dig&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;&lt;i&gt;Art.&amp;nbsp;L.&amp;nbsp;424&amp;#x2011;4&amp;#x2011;1.&amp;nbsp;&lt;/i&gt;&amp;#x2013;&amp;nbsp;Pour le besoin de la d&amp;#x00E9;fense des troupeaux contre les attaques de loups, les &amp;#x00E9;leveurs exploitant &amp;#x00E0; titre individuel ou sous forme soci&amp;#x00E9;taire, groupement pastoraux, propri&amp;#x00E9;taires publics ou priv&amp;#x00E9;s d&amp;#x2019;une exploitation agricole d&amp;#x2019;&amp;#x00E9;levage mettant en valeur des surfaces p&amp;#x00E2;tur&amp;#x00E9;es, ainsi que leurs mandataires titulaires du permis de chasse et ayant suivi une formation participant aux op&amp;#x00E9;rations de tirs l&amp;#x00E9;taux et de captures des loups dans les conditions pr&amp;#x00E9;vues &amp;#x00E0; l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2&amp;#x2011;4 sont habilit&amp;#x00E9;s &amp;#x00E0; utiliser apr&amp;#x00E8;s qu&amp;#x2019;ils aient particip&amp;#x00E9; &amp;#x00E0; une op&amp;#x00E9;ration encadr&amp;#x00E9;e par un ou plusieurs lieutenants de louveterie, sur la commune ou les communes sur lesquelles cette op&amp;#x00E9;ration a eu lieu ainsi que sur le territoire des communes voisines, pour une dur&amp;#x00E9;e de 30 jours, des appareil monoculaires ou binoculaires thermiques.&amp;nbsp;&amp;#x00BB;&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Au fil de ces derniers mois, il est apparu que le pr&amp;#x00E9;l&amp;#x00E8;vement de loups est un exercice de plus en plus difficile, accessible uniquement &amp;#x00E0; des chasseurs form&amp;#x00E9;s et &amp;#x00E9;quip&amp;#x00E9;s.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Il est encore plus difficile dans les zones agricoles d&amp;#x2019;&amp;#x00E9;levage avec la pr&amp;#x00E9;sence de for&amp;#x00EA;ts, dans lesquelles la visibilit&amp;#x00E9; lointaine que permettent les pr&amp;#x00E9;l&amp;#x00E8;vements dans les zones d&amp;#x2019;alpages n&amp;#x2019;est pas permise. C&amp;#x2019;est le cas par exemple en Haute-Marne o&amp;#x00F9; la pr&amp;#x00E9;sence d&amp;#x2019;une brigade nationale sp&amp;#x00E9;cialis&amp;#x00E9;e n&amp;#x2019;a pas permis pendant plusieurs jours le moindre pr&amp;#x00E9;l&amp;#x00E8;vement du fait de la n&amp;#x00E9;cessit&amp;#x00E9; pour les chasseurs de s&amp;#x2019;approcher du loup et de la fuite de celui-ci apr&amp;#x00E8;s qu&amp;#x2019;il ait d&amp;#x00E9;tect&amp;#x00E9; le danger.&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Ce recours est extr&amp;#x00EA;mement encadr&amp;#x00E9;&amp;nbsp;: il ne concerne que des titulaires du permis de chasse ayant suivi une formation aux op&amp;#x00E9;rations de tirs l&amp;#x00E9;taux et de captures de loups.&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Aujourd&amp;#x2019;hui ceux-ci sont autoris&amp;#x00E9;s &amp;#x00E0; intervenir lorsqu&amp;#x2019;ils sont accompagn&amp;#x00E9;s de lieutenants de louveterie. Cet amendement leur donne la possibilit&amp;#x00E9;, &amp;#x00E0; partir du moment o&amp;#x00F9; ils ont particip&amp;#x00E9; &amp;#x00E0; au moins une op&amp;#x00E9;ration encadr&amp;#x00E9;e par les lieutenants de louveterie de poursuivre celle-ci sur un p&amp;#x00E9;rim&amp;#x00E8;tre limit&amp;#x00E9;, l&amp;#x00E0; o&amp;#x00F9; les communes o&amp;#x00F9; l&amp;#x2019;intervention encadr&amp;#x00E9;e par les lieutenants de louveterie a eu lieu et les communes imm&amp;#x00E9;diatement voisines, ce uniquement pour une dur&amp;#x00E9;e de 30 jours.&amp;nbsp;&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-04-24</dateDepot>        
+      <datePublication>2026-04-29</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>DI</code>                
+            <libelle>Discuté</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>DI</code>                
+            <libelle>Retiré</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort>2026-04-29T23:26:16+02:00</dateSort>        
+      <sort>Retiré</sort>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO419865B2632P0D1N000247?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference>        
+      <codeLoi>c environnement</codeLoi>        
+      <divisionCodeLoi>L424-4-1</divisionCodeLoi>    
+   </loiReference>    
+   <discussionCommune>        
+      <idDiscussion>37999</idDiscussion>        
+      <typePosition>Dernier</typePosition>    
+   </discussionCommune>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>
