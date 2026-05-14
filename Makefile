@@ -1,10 +1,4 @@
 PROJECT_NAME = analyse_an
-DEV_TAG = dev
-PROD_TAG = prod
-DEVCONTAINER_NAME = dev
-PRODCONTAINER_NAME = prod
-d = docker
-dc = docker compose
 pr = poetry run
 
 .DEFAULT_GOAL := help
@@ -17,10 +11,7 @@ init: ## Initialize the project
 
 ##@ Local development
 run: ## Run the application without Docker
-	$(pr) __main__.py
-
-test: ## Run the tests
-	$(pr) pytest -v
+	$(pr) poetry src/__main__.py
 
 lint: ## Run the linter
 	$(pr) ruff check --config=pyproject.toml --fix ./src/
@@ -31,48 +22,11 @@ format: ## Format the code
 typecheck: ## Run the type checker
 	$(pr) mypy --config-file=pyproject.toml --explicit-package-bases ./src/
 
-dev-logs: ## View development container logs
-	$(d) logs -f $(DEVCONTAINER_NAME)
-
-dev-exec: ## Execute a command in the development container
-	$(d) exec -it $(DEVCONTAINER_NAME) /bin/bash
-
-dev-bash: ## Start a bash session in the development container
-	$(d) run --rm -it --env-file .env.development $(PROJECT_NAME):$(DEV_TAG) /bin/bash
-
-dev-build: ## Build the development container
-	cp dev.dockerignore .dockerignore
-	$(dc) --env-file=.env.development build
-
-dev-up: ## Start the development container
-	$(dc) --env-file=.env.development up -d
-
-dev-stop: ## Stop the development container
-	$(dc) stop
-
-dev-down: ## Stop and remove the development container
-	$(dc) down
 
 clean: ## Clean up the project (cache)
 	find . -type d -name '__pycache__' -exec rm -rf {} +
 	rm -rf .mypy_cache .ruff_cache .pytest_cache
 
-##@ Production
-prod-build: ## Build the production Docker image
-	cp prod.dockerignore .dockerignore
-	$(d) build -t $(PROJECT_NAME):$(PROD_TAG) -f prod.Dockerfile .
-
-prod-run: ## Run the production Docker container
-	$(d) run -d --env-file .env.production --name $(PRODCONTAINER_NAME) $(PROJECT_NAME):$(PROD_TAG)
-
-prod-exec: ## Execute a command in the production container
-	$(d) exec -it $(PRODCONTAINER_NAME) /bin/bash
-
-prod-bash: ## Start a bash session in the production container
-	$(d) run --rm -it --entrypoint bash --env-file .env.production --name $(PRODCONTAINER_NAME) $(PROJECT_NAME):$(PROD_TAG)
-
-prod-logs: ## View production container logs
-	$(d) logs -f $(PRODCONTAINER_NAME)
 
 ##@ Git
 commit: ## Do commit with conventional commit message
