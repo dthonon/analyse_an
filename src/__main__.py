@@ -76,7 +76,9 @@ def read_csv_from_http(url: str) -> pd.DataFrame:
         # Lire le CSV depuis le contenu téléchargé
         csv_content = io.StringIO(response.content.decode("utf-8"))
         df = pd.read_csv(csv_content)
-        logger.info(f"CSV chargé avec succès: {len(df)} lignes, {len(df.columns)} colonnes")
+        logger.info(
+            f"CSV chargé avec succès: {len(df)} lignes, {len(df.columns)} colonnes"
+        )
         logger.debug(f"Colonnes: {list(df.columns)}")
 
         return df
@@ -87,6 +89,15 @@ def read_csv_from_http(url: str) -> pd.DataFrame:
     except pd.errors.ParserError as e:
         logger.error(f"Erreur lors du parsing du CSV: {e}")
         raise
+
+
+def filter_amendements_by_designation(df: pd.DataFrame) -> pd.DataFrame:
+    """Filtre les amendements relatifs à l'article 14 en vérifiant la colonne 'Désignation de l'article'."""
+    return df[
+        (df["Désignation de l'article"] == "Article 14")
+        | (df["Désignation de l'article"] == "Avant l'article 14")
+        | (df["Désignation de l'article"] == "Après l'article 14")
+    ].copy()
 
 
 def main() -> None:
@@ -112,7 +123,13 @@ def main() -> None:
         logger.error(f"Erreur lors du chargement des amendements: {e}")
         raise
 
-    print(df_amendements.head())
+    df_amendements = filter_amendements_by_designation(df_amendements)
+    logger.info(
+        f"Amendements filtrés par 'Désignation de l'article' : {len(df_amendements)} lignes restantes."
+    )
+    print(
+        df_amendements[["Désignation de l'article", "URL Amendement format XML"]].head()
+    )
 
 
 if __name__ == "__main__":
