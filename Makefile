@@ -1,4 +1,4 @@
-PROJECT_NAME = python-boilerplate
+PROJECT_NAME = analyse_an
 DEV_TAG = dev
 PROD_TAG = prod
 DEVCONTAINER_NAME = dev

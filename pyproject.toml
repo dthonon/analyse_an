@@ -1,9 +1,7 @@
 [project]
-name = "python-boilerplate"
-description = "A template for quickly starting new projects in python"
-authors = [
-    { name = "Yurii | monok8i 🦋", email = "didkivskiyyura725@gmail.com" },
-]
+name = "analyse-an"
+description = "Analyse des amendements au projet de loi d'urgence agricole"
+authors = [{ name = "Daniel Thonon", email = "d.thonon9@outlook.com" }]
 license = { text = "MIT" }
 readme = "README.md"
 requires-python = ">=3.12,<4.0"
@@ -65,13 +63,7 @@ convention = "google"
 # Settings for isort
 [tool.ruff.lint.isort]
 known-first-party = ["src"]
-section-order = [
-    "future",
-    "standard-library",
-    "third-party",
-    "first-party",
-    "local-folder",
-]
+section-order = ["future", "standard-library", "third-party", "first-party", "local-folder"]
 
 # Formatting options
 [tool.ruff.format]

@@ -1,7 +1,7 @@
-site_name: Python Boilerplate
+site_name: analyse_an
 
 theme:
   name: "material"
 
 plugins:
-- search
+  - search
