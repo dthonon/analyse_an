@@ -1,0 +1,32 @@
+repos:
+- repo: https://github.com/astral-sh/ruff-pre-commit
+  rev: v0.11.12
+  hooks:
+    # Run the linter.
+    - id: ruff-check
+      args: [ --config=pyproject.toml ]
+      files: ^src/
+
+    # Run the formatter.
+    - id: ruff-format
+      args: [ --config=pyproject.toml ]
+      files: ^src/
+
+- repo: https://github.com/pre-commit/mirrors-mypy
+  rev: v1.15.0
+  hooks:
+    # Run mypy type checking.
+    - id: mypy
+      args: [--config-file=pyproject.toml ]
+      files: ^src/
+
+- repo: local
+  hooks:
+    # Run pytest.
+    - id: pytest
+      name: pytest
+      entry: poetry run pytest
+      language: system
+      types: [python]
+      pass_filenames: false
+      args: [ -v ]

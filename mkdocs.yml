@@ -1,0 +1,7 @@
+site_name: Python Boilerplate
+
+theme:
+  name: "material"
+
+plugins:
+- search
