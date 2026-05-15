@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N001306</uid>    
+   <chronotag>1778859568852</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>1306</numeroLong>        
+      <numeroOrdreDepot>1306</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>goaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaoo</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA841381</acteurRef>            
+         <groupePolitiqueRef>PO845419</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA793270</acteurRef>            
+         <acteurRef>PA822617</acteurRef>            
+         <acteurRef>PA719938</acteurRef>            
+         <acteurRef>PA721270</acteurRef>            
+         <acteurRef>PA719930</acteurRef>            
+         <acteurRef>PA719412</acteurRef>            
+         <acteurRef>PA1654</acteurRef>            
+         <acteurRef>PA607553</acteurRef>            
+         <acteurRef>PA266793</acteurRef>            
+         <acteurRef>PA793624</acteurRef>            
+         <acteurRef>PA840673</acteurRef>            
+         <acteurRef>PA840665</acteurRef>            
+         <acteurRef>PA642764</acteurRef>            
+         <acteurRef>PA342415</acteurRef>            
+         <acteurRef>PA642847</acteurRef>            
+         <acteurRef>PA332228</acteurRef>            
+         <acteurRef>PA805166</acteurRef>            
+         <acteurRef>PA569</acteurRef>            
+         <acteurRef>PA719968</acteurRef>            
+         <acteurRef>PA721410</acteurRef>            
+         <acteurRef>PA642695</acteurRef>            
+         <acteurRef>PA719032</acteurRef>            
+         <acteurRef>PA841339</acteurRef>            
+         <acteurRef>PA794710</acteurRef>            
+         <acteurRef>PA719890</acteurRef>            
+         <acteurRef>PA718838</acteurRef>            
+         <acteurRef>PA722000</acteurRef>            
+         <acteurRef>PA794798</acteurRef>            
+         <acteurRef>PA719472</acteurRef>            
+         <acteurRef>PA841047</acteurRef>            
+         <acteurRef>PA719118</acteurRef>            
+         <acteurRef>PA794430</acteurRef>            
+         <acteurRef>PA793716</acteurRef>            
+         <acteurRef>PA722390</acteurRef>            
+         <acteurRef>PA793122</acteurRef>            
+         <acteurRef>PA794982</acteurRef>            
+         <acteurRef>PA606573</acteurRef>            
+         <acteurRef>PA720154</acteurRef>            
+         <acteurRef>PA841633</acteurRef>            
+         <acteurRef>PA794854</acteurRef>            
+         <acteurRef>PA794658</acteurRef>            
+         <acteurRef>PA841665</acteurRef>            
+         <acteurRef>PA722366</acteurRef>            
+         <acteurRef>PA331973</acteurRef>            
+         <acteurRef>PA720560</acteurRef>            
+         <acteurRef>PA1567</acteurRef>            
+         <acteurRef>PA841813</acteurRef>            
+         <acteurRef>PA722150</acteurRef>            
+         <acteurRef>PA267200</acteurRef>            
+         <acteurRef>PA720354</acteurRef>            
+         <acteurRef>PA643184</acteurRef>            
+         <acteurRef>PA720022</acteurRef>            
+         <acteurRef>PA795374</acteurRef>            
+         <acteurRef>PA227089</acteurRef>            
+         <acteurRef>PA720342</acteurRef>            
+         <acteurRef>PA642725</acteurRef>            
+         <acteurRef>PA794702</acteurRef>            
+         <acteurRef>PA719080</acteurRef>            
+         <acteurRef>PA842271</acteurRef>            
+         <acteurRef>PA794206</acteurRef>            
+         <acteurRef>PA720146</acteurRef>            
+         <acteurRef>PA720728</acteurRef>            
+         <acteurRef>PA607619</acteurRef>            
+         <acteurRef>PA842147</acteurRef>            
+         <acteurRef>PA721486</acteurRef>            
+         <acteurRef>PA841107</acteurRef>            
+         <acteurRef>PA794830</acteurRef>            
+         <acteurRef>PA795124</acteurRef>            
+         <acteurRef>PA608172</acteurRef>            
+         <acteurRef>PA841367</acteurRef>            
+         <acteurRef>PA720092</acteurRef>            
+         <acteurRef>PA793094</acteurRef>            
+         <acteurRef>PA721426</acteurRef>            
+         <acteurRef>PA841927</acteurRef>            
+         <acteurRef>PA342196</acteurRef>            
+         <acteurRef>PA774960</acteurRef>            
+         <acteurRef>PA340343</acteurRef>            
+         <acteurRef>PA720190</acteurRef>            
+         <acteurRef>PA794178</acteurRef>            
+         <acteurRef>PA793796</acteurRef>            
+         <acteurRef>PA721584</acteurRef>            
+         <acteurRef>PA841893</acteurRef>            
+         <acteurRef>PA793816</acteurRef>            
+         <acteurRef>PA607395</acteurRef>            
+         <acteurRef>PA794118</acteurRef>            
+         <acteurRef>PA722102</acteurRef>            
+         <acteurRef>PA607090</acteurRef>            
+         <acteurRef>PA331582</acteurRef>            
+         <acteurRef>PA721474</acteurRef>            
+         <acteurRef>PA793194</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> Mme&amp;#160;Pantel,  M.&amp;#160;Rousset, Mme&amp;#160;Froger, M.&amp;#160;Fesneau, M.&amp;#160;Peu, M.&amp;#160;Vallaud, Mme&amp;#160;Le&amp;#160;Feur, M.&amp;#160;Hollande, M.&amp;#160;Potier, M.&amp;#160;Bony, M.&amp;#160;Philippe&amp;#160;Brun, Mme&amp;#160;Rossi, Mme&amp;#160;Allemand, M.&amp;#160;Aviragnet, Mme&amp;#160;Battistel, M.&amp;#160;Bazin, M.&amp;#160;Benoit, Mme&amp;#160;Bergantz, M.&amp;#160;Bonnecarr&amp;#232;re, Mme&amp;#160;Sylvie&amp;#160;Bonnet, Mme&amp;#160;Bonnivard, M.&amp;#160;Bothorel, M.&amp;#160;Bouyx, M.&amp;#160;Brard, M.&amp;#160;Brugerolles, Mme&amp;#160;Brulebois, M.&amp;#160;Fabrice&amp;#160;Brun, M.&amp;#160;Buchou, Mme&amp;#160;Buffet, M.&amp;#160;Jean-Ren&amp;#233;&amp;#160;Cazeneuve, M.&amp;#160;Ceccoli, M.&amp;#160;Cormier-Bouligeon, M.&amp;#160;Criaud, M.&amp;#160;Croizier, Mme&amp;#160;Corneloup, M.&amp;#160;Daubi&amp;#233;, Mme&amp;#160;Delpech, Mme&amp;#160;Dombre&amp;#160;Coste, Mme&amp;#160;Dubr&amp;#233;-Chirat, M.&amp;#160;Dufau, M.&amp;#160;Echaniz, M.&amp;#160;Fait, M.&amp;#160;F&amp;#233;gn&amp;#233;, M.&amp;#160;Fugit, Mme&amp;#160;Got, Mme&amp;#160;Perrine&amp;#160;Goulet, M.&amp;#160;Guedj, Mme&amp;#160;Herouin-L&amp;#233;autey, M.&amp;#160;Houli&amp;#233;, M.&amp;#160;Huyghe, M.&amp;#160;Jacques, Mme&amp;#160;Klinkert, M.&amp;#160;Lauzzana, M.&amp;#160;Lecamp, Mme&amp;#160;L&amp;#233;tard, Mme&amp;#160;Le&amp;#160;Peih, M.&amp;#160;Li&amp;#233;geon, Mme&amp;#160;Lingemann, Mme&amp;#160;Marsaud, M.&amp;#160;Maurel, M.&amp;#160;Marion, M.&amp;#160;Mass&amp;#233;glia, M.&amp;#160;Mattei, M.&amp;#160;Molac, M.&amp;#160;Mongardien, M.&amp;#160;Naegelen, M.&amp;#160;Oberti, M.&amp;#160;Ott, M.&amp;#160;Padey, Mme&amp;#160;Pir&amp;#232;s&amp;#160;Beaune, M.&amp;#160;Proen&amp;#231;a, M.&amp;#160;Ramos, M.&amp;#160;Ray, Mme&amp;#160;Riotton, Mme&amp;#160;Ronceret, Mme&amp;#160;Rouaux, Mme&amp;#160;Santiago, M.&amp;#160;Saulignac, M.&amp;#160;Sorre, M.&amp;#160;Taite, M.&amp;#160;Taupiac, M.&amp;#160;Terlier, Mme&amp;#160;Thi&amp;#233;bault-Martinez, Mme&amp;#160;Thomin, M.&amp;#160;Travert, M.&amp;#160;Vermorel-Marques, Mme&amp;#160;Vidal, M.&amp;#160;Jean-Pierre&amp;#160;Vigier, M.&amp;#160;Philippe&amp;#160;Vigier, M.&amp;#160;Viry et M.&amp;#160;Vuibert</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>APRÈS ART. 14</articleDesignationCourte>            
+         <articleDesignation>APRÈS L'ARTICLE 14, insérer l'article suivant:</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>Après</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>true</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité</cartoucheInformatif>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;427&amp;#x2011;2&amp;#x2011;6 du code de l&amp;#x2019;environnement, il est ins&amp;#x00E9;r&amp;#x00E9; un article&amp;nbsp;L.&amp;nbsp;427&amp;#x2011;2&amp;#x2011;7 ainsi r&amp;#x00E9;dig&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;&lt;i&gt;Art. L. 427-2-7&lt;/i&gt;.&amp;nbsp;&amp;#x2013;&amp;nbsp;L&amp;#x2019;&amp;#x00C9;tat organise, dans le cadre de ses moyens, les conditions d&amp;#x2019;accompagnement des missions exerc&amp;#x00E9;es par les lieutenants de louveterie.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Cet accompagnement peut donner lieu, chaque ann&amp;#x00E9;e, &amp;#x00E0; l&amp;#x2019;attribution de moyens ou de dotations appr&amp;#x00E9;ci&amp;#x00E9;s au niveau territorial.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Les modalit&amp;#x00E9;s d&amp;#x2019;application du pr&amp;#x00E9;sent article sont fix&amp;#x00E9;es par voie r&amp;#x00E9;glementaire.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Le pr&amp;#x00E9;sent amendement vise &amp;#x00E0; inscrire dans le code de l&amp;#x2019;environnement un cadre permettant &amp;#x00E0; l&amp;#x2019;&amp;#x00C9;tat d&amp;#x2019;accompagner, dans la limite de ses moyens, l&amp;#x2019;exercice des missions confi&amp;#x00E9;es aux lieutenants de louveterie.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Les lieutenants de louveterie exercent, &amp;#x00E0; titre b&amp;#x00E9;n&amp;#x00E9;vole, des missions concourant &amp;#x00E0; la mise en &amp;#x0153;uvre des politiques publiques relatives &amp;#x00E0; la gestion de la faune sauvage et &amp;#x00E0; la pr&amp;#x00E9;vention des dommages. L&amp;#x2019;exercice de ces missions implique toutefois la mobilisation de mat&amp;#x00E9;riels et d&amp;#x2019;&amp;#x00E9;quipements adapt&amp;#x00E9;s, dont les besoins peuvent varier selon les territoires et les situations locales.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Dans ce contexte, le pr&amp;#x00E9;sent dispositif a pour objet de permettre l&amp;#x2019;attribution de moyens ou de dotations appr&amp;#x00E9;ci&amp;#x00E9;s au niveau territorial, afin de favoriser une organisation plus homog&amp;#x00E8;ne et plus lisible de l&amp;#x2019;accompagnement apport&amp;#x00E9; par l&amp;#x2019;&amp;#x00C9;tat. Cette facult&amp;#x00E9; pourra notamment s&amp;#x2019;appuyer sur des structures associatives d&amp;#x00E9;partementales lorsque cela appara&amp;#x00EE;t pertinent au regard des besoins locaux et des modalit&amp;#x00E9;s d&amp;#x2019;organisation retenues par les services de l&amp;#x2019;&amp;#x00C9;tat.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Le dispositif propos&amp;#x00E9; pr&amp;#x00E9;serve pleinement le caract&amp;#x00E8;re b&amp;#x00E9;n&amp;#x00E9;vole des fonctions exerc&amp;#x00E9;es par les lieutenants de louveterie. Il vise uniquement &amp;#x00E0; donner &amp;#x00E0; l&amp;#x2019;&amp;#x00C9;tat un cadre lui permettant d&amp;#x2019;adapter son soutien mat&amp;#x00E9;riel aux r&amp;#x00E9;alit&amp;#x00E9;s territoriales, dans une logique de bonne administration et de continuit&amp;#x00E9; des missions exerc&amp;#x00E9;es sur le terrain.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Les modalit&amp;#x00E9;s d&amp;#x2019;application de ce dispositif rel&amp;#x00E8;veront du pouvoir r&amp;#x00E9;glementaire.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-15</dateDepot>        
+      <datePublication>2026-05-15</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>ET</code>                
+            <libelle>En traitement</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N001306?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference>        
+      <codeLoi>c environnement</codeLoi>        
+      <divisionCodeLoi>L427-2-7</divisionCodeLoi>    
+   </loiReference>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

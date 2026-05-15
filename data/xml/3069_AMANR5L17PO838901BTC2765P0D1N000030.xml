@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N000030</uid>    
+   <chronotag>1778857339186</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>30</numeroLong>        
+      <numeroOrdreDepot>30</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>goaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA774954</acteurRef>            
+         <groupePolitiqueRef>PO845425</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA722390</acteurRef>            
+         <acteurRef>PA608416</acteurRef>            
+         <acteurRef>PA842121</acteurRef>            
+         <acteurRef>PA794994</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> Mme&amp;#160;Blin,  Mme&amp;#160;Corneloup, M.&amp;#160;Hetzel, M.&amp;#160;Tryzna et M.&amp;#160;Portier</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>APRÈS ART. 14</articleDesignationCourte>            
+         <articleDesignation>APRÈS L'ARTICLE 14, insérer l'article suivant:</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>Après</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>true</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité</cartoucheInformatif>        
+      <contenuAuteur>            
+         <dispositif>&lt;p&gt;L'article&amp;nbsp;L.&amp;nbsp;424&amp;#x2011;10 du code de l&amp;#x2019;environnement est compl&amp;#x00E9;t&amp;#x00E9; par un alin&amp;#x00E9;a ainsi r&amp;#x00E9;dig&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p&gt;&amp;#x00AB;&amp;nbsp;D&amp;#x00E9;rogeant aux interdictions pr&amp;#x00E9;vues au premier alin&amp;#x00E9;a, en cas de destruction importante des r&amp;#x00E9;coltes, des semis ou des lev&amp;#x00E9;es au sein des cultures, il est autoris&amp;#x00E9; de&amp;nbsp;mettre fin &amp;#x00E0; la prolif&amp;#x00E9;ration des esp&amp;#x00E8;ces en &amp;#x00E9;radiquant&amp;nbsp;les nids et les &amp;#x0153;ufs dans une zone g&amp;#x00E9;ographique sp&amp;#x00E9;cifique.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p&gt;Les d&amp;#x00E9;g&amp;#x00E2;ts des oiseaux sur les cultures sont bien document&amp;#x00E9;s et av&amp;#x00E9;r&amp;#x00E9;s. A ce titre, les d&amp;#x00E9;g&amp;#x00E2;ts des corbeaux, seuls, conduiraient &amp;#x00E0; des pertes moyennes de 10% de rendement dans les parcelles de ma&amp;#x00EF;s ou de c&amp;#x00E9;r&amp;#x00E9;ales &amp;#x00E0; paille attaqu&amp;#x00E9;es.&lt;/p&gt;&lt;p&gt;Or, dans un contexte de reconqu&amp;#x00EA;te de souverainet&amp;#x00E9; alimentaire et semenci&amp;#x00E8;re, d&amp;#x2019;une r&amp;#x00E9;duction aux importations et d&amp;#x2019;une valorisation de l&amp;#x2019;agriculture locale, nos agriculteurs peinent &amp;#x00E0; faire face &amp;#x00E0; ces attaques.&lt;/p&gt;&lt;p&gt;Peu de solutions existent, notamment en raison de moyens de lutte assez restreints et dont l&amp;#x2019;utilisation n&amp;#x2019;est pas pleinement efficace. Afin de v&amp;#x00E9;ritablement donner les outils &amp;#x00E0; nos agriculteurs pour combattre efficacement la destruction de leurs cultures, il convient de leur permettre l'&amp;#x00E9;radication des esp&amp;#x00E8;ces nuisibles.&lt;/p&gt;&lt;p&gt;Cet amendement, &amp;#x00E9;quilibr&amp;#x00E9;, prend&amp;nbsp;en compte les r&amp;#x00E9;alit&amp;#x00E9;s sp&amp;#x00E9;cifiques aux territoires, en limitant g&amp;#x00E9;ographiquement cette d&amp;#x00E9;rogation.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-11</dateDepot>        
+      <datePublication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <soumisArticle40>true</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>ET</code>                
+            <libelle>En traitement</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N000030?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference>        
+      <codeLoi>c environnement</codeLoi>        
+      <divisionCodeLoi>L424-10</divisionCodeLoi>    
+   </loiReference>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

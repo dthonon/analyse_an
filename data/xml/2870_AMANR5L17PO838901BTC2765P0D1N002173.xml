@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N002173</uid>    
+   <chronotag>1778866200351</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>2173</numeroLong>        
+      <numeroOrdreDepot>2173</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>goaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazw</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA793520</acteurRef>            
+         <groupePolitiqueRef>PO845454</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA719558</acteurRef>            
+         <acteurRef>PA720256</acteurRef>            
+         <acteurRef>PA805166</acteurRef>            
+         <acteurRef>PA719024</acteurRef>            
+         <acteurRef>PA721336</acteurRef>            
+         <acteurRef>PA793716</acteurRef>            
+         <acteurRef>PA719914</acteurRef>            
+         <acteurRef>PA793122</acteurRef>            
+         <acteurRef>PA719938</acteurRef>            
+         <acteurRef>PA722284</acteurRef>            
+         <acteurRef>PA793556</acteurRef>            
+         <acteurRef>PA720560</acteurRef>            
+         <acteurRef>PA267318</acteurRef>            
+         <acteurRef>PA721612</acteurRef>            
+         <acteurRef>PA795258</acteurRef>            
+         <acteurRef>PA722374</acteurRef>            
+         <acteurRef>PA720038</acteurRef>            
+         <acteurRef>PA721984</acteurRef>            
+         <acteurRef>PA795374</acteurRef>            
+         <acteurRef>PA794702</acteurRef>            
+         <acteurRef>PA794114</acteurRef>            
+         <acteurRef>PA795100</acteurRef>            
+         <acteurRef>PA720728</acteurRef>            
+         <acteurRef>PA794262</acteurRef>            
+         <acteurRef>PA719640</acteurRef>            
+         <acteurRef>PA794810</acteurRef>            
+         <acteurRef>PA794830</acteurRef>            
+         <acteurRef>PA795124</acteurRef>            
+         <acteurRef>PA720334</acteurRef>            
+         <acteurRef>PA721182</acteurRef>            
+         <acteurRef>PA721234</acteurRef>            
+         <acteurRef>PA720720</acteurRef>            
+         <acteurRef>PA720092</acteurRef>            
+         <acteurRef>PA719822</acteurRef>            
+         <acteurRef>PA722162</acteurRef>            
+         <acteurRef>PA331582</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Cosson,  M.&amp;#160;Balanant, Mme&amp;#160;Bannier, Mme&amp;#160;Bergantz, M.&amp;#160;Blanchet, Mme&amp;#160;Brocard, M.&amp;#160;Croizier, Mme&amp;#160;Darrieussecq, M.&amp;#160;Daubi&amp;#233;, M.&amp;#160;Fesneau, M.&amp;#160;Fuchs, Mme&amp;#160;Gervais, Mme&amp;#160;Perrine&amp;#160;Goulet, M.&amp;#160;Grelier, Mme&amp;#160;Guillerm, M.&amp;#160;Gumbs, M.&amp;#160;Isaac-Sibille, Mme&amp;#160;Josso, M.&amp;#160;Latombe, M.&amp;#160;Lecamp, Mme&amp;#160;Lingemann, M.&amp;#160;Mandon, M.&amp;#160;Martineau, M.&amp;#160;Mattei, Mme&amp;#160;Maussion, Mme&amp;#160;Mette, Mme&amp;#160;Morel, M.&amp;#160;Ott, M.&amp;#160;Padey, M.&amp;#160;Pahun, M.&amp;#160;Fr&amp;#233;d&amp;#233;ric&amp;#160;Petit, Mme&amp;#160;Maud&amp;#160;Petit, Mme&amp;#160;Poueyto, M.&amp;#160;Ramos, Mme&amp;#160;Thillaye, M.&amp;#160;Turquois et M.&amp;#160;Philippe&amp;#160;Vigier</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>APRÈS ART. 14</articleDesignationCourte>            
+         <articleDesignation>APRÈS L'ARTICLE 14, insérer l'article suivant:</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>Après</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>true</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité</cartoucheInformatif>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;I.&amp;nbsp;&amp;#x2013;&amp;nbsp;La section 2 chapitre I&lt;sup&gt;er&lt;/sup&gt; du titre I&lt;sup&gt;er&lt;/sup&gt; du livre IV du code de l&amp;#x2019;environnement est compl&amp;#x00E9;t&amp;#x00E9;e par une sous-section 4 ainsi r&amp;#x00E9;dig&amp;#x00E9;e&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;&lt;i&gt;Sous-section 4&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;&lt;i&gt;&lt;b&gt;Coexistence de la pr&amp;#x00E9;sence de grands pr&amp;#x00E9;dateurs avec l&amp;#x2019;activit&amp;#x00E9; de pastoralisme&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;&lt;i&gt;Art.&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;11&lt;/i&gt;.&amp;nbsp;&amp;#x2013;&amp;nbsp;En cas de dommages caus&amp;#x00E9;s aux animaux d&amp;#x2019;&amp;#x00E9;levage ou aux ruchers qui pourraient &amp;#x00EA;tre dus &amp;#x00E0; une attaque de loup, d&amp;#x2019;ours ou de lynx, les personnes physiques ou morales exer&amp;#x00E7;ant une activit&amp;#x00E9; agricole au sens de l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;311&amp;#x2011;1 du code rural et de la p&amp;#x00EA;che maritime peuvent demander l&amp;#x2019;indemnisation des dommages li&amp;#x00E9;s &amp;#x00E0; cette attaque. Ces dommages comportent les dommages directs, tels que les animaux morts ou bless&amp;#x00E9;s, mais &amp;#x00E9;galement les dommages indirects, tels que les pertes de production, induites par cette attaque.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Un d&amp;#x00E9;cret pr&amp;#x00E9;cise les modalit&amp;#x00E9;s d&amp;#x2019;application du pr&amp;#x00E9;sent article.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;II.&amp;nbsp;&amp;#x2013;&amp;nbsp;La perte de recettes pour l&amp;#x2019;&amp;#x00C9;tat est compens&amp;#x00E9;e &amp;#x00E0; due concurrence par la cr&amp;#x00E9;ation d&amp;#x2019;une taxe additionnelle &amp;#x00E0; l&amp;#x2019;accise sur les tabacs pr&amp;#x00E9;vue au chapitre IV du titre I&lt;sup&gt;er&lt;/sup&gt; du livre III du code des impositions sur les biens et services.&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Si les dispositifs actuels permettent l&amp;#x2019;indemnisation des pertes directes cons&amp;#x00E9;cutives aux attaques de loups, ils ne prennent qu&amp;#x2019;imparfaitement en compte les dommages indirects, pourtant largement document&amp;#x00E9;s par les acteurs de terrain mais aussi et surtout par les expertises scientifiques. C&amp;#x2019;est &amp;#x00E9;galement le cas en cas d&amp;#x2019;attaque d&amp;#x2019;ours ou de lynx.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Ces pr&amp;#x00E9;judices, par leur caract&amp;#x00E8;re diffus mais cumulatif, affectent durablement la viabilit&amp;#x00E9; &amp;#x00E9;conomique et l&amp;#x2019;organisation du travail des exploitations concern&amp;#x00E9;es, en particulier dans les zones de pr&amp;#x00E9;dation av&amp;#x00E9;r&amp;#x00E9;e.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Le pr&amp;#x00E9;sent amendement port&amp;#x00E9; par le groupe Les D&amp;#x00E9;mocrates vise ainsi &amp;#x00E0; reconna&amp;#x00EE;tre explicitement ces dommages indirects (pertes de production, etc.) induits par l&amp;#x2019;attaque, et &amp;#x00E0; en permettre l&amp;#x2019;indemnisation, aux c&amp;#x00F4;t&amp;#x00E9;s de celle pr&amp;#x00E9;vue pour les dommages directs.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Ce faisant, il contribue &amp;#x00E0; un &amp;#x00E9;quilibre entre les imp&amp;#x00E9;ratifs de pr&amp;#x00E9;servation de la biodiversit&amp;#x00E9;&amp;nbsp;&amp;#x2013;&amp;nbsp;&amp;#x00E0; laquelle concourt d&amp;#x2019;ailleurs l&amp;#x2019;&amp;#x00E9;levage et le pastoralisme&amp;nbsp;&amp;#x2013;&amp;nbsp;et de souverainet&amp;#x00E9; alimentaire.&amp;nbsp;&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-15</dateDepot>        
+      <datePublication>2026-05-15</datePublication>        
+      <soumisArticle40>true</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>ET</code>                
+            <libelle>En traitement</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N002173?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>
