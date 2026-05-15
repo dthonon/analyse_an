@@ -4,11 +4,13 @@ import io
 import logging
 import logging.handlers
 import sys
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 import click
 import pandas as pd
 import requests
+from bs4 import BeautifulSoup
 
 # Configuration du logging
 LOG_DIR = Path(__file__).parent.parent.parent / "logs"
@@ -194,7 +196,12 @@ def download_xml(
     # Supprimer la colonne 'URL Dossier législatif' si elle existe
     if "URL Dossier législatif" in df_amendements.columns:
         df_amendements = df_amendements.drop(
-            columns=["URL Dossier législatif", "URL Texte référence"]
+            columns=[
+                "Titre court",
+                "Titre complet",
+                "URL Dossier législatif",
+                "URL Texte référence",
+            ]
         )
         logger.debug("Colonnes supprimées du DataFrame")
     if csv_dir:
@@ -207,6 +214,109 @@ def download_xml(
     logger.info(
         f"Téléchargement terminé: {len(xml_paths)} fichiers XML enregistrés dans {xml_dir}"
     )
+
+
+@main.command(
+    name="analyse-xml",
+    help="Analyse des fichiers XML pour extraire les informations.",
+)
+@click.option(
+    "--xml-dir",
+    type=click.Path(path_type=Path, file_okay=False, resolve_path=True),
+    default=XML_DIR,
+    show_default=True,
+    help="Répertoire contenant les fichiers XML à analyser.",
+)
+@click.option(
+    "--csv-dir",
+    type=click.Path(path_type=Path, file_okay=False, resolve_path=True),
+    default=CSV_DIR,
+    show_default=True,
+    help="Répertoire contenant le fichier CSV des amendements.",
+)
+def analyse_xml(xml_dir: Path, csv_dir: Path | None) -> None:
+    """Recherche des textes dans les fichiers XML."""
+
+    configure_logging()
+    logger = logging.getLogger(__name__)
+
+    xml_dir = Path(xml_dir)
+    logger.info(f"Démarrage de l'analyse XML dans {xml_dir}")
+
+    if not xml_dir.exists() or not xml_dir.is_dir():
+        logger.error(f"Le répertoire {xml_dir} n'existe pas ou n'est pas un dossier")
+        raise click.Abort()
+
+    files = sorted(xml_dir.glob("*.xml"))
+    if not files:
+        logger.warning(f"Aucun fichier XML trouvé dans {xml_dir}")
+        return None
+
+    amend = pd.DataFrame(
+        columns=["Numéro de l'amendement", "Dispositif", "Exposé sommaire"]
+    )
+    for f in files:
+        try:
+            num = None
+            disp = None
+            expo = None
+            tree = ET.parse(f)
+            for c in list(tree.getroot().iter()):
+                if (
+                    c.tag
+                    == "{http://schemas.assemblee-nationale.fr/referentiel}numeroLong"
+                ):
+                    num = BeautifulSoup(str(c.text), "html.parser").get_text()
+                    logger.debug(f"Tag 'numeroLong' : {num}")
+                if (
+                    c.tag
+                    == "{http://schemas.assemblee-nationale.fr/referentiel}dispositif"
+                ):
+                    disp = BeautifulSoup(str(c.text), "html.parser").get_text()
+                    logger.debug(f"Tag 'dispositif' : {disp}")
+                if (
+                    c.tag
+                    == "{http://schemas.assemblee-nationale.fr/referentiel}exposeSommaire"
+                ):
+                    expo = BeautifulSoup(str(c.text), "html.parser").get_text()
+                    logger.debug(f"Tag 'exposeSommaire' : {expo}")
+            amend = pd.concat(
+                [
+                    amend,
+                    pd.DataFrame(
+                        [
+                            {
+                                "Numéro de l'amendement": num,
+                                "Dispositif": disp,
+                                "Exposé sommaire": expo,
+                            }
+                        ]
+                    ),
+                ],
+                ignore_index=True,
+            )
+        except ET.ParseError as e:
+            logger.error(f"Erreur de parsing pour {f}: {e}")
+
+    if csv_dir:
+        csv_dir.mkdir(parents=True, exist_ok=True)
+        csv_file = csv_dir / "amendements_filtrés.csv"
+        amend1 = pd.read_csv(csv_file) if csv_file.exists() else pd.DataFrame()
+        logger.info(
+            f"Amendements chargés : {amend1.shape[0]} lignes, {amend1.shape[1]} colonnes"
+        )
+        logger.info(
+            f"Amendements complets : {amend.shape[0]} lignes, {amend.shape[1]} colonnes"
+        )
+        amend = pd.merge(amend1, amend, how="inner", on="Numéro de l'amendement")
+        logger.info(
+            f"Amendements fusionnés : {amend.shape[0]} lignes, {amend.shape[1]} colonnes"
+        )  # amend.to_csv(csv_file, index=False, encoding="utf-8")
+        # logger.info(f"Amendements extraits sauvegardés dans {csv_file}")
+    else:
+        logger.info("Aucun chemin de sauvegarde CSV fourni, résultats non sauvegardés.")
+
+    return None
 
 
 if __name__ == "__main__":
