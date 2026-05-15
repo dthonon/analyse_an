@@ -11,9 +11,10 @@ import pandas as pd
 import requests
 
 # Configuration du logging
-LOG_DIR = Path(__file__).parent.parent / "logs"
+LOG_DIR = Path(__file__).parent.parent.parent / "logs"
 LOG_FILE = LOG_DIR / "analyse_an.log"
-XML_DIR = Path(__file__).parent.parent / "data" / "xml"
+CSV_DIR = Path(__file__).parent.parent.parent / "data" / "csv"
+XML_DIR = Path(__file__).parent.parent.parent / "data" / "xml"
 XML_URL_COLUMN = "URL Amendement format XML"
 
 
@@ -116,21 +117,32 @@ def download_xml_amendements(df: pd.DataFrame, dest_dir: Path) -> list[Path]:
         filename = Path(url).name
         filename = f"{idx:04d}_{filename}" if filename else f"amendement_{idx}.xml"
         target_path = dest_dir / filename
-
-        logger.debug(f"Téléchargement XML {idx} depuis {url}")
-        try:
-            response = requests.get(url, timeout=30)
-            response.raise_for_status()
-            target_path.write_bytes(response.content)
+        if target_path.exists():
+            logger.info(f"Fichier déjà existant, saut du téléchargement: {target_path}")
             xml_paths.append(target_path)
-            logger.info(f"Enregistré {target_path}")
-        except requests.RequestException as e:
-            logger.error(f"Erreur lors du téléchargement du XML {url}: {e}")
+            continue
+        else:
+            logger.debug(f"Téléchargement XML {idx} depuis {url}")
+            try:
+                response = requests.get(url, timeout=30)
+                response.raise_for_status()
+                target_path.write_bytes(response.content)
+                xml_paths.append(target_path)
+                logger.info(f"Enregistré {target_path}")
+            except requests.RequestException as e:
+                logger.error(f"Erreur lors du téléchargement du XML {url}: {e}")
 
     return xml_paths
 
 
-@click.command(
+@click.group()
+def main() -> None:
+    """Application d'analyse des amendements de l'Assemblée Nationale."""
+    pass
+    return None
+
+
+@main.command(
     name="download-xml",
     help="Télécharge les fichiers XML listés dans le CSV des amendements.",
 )
@@ -141,14 +153,26 @@ def download_xml_amendements(df: pd.DataFrame, dest_dir: Path) -> list[Path]:
     help="URL du fichier CSV des amendements.",
 )
 @click.option(
+    "--csv-dir",
+    type=click.Path(path_type=Path, file_okay=False, resolve_path=True),
+    default=CSV_DIR,
+    show_default=True,
+    help="Répertoire contenant le fichier CSV des amendements.",
+)
+@click.option(
     "--xml-dir",
     type=click.Path(path_type=Path, file_okay=False, resolve_path=True),
     default=XML_DIR,
     show_default=True,
     help="Répertoire de destination pour les fichiers XML téléchargés.",
 )
-def main(csv_url: str, xml_dir: Path) -> None:
+def download_xml(
+    csv_url: str,
+    csv_dir: Path,
+    xml_dir: Path,
+) -> None:
     """Télécharge les fichiers XML listés dans le CSV fourni."""
+
     configure_logging()
     logger = logging.getLogger(__name__)
 
@@ -166,7 +190,18 @@ def main(csv_url: str, xml_dir: Path) -> None:
     logger.info(
         f"Amendements filtrés par 'Désignation de l'article' : {len(df_amendements)} lignes restantes."
     )
-    print(df_amendements[["Désignation de l'article", XML_URL_COLUMN]].head())
+
+    # Supprimer la colonne 'URL Dossier législatif' si elle existe
+    if "URL Dossier législatif" in df_amendements.columns:
+        df_amendements = df_amendements.drop(
+            columns=["URL Dossier législatif", "URL Texte référence"]
+        )
+        logger.debug("Colonnes supprimées du DataFrame")
+    if csv_dir:
+        csv_dir.mkdir(parents=True, exist_ok=True)
+        csv_file = csv_dir / "amendements_filtrés.csv"
+        df_amendements.to_csv(csv_file, index=False, encoding="utf-8")
+        logger.info(f"Amendements filtrés sauvegardés dans {csv_file}")
 
     xml_paths = download_xml_amendements(df_amendements, xml_dir)
     logger.info(
