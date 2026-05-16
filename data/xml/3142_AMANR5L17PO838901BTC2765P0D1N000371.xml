@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N000371</uid>    
+   <chronotag>1778857479983</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>371</numeroLong>        
+      <numeroOrdreDepot>371</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>giaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaik</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA722390</acteurRef>            
+         <groupePolitiqueRef>PO845425</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA718884</acteurRef>            
+         <acteurRef>PA793094</acteurRef>            
+         <acteurRef>PA794058</acteurRef>            
+         <acteurRef>PA842121</acteurRef>            
+         <acteurRef>PA774954</acteurRef>            
+         <acteurRef>PA642725</acteurRef>            
+         <acteurRef>PA719968</acteurRef>            
+         <acteurRef>PA718850</acteurRef>            
+         <acteurRef>PA608416</acteurRef>            
+         <acteurRef>PA721816</acteurRef>            
+         <acteurRef>PA721410</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> Mme&amp;#160;Corneloup,  Mme&amp;#160;Bazin-Malgras, M.&amp;#160;Ray, Mme&amp;#160;Gruet, M.&amp;#160;Tryzna, Mme&amp;#160;Blin, M.&amp;#160;Li&amp;#233;geon, Mme&amp;#160;Sylvie&amp;#160;Bonnet, M.&amp;#160;Cordier, M.&amp;#160;Hetzel, M.&amp;#160;Boucard et Mme&amp;#160;Bonnivard</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>Apres</avant_A_Apres>                
+            <numero>4</numero>                
+            <alineaDesignation>Après l'alinéa 4</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité</cartoucheInformatif>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s l'alin&amp;#x00E9;a 4, ins&amp;#x00E9;rer l'alin&amp;#x00E9;a suivant :&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB; L&amp;#x2019;arr&amp;#x00EA;t&amp;#x00E9; mentionn&amp;#x00E9; &amp;#x00E0; l&amp;#x2019;alin&amp;#x00E9;a pr&amp;#x00E9;c&amp;#x00E9;dent pr&amp;#x00E9;cise que la pr&amp;#x00E9;sence d&amp;#x2019;une haie v&amp;#x00E9;g&amp;#x00E9;tale doubl&amp;#x00E9;e d&amp;#x2019;un grillage fixe constitue un moyen de protection effectif des troupeaux, pris en compte au titre des crit&amp;#x00E8;res d'&amp;#x00E9;ligibilit&amp;#x00E9; aux dispositifs d&amp;#x2019;indemnisation des dommages caus&amp;#x00E9;s par la pr&amp;#x00E9;dation. &amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Le pr&amp;#x00E9;sent amendement vise &amp;#x00E0; reconna&amp;#x00EE;tre les infrastructures existantes dans nos territoires d'&amp;#x00E9;levage comme des moyens de protection valables contre la pr&amp;#x00E9;dation.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Pour b&amp;#x00E9;n&amp;#x00E9;ficier d'une indemnisation en cas d'attaque de loup, les &amp;#x00E9;leveurs ovins doivent justifier de la mise en place de plusieurs mesures de protection (cl&amp;#x00F4;tures &amp;#x00E9;lectrifi&amp;#x00E9;es, parcs de nuit, chiens de protection, etc.). Or, dans de nombreuses zones d'&amp;#x00E9;levage ovin, les prairies sont historiquement d&amp;#x00E9;limit&amp;#x00E9;es par des haies vives doubl&amp;#x00E9;es de grillages. Si ces dispositifs constituent des barri&amp;#x00E8;res physiques r&amp;#x00E9;elles et efficaces, ils ne sont aujourd'hui pas reconnus administrativement comme un &amp;#x00AB; moyen de protection &amp;#x00BB; au sens des protocoles d'indemnisation.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Cette situation impose aux &amp;#x00E9;leveurs des investissements lourds et parfois redondants pour installer de nouvelles cl&amp;#x00F4;tures par-dessus l'existant, sous peine de ne pas &amp;#x00EA;tre indemnis&amp;#x00E9;s en cas de sinistre.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;En reconnaissant la combinaison &amp;#x00AB; haie + grillage &amp;#x00BB; comme une mesure de protection effective, cet amendement fait preuve de pragmatisme : il s&amp;#x00E9;curise le droit &amp;#x00E0; l'indemnisation des &amp;#x00E9;leveurs sans leur imposer de charges financi&amp;#x00E8;res ou de travaux inutiles l&amp;#x00E0; o&amp;#x00F9; le terrain est d&amp;#x00E9;j&amp;#x00E0; prot&amp;#x00E9;g&amp;#x00E9; par des structures p&amp;#x00E9;rennes.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-13</dateDepot>        
+      <datePublication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>ET</code>                
+            <libelle>En traitement</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N000371?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

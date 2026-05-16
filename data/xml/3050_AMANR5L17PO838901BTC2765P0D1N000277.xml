@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N000277</uid>    
+   <chronotag>1778857447067</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>277</numeroLong>        
+      <numeroOrdreDepot>277</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>giaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaamki</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA266793</acteurRef>            
+         <groupePolitiqueRef>PO845425</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Bony</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>Apres</avant_A_Apres>                
+            <numero>5</numero>                
+            <alineaDesignation>Après l'alinéa 5</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité</cartoucheInformatif>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;I.&amp;nbsp;&amp;#x2013;&amp;nbsp;Apr&amp;#x00E8;s l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;5, ins&amp;#x00E9;rer l&amp;#x2019;alin&amp;#x00E9;a suivant&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Les modalit&amp;#x00E9;s de comptage de la population lupine s&amp;#x2019;effectuent &amp;#x00E0; l&amp;#x2019;aide d&amp;#x2019;outils technologiques permettant la collecte de nouveaux indices&amp;nbsp;&amp;#x00BB;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;II.&amp;nbsp;&amp;#x2013;&amp;nbsp;Compl&amp;#x00E9;ter cet article par l&amp;#x2019;alin&amp;#x00E9;a suivant&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;II.&amp;nbsp;&amp;#x2013;&amp;nbsp;La perte de recettes pour l&amp;#x2019;&amp;#x00C9;tat est compens&amp;#x00E9;e &amp;#x00E0; due concurrence par la cr&amp;#x00E9;ation d&amp;#x2019;une taxe additionnelle &amp;#x00E0; l&amp;#x2019;accise sur les tabacs pr&amp;#x00E9;vue au chapitre&amp;nbsp;IV du titre&amp;nbsp;I&lt;sup&gt;er&lt;/sup&gt; du livre&amp;nbsp;III du code des impositions sur les biens et services.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p&gt;L&amp;#x2019;estimation annuelle du nombre de loups pr&amp;#x00E9;sents sur le territoire hexagonal est r&amp;#x00E9;alis&amp;#x00E9;e par l&amp;#x2019;Office fran&amp;#x00E7;ais de la biodiversit&amp;#x00E9;.&lt;/p&gt;&lt;p&gt;En 2022, l&amp;#x2019;OFB avait r&amp;#x00E9;alis&amp;#x00E9; trois estimations de la population successives la m&amp;#x00EA;me ann&amp;#x00E9;e, qui s&amp;#x2019;&amp;#x00E9;tablissait &amp;#x00E0; 700, 1 000 et enfin 1 100 loups. En 2023, l&amp;#x2019;OFB a donn&amp;#x00E9; une seule estimation pour l&amp;#x2019;ann&amp;#x00E9;e, la population s&amp;#x2019;&amp;#x00E9;tablissant &amp;#x00E0; 1 003 loups.&lt;/p&gt;&lt;p&gt;La population lupine &amp;#x00E9;tant difficile a &amp;#x00E9;valu&amp;#x00E9;, le taux de pr&amp;#x00E9;l&amp;#x00E8;vement peut &amp;#x00EA;tre en inad&amp;#x00E9;quation avec les besoins r&amp;#x00E9;els de r&amp;#x00E9;gulation.&lt;/p&gt;&lt;p&gt;Cette amendement propose donc de s'appuyer sur les nouveaux outils technologiques (drones, photos a&amp;#x00E9;riennes etc) pour permettre une meilleure &amp;#x00E9;valuation de la population lupine en France.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-12</dateDepot>        
+      <datePublication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <soumisArticle40>true</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>ET</code>                
+            <libelle>En traitement</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N000277?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

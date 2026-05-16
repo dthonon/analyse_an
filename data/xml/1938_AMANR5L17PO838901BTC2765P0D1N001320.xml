@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N001320</uid>    
+   <chronotag>1778857594871</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>1320</numeroLong>        
+      <numeroOrdreDepot>1320</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>giaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaino</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA722390</acteurRef>            
+         <groupePolitiqueRef>PO845425</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA842121</acteurRef>            
+         <acteurRef>PA719968</acteurRef>            
+         <acteurRef>PA718850</acteurRef>            
+         <acteurRef>PA793094</acteurRef>            
+         <acteurRef>PA608416</acteurRef>            
+         <acteurRef>PA870009</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> Mme&amp;#160;Corneloup,  M.&amp;#160;Tryzna, Mme&amp;#160;Sylvie&amp;#160;Bonnet, M.&amp;#160;Cordier, M.&amp;#160;Ray, M.&amp;#160;Hetzel et M.&amp;#160;Duparay</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>Apres</avant_A_Apres>                
+            <numero>4</numero>                
+            <alineaDesignation>Après l'alinéa 4</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité</cartoucheInformatif>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;4, ins&amp;#x00E9;rer les deux alin&amp;#x00E9;as suivants&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Le comptage de l&amp;#x2019;esp&amp;#x00E8;ce Canis lupus est r&amp;#x00E9;alis&amp;#x00E9; par la collecte et l&amp;#x2019;analyse g&amp;#x00E9;n&amp;#x00E9;tique d&amp;#x2019;au moins 15&amp;nbsp;000 indices annuels, dans des conditions garantissant l&amp;#x2019;atteinte de l&amp;#x2019;objectif quantitatif pr&amp;#x00E9;cit&amp;#x00E9; et la fiabilit&amp;#x00E9; scientifique des donn&amp;#x00E9;es produites.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Il peut &amp;#x00EA;tre r&amp;#x00E9;alis&amp;#x00E9; avec le concours de prestations de services externalis&amp;#x00E9;es. &amp;#x00C0; ce titre, la collecte et l&amp;#x2019;analyse des indices g&amp;#x00E9;n&amp;#x00E9;tiques n&amp;#x00E9;cessaires &amp;#x00E0; l&amp;#x2019;estimation des effectifs de loups sur le territoire national peuvent &amp;#x00EA;tre confi&amp;#x00E9;es, en tout ou partie, &amp;#x00E0; des organismes publics ou priv&amp;#x00E9;s.&amp;nbsp;&amp;#x00BB;&amp;nbsp;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;&amp;#x00C0; ce jour, l&amp;#x2019;estimation du nombre de loups est r&amp;#x00E9;alis&amp;#x00E9;e par l&amp;#x2019;identification du profil g&amp;#x00E9;n&amp;#x00E9;tique des individus gr&amp;#x00E2;ce &amp;#x00E0; l&amp;#x2019;analyse d&amp;#x2019;&amp;#x00E9;chantillons biologiques (excr&amp;#x00E9;ments, poils, urines) collect&amp;#x00E9;s sur le terrain par le R&amp;#x00E9;seau de suivi Loup-Lynx, pilot&amp;#x00E9; par l&amp;#x2019;OFB. &amp;#x00C0; partir de ces donn&amp;#x00E9;es, les scientifiques appliquent des mod&amp;#x00E8;les statistiques dits de &amp;#x00AB; capture-marquage-recapture &amp;#x00BB; (CMR) permettant d&amp;#x2019;obtenir, &amp;#x00E0; l&amp;#x2019;aide de calculs de probabilit&amp;#x00E9;, un effectif approximatif du nombre de loups. Cette m&amp;#x00E9;thode a permis d&amp;#x2019;estimer la population de loups &amp;#x00E0; 1082 individus en 2026.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Cependant, les moyens financiers et humains actuellement mobilisables par l&amp;#x2019;Office fran&amp;#x00E7;ais de la biodiversit&amp;#x00E9; ne permettent pas de collecter une quantit&amp;#x00E9; suffisante d&amp;#x2019;indices g&amp;#x00E9;n&amp;#x00E9;tiques exploitables, susceptibles de garantir l&amp;#x2019;exactitude du comptage national. Pour le suivi hivernal de 2025, seuls 2172 &amp;#x00E9;chantillons ont pu &amp;#x00EA;tre analys&amp;#x00E9;s g&amp;#x00E9;n&amp;#x00E9;tiquement.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Le pr&amp;#x00E9;sent amendement pr&amp;#x00E9;voit le recours &amp;#x00E0; des prestations externalis&amp;#x00E9;es d&amp;#x2019;organismes priv&amp;#x00E9;s ou publics pour l&amp;#x2019;estimation du nombre d&amp;#x2019;individus en France, afin d&amp;#x2019;atteindre un nombre de &amp;#x00AB; donn&amp;#x00E9;es-terrain &amp;#x00BB; suffisamment fiables, nombreuses et concordantes pour l&amp;#x2019;estimation d&amp;#x2019;individus (l&amp;#x2019;objectif &amp;#x00E9;tant l&amp;#x2019;analyse de 15 000 indices, soit la collecte d&amp;#x2019;au moins 15 000 indices exploitables).&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-15</dateDepot>        
+      <datePublication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <soumisArticle40>true</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>ET</code>                
+            <libelle>En traitement</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N001320?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

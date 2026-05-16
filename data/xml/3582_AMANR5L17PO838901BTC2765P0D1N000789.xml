@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N000789</uid>    
+   <chronotag>1778857492521</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>789</numeroLong>        
+      <numeroOrdreDepot>789</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>giaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaly</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA795540</acteurRef>            
+         <groupePolitiqueRef>PO840056</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Grenon</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>                
+            <numero>5</numero>                
+            <alineaDesignation>Alinéa 5</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité</cartoucheInformatif>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Compl&amp;#x00E9;ter l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;5 par la phrase suivante&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Ces d&amp;#x00E9;marches tiennent compte de la viabilit&amp;#x00E9; &amp;#x00E9;conomique des exploitations concern&amp;#x00E9;es et ne peuvent entra&amp;#x00EE;ner des charges manifestement disproportionn&amp;#x00E9;es au regard des objectifs poursuivis.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p&gt;Le pr&amp;#x00E9;sent amendement vise &amp;#x00E0; garantir que les d&amp;#x00E9;marches administratives, techniques ou sanitaires impos&amp;#x00E9;es aux &amp;#x00E9;leveurs dans le cadre de la lutte contre la pr&amp;#x00E9;dation demeurent compatibles avec la viabilit&amp;#x00E9; &amp;#x00E9;conomique de leurs exploitations.&lt;/p&gt;&lt;p&gt;Les &amp;#x00E9;leveurs confront&amp;#x00E9;s aux attaques de pr&amp;#x00E9;dateurs supportent d&amp;#x00E9;j&amp;#x00E0; des cons&amp;#x00E9;quences &amp;#x00E9;conomiques importantes li&amp;#x00E9;es aux pertes directes de cheptel, aux co&amp;#x00FB;ts de protection des troupeaux, &amp;#x00E0; la d&amp;#x00E9;sorganisation du travail, ainsi qu&amp;#x2019;aux cons&amp;#x00E9;quences psychologiques et sanitaires des attaques r&amp;#x00E9;p&amp;#x00E9;t&amp;#x00E9;es.&lt;/p&gt;&lt;p&gt;Dans ce contexte, les obligations compl&amp;#x00E9;mentaires pouvant &amp;#x00EA;tre demand&amp;#x00E9;es aux exploitants ne doivent pas conduire &amp;#x00E0; une accumulation de charges administratives ou financi&amp;#x00E8;res excessives susceptible de fragiliser davantage les &amp;#x00E9;levages concern&amp;#x00E9;s.&lt;/p&gt;&lt;p&gt;Cet amendement ne remet pas en cause les dispositifs de protection des troupeaux ni les exigences n&amp;#x00E9;cessaires &amp;#x00E0; la pr&amp;#x00E9;vention de la pr&amp;#x00E9;dation, mais vise &amp;#x00E0; assurer une meilleure prise en compte des r&amp;#x00E9;alit&amp;#x00E9;s &amp;#x00E9;conomiques auxquelles sont confront&amp;#x00E9;s les &amp;#x00E9;leveurs.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-14</dateDepot>        
+      <datePublication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>ET</code>                
+            <libelle>En traitement</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N000789?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N000893</uid>    
+   <chronotag>1778857455885</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>893</numeroLong>        
+      <numeroOrdreDepot>893</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>giaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaemo</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA840673</acteurRef>            
+         <groupePolitiqueRef>PO845419</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA841381</acteurRef>            
+         <acteurRef>PA840665</acteurRef>            
+         <acteurRef>PA793816</acteurRef>            
+         <acteurRef>PA342415</acteurRef>            
+         <acteurRef>PA607553</acteurRef>            
+         <acteurRef>PA795430</acteurRef>            
+         <acteurRef>PA841633</acteurRef>            
+         <acteurRef>PA794854</acteurRef>            
+         <acteurRef>PA841315</acteurRef>            
+         <acteurRef>PA842195</acteurRef>            
+         <acteurRef>PA841665</acteurRef>            
+         <acteurRef>PA643192</acteurRef>            
+         <acteurRef>PA774958</acteurRef>            
+         <acteurRef>PA840829</acteurRef>            
+         <acteurRef>PA840765</acteurRef>            
+         <acteurRef>PA643157</acteurRef>            
+         <acteurRef>PA793394</acteurRef>            
+         <acteurRef>PA333285</acteurRef>            
+         <acteurRef>PA331973</acteurRef>            
+         <acteurRef>PA841327</acteurRef>            
+         <acteurRef>PA642764</acteurRef>            
+         <acteurRef>PA643143</acteurRef>            
+         <acteurRef>PA606793</acteurRef>            
+         <acteurRef>PA720362</acteurRef>            
+         <acteurRef>PA842211</acteurRef>            
+         <acteurRef>PA794094</acteurRef>            
+         <acteurRef>PA840175</acteurRef>            
+         <acteurRef>PA793624</acteurRef>            
+         <acteurRef>PA795762</acteurRef>            
+         <acteurRef>PA608264</acteurRef>            
+         <acteurRef>PA840903</acteurRef>            
+         <acteurRef>PA841295</acteurRef>            
+         <acteurRef>PA1008</acteurRef>            
+         <acteurRef>PA841919</acteurRef>            
+         <acteurRef>PA606573</acteurRef>            
+         <acteurRef>PA609332</acteurRef>            
+         <acteurRef>PA822617</acteurRef>            
+         <acteurRef>PA840939</acteurRef>            
+         <acteurRef>PA1567</acteurRef>            
+         <acteurRef>PA841471</acteurRef>            
+         <acteurRef>PA842263</acteurRef>            
+         <acteurRef>PA841813</acteurRef>            
+         <acteurRef>PA841853</acteurRef>            
+         <acteurRef>PA1654</acteurRef>            
+         <acteurRef>PA722150</acteurRef>            
+         <acteurRef>PA335054</acteurRef>            
+         <acteurRef>PA795156</acteurRef>            
+         <acteurRef>PA841463</acteurRef>            
+         <acteurRef>PA841107</acteurRef>            
+         <acteurRef>PA840793</acteurRef>            
+         <acteurRef>PA794270</acteurRef>            
+         <acteurRef>PA608172</acteurRef>            
+         <acteurRef>PA840955</acteurRef>            
+         <acteurRef>PA841367</acteurRef>            
+         <acteurRef>PA341981</acteurRef>            
+         <acteurRef>PA342196</acteurRef>            
+         <acteurRef>PA826635</acteurRef>            
+         <acteurRef>PA841717</acteurRef>            
+         <acteurRef>PA841243</acteurRef>            
+         <acteurRef>PA774960</acteurRef>            
+         <acteurRef>PA340343</acteurRef>            
+         <acteurRef>PA841091</acteurRef>            
+         <acteurRef>PA841681</acteurRef>            
+         <acteurRef>PA841893</acteurRef>            
+         <acteurRef>PA719930</acteurRef>            
+         <acteurRef>PA794494</acteurRef>            
+         <acteurRef>PA720992</acteurRef>        
+      </cosignataires>        
+      <suffixe>et les membres du groupe Socialistes et apparentés</suffixe>        
+      <libelle> Mme&amp;#160;Rossi,  Mme&amp;#160;Pantel, Mme&amp;#160;Allemand, Mme&amp;#160;Thomin, Mme&amp;#160;Battistel, M.&amp;#160;Potier, M.&amp;#160;Delautrette, M.&amp;#160;Dufau, M.&amp;#160;Echaniz, M.&amp;#160;Benbrahim, M.&amp;#160;Eskenazi, M.&amp;#160;F&amp;#233;gn&amp;#233;, Mme&amp;#160;Jourdan, M.&amp;#160;Leseul, M.&amp;#160;Barusseau, M.&amp;#160;Lhardit, M.&amp;#160;Naillet, M.&amp;#160;Delaporte, M.&amp;#160;Garot, Mme&amp;#160;Got, M.&amp;#160;Roussel, M.&amp;#160;Aviragnet, M.&amp;#160;Baptiste, M.&amp;#160;Baumel, M.&amp;#160;Belhaddad, Mme&amp;#160;Bellay, M.&amp;#160;Bouloux, Mme&amp;#160;Bregman, M.&amp;#160;Philippe&amp;#160;Brun, M.&amp;#160;Califer, Mme&amp;#160;Capdevielle, M.&amp;#160;Christophle, M.&amp;#160;Courbon, M.&amp;#160;David, Mme&amp;#160;Diop, Mme&amp;#160;Dombre&amp;#160;Coste, M.&amp;#160;Faure, Mme&amp;#160;Froger, Mme&amp;#160;Godard, M.&amp;#160;Guedj, M.&amp;#160;Hablot, Mme&amp;#160;Hadizadeh, Mme&amp;#160;Herouin-L&amp;#233;autey, Mme&amp;#160;C&amp;#233;line&amp;#160;Hervieu, M.&amp;#160;Hollande, M.&amp;#160;Houli&amp;#233;, Mme&amp;#160;Karamanli, Mme&amp;#160;Keloua&amp;#160;Hachi, Mme&amp;#160;Mercier, M.&amp;#160;Oberti, M.&amp;#160;Pena, Mme&amp;#160;Pic, Mme&amp;#160;Pir&amp;#232;s&amp;#160;Beaune, M.&amp;#160;Pribetich, M.&amp;#160;Proen&amp;#231;a, Mme&amp;#160;R&amp;#233;calde, Mme&amp;#160;Rouaux, M.&amp;#160;Aur&amp;#233;lien&amp;#160;Rousseau, Mme&amp;#160;Runel, M.&amp;#160;Saint-Pasteur, Mme&amp;#160;Santiago, M.&amp;#160;Saulignac, M.&amp;#160;Simion, M.&amp;#160;Sother, Mme&amp;#160;Thi&amp;#233;bault-Martinez, M.&amp;#160;Vallaud, M.&amp;#160;Vicot, M.&amp;#160;William et les membres du groupe Socialistes et apparent&amp;#233;s</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>                
+            <numero>4</numero>                
+            <alineaDesignation>Alinéa 4</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité</cartoucheInformatif>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;I.&amp;nbsp;&amp;#x2013;&amp;nbsp;&amp;#x00C0; la premi&amp;#x00E8;re phrase de l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;4, substituer aux mots&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;nbsp;&amp;#x00AB;&amp;nbsp;notamment en termes&amp;nbsp;&amp;#x00BB;,&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;les mots&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;comprenant&amp;nbsp;des mesures&amp;nbsp;&amp;#x00BB;.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;II.&amp;nbsp;&amp;#x2013;&amp;nbsp;En cons&amp;#x00E9;quence, compl&amp;#x00E9;ter la m&amp;#x00EA;me premi&amp;#x00E8;re phrase du m&amp;#x00EA;me alin&amp;#x00E9;a&amp;nbsp;4 par les mots&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;lorsque des dommages sont constat&amp;#x00E9;s pour les activit&amp;#x00E9;s d&amp;#x2019;&amp;#x00E9;levage&amp;nbsp;&amp;#x00BB;.&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Cet amendement du groupe Socialistes et apparent&amp;#x00E9;s vise &amp;#x00E0;&amp;nbsp;clarifier et renforcer les conditions de mise en &amp;#x0153;uvre des mesures de gestion du loup afin de mieux concilier la protection de l&amp;#x2019;esp&amp;#x00E8;ce et la pr&amp;#x00E9;vention des dommages caus&amp;#x00E9;s &amp;#x00E0; l&amp;#x2019;&amp;#x00E9;levage.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Le dispositif propos&amp;#x00E9; encadre les conditions dans lesquelles le loup (Canis lupus) peut faire l&amp;#x2019;objet de mesures de gestion, notamment de pr&amp;#x00E9;l&amp;#x00E8;vement, afin d&amp;#x2019;assurer une conciliation effective entre le maintien de l&amp;#x2019;esp&amp;#x00E8;ce dans un &amp;#x00E9;tat de conservation favorable et la protection des activit&amp;#x00E9;s d&amp;#x2019;&amp;#x00E9;levage.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Il est propos&amp;#x00E9; de pr&amp;#x00E9;ciser que ces mesures de gestion peuvent inclure des op&amp;#x00E9;rations de pr&amp;#x00E9;l&amp;#x00E8;vement lorsque des dommages significatifs sont constat&amp;#x00E9;s pour les activit&amp;#x00E9;s d&amp;#x2019;&amp;#x00E9;levage. Cette r&amp;#x00E9;daction vise &amp;#x00E0; s&amp;#x00E9;curiser juridiquement l&amp;#x2019;intervention des autorit&amp;#x00E9;s administratives en rendant plus objectivable le recours &amp;#x00E0; ces mesures, sur la base de constats &amp;#x00E9;tablis.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-14</dateDepot>        
+      <datePublication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>ET</code>                
+            <libelle>En traitement</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N000893?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference>        
+      <codeLoi>1</codeLoi>        
+      <divisionCodeLoi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </loiReference>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>
