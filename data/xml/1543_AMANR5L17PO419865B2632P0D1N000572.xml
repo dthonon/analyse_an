@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO419865B2632P0D1N000572</uid>    
+   <chronotag>1777499762133</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>CD572</numeroLong>        
+      <numeroOrdreDepot>572</numeroOrdreDepot>        
+      <prefixeOrganeExamen>CION-DVP</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO419865B2632P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17B2632</texteLegislatifRef>    
+   <triAmendement>esaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayb</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Rapporteur</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA721458</acteurRef>            
+         <groupePolitiqueRef>PO845470</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Roseren, rapporteur</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2632.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>Apres</avant_A_Apres>                
+            <numero>14</numero>                
+            <alineaDesignation>Après l'alinéa 14</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;14, ins&amp;#x00E9;rer les trois alin&amp;#x00E9;as suivants&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;3&amp;#x00B0;&amp;nbsp;Apr&amp;#x00E8;s le neuvi&amp;#x00E8;me alin&amp;#x00E9;a, sont ins&amp;#x00E9;r&amp;#x00E9;s deux alin&amp;#x00E9;as ainsi r&amp;#x00E9;dig&amp;#x00E9;s&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Aux seules fins de protection des personnes et des &amp;#x00E9;levages, le repr&amp;#x00E9;sentant de l&amp;#x2019;&amp;#x00C9;tat dans le d&amp;#x00E9;partement peut autoriser, pour une dur&amp;#x00E9;e ne pouvant exc&amp;#x00E9;der trente jours, des lieutenants de louveterie &amp;#x00E0; proc&amp;#x00E9;der &amp;#x00E0; la destruction de chiens en &amp;#x00E9;tat de divagation ayant caus&amp;#x00E9; des dommages graves aux troupeaux ou &amp;#x00E9;tant susceptibles d&amp;#x2019;en causer lorsque des circonstances de temps et de lieu le justifient et qu&amp;#x2019;aucune autre mesure de capture ne peut &amp;#x00EA;tre mise en &amp;#x0153;uvre dans un d&amp;#x00E9;lai raisonnable.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;La destruction d&amp;#x2019;un chien errant fait l&amp;#x2019;objet d&amp;#x2019;une d&amp;#x00E9;claration imm&amp;#x00E9;diate aupr&amp;#x00E8;s du repr&amp;#x00E9;sentant de l&amp;#x2019;&amp;#x00C9;tat dans le d&amp;#x00E9;partement.&amp;nbsp;&amp;#x00BB;&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Cet amendement vise &amp;#x00E0; autoriser les lieutenants de louveterie &amp;#x00E0; d&amp;#x00E9;fendre les troupeaux contre les chiens errants en cas de dommages graves dus &amp;#x00E0; la pression de pr&amp;#x00E9;dation qu&amp;#x2019;ils entra&amp;#x00EE;nent sur les troupeaux. Cette autorisation ne peut exc&amp;#x00E9;der trente jours, et ne peut intervenir que lorsque leur capture est impossible.&amp;nbsp;C&amp;#x2019;est un amendement d&amp;#x2019;&amp;#x00E9;quilibre qui vise &amp;#x00E0; d&amp;#x00E9;fendre les &amp;#x00E9;leveurs qui subissent les m&amp;#x00EA;mes dommages que les attaques de loup, mais qui ne peuvent pas se d&amp;#x00E9;fendre car les lieutenants de louveterie ne peuvent intervenir en pr&amp;#x00E9;sence de chiens errants.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-04-28</dateDepot>        
+      <datePublication>2026-04-29</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>DI</code>                
+            <libelle>Discuté</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>DI</code>                
+            <libelle>Rejeté</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort>2026-04-29T23:55:51+02:00</dateSort>        
+      <sort>Rejeté</sort>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO419865B2632P0D1N000572?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

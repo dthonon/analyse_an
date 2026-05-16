@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N000528</uid>    
+   <chronotag>1778920618328</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>528</numeroLong>        
+      <numeroOrdreDepot>528</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>giaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaanye</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA719890</acteurRef>            
+         <groupePolitiqueRef>PO845407</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA794798</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> Mme&amp;#160;Brulebois et Mme&amp;#160;Buffet</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>Apres</avant_A_Apres>                
+            <numero>16</numero>                
+            <alineaDesignation>Après l'alinéa 16</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité</cartoucheInformatif>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;L&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2-1 du code de l&amp;#x2019;environnement est compl&amp;#x00E9;t&amp;#x00E9; par un alin&amp;#x00E9;a ainsi r&amp;#x00E9;dig&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;La d&amp;#x00E9;rogation mentionn&amp;#x00E9;e au&amp;nbsp;4&amp;#x00B0; du&amp;nbsp;I de l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2 n&amp;#x2019;est pas requise pour la r&amp;#x00E9;alisation des travaux vis&amp;#x00E9;s &amp;#x00E0; l&amp;#x2019;article L 722&amp;#x2011;3 du code rural et de la p&amp;#x00EA;che maritime, lorsqu&amp;#x2019;ils sont effectu&amp;#x00E9;s conform&amp;#x00E9;ment &amp;#x00E0; l&amp;#x2019;un des documents de gestion durable vis&amp;#x00E9;s au&amp;nbsp;2&amp;#x00B0; et 3&amp;#x00B0; de l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;124&amp;#x2011;1 et &amp;#x00E0; l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;124&amp;#x2011;2 du code forestier ou lorsqu&amp;#x2019;ils ont &amp;#x00E9;t&amp;#x00E9; autoris&amp;#x00E9;s au titre des articles L.&amp;nbsp;124&amp;#x2011;5 et L.&amp;nbsp;312&amp;#x2011;5 du code forestier.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p&gt;Le pr&amp;#x00E9;sent amendement a pour objectif d&amp;#x2019;&amp;#x00E9;claircir les liens entre le r&amp;#x00E9;gime de protection des esp&amp;#x00E8;ces et de leurs habitats, tel que pr&amp;#x00E9;vu par le code de l&amp;#x2019;environnement, et les dispositifs de gestion durable des espaces forestiers et ruraux encadr&amp;#x00E9;s par le code forestier et le code rural et de la p&amp;#x00EA;che maritime.&lt;/p&gt;&lt;p&gt;L&amp;#x2019;article L.411-2 du code de l&amp;#x2019;environnement conditionne toute atteinte aux esp&amp;#x00E8;ces prot&amp;#x00E9;g&amp;#x00E9;es et &amp;#x00E0; leurs habitats &amp;#x00E0; l&amp;#x2019;obtention d&amp;#x2019;une d&amp;#x00E9;rogation strictement encadr&amp;#x00E9;e, conform&amp;#x00E9;ment aux exigences des directives europ&amp;#x00E9;ennes &amp;#x00AB; Habitats &amp;#x00BB; et &amp;#x00AB; Oiseaux &amp;#x00BB;. Cependant, l&amp;#x2019;article L.411-2-1 pr&amp;#x00E9;voit d&amp;#x00E9;j&amp;#x00E0; que certains projets peuvent &amp;#x00EA;tre dispens&amp;#x00E9;s de cette d&amp;#x00E9;rogation s&amp;#x2019;ils int&amp;#x00E8;grent des mesures d&amp;#x2019;&amp;#x00E9;vitement et de r&amp;#x00E9;duction garantissant l&amp;#x2019;absence d&amp;#x2019;impact significatif sur l&amp;#x2019;&amp;#x00E9;tat de conservation des esp&amp;#x00E8;ces concern&amp;#x00E9;es.&lt;/p&gt;&lt;p&gt;Or, les travaux mentionn&amp;#x00E9;s &amp;#x00E0; l&amp;#x2019;article L.722-3 du code rural et de la p&amp;#x00EA;che maritime, lorsqu&amp;#x2019;ils sont r&amp;#x00E9;alis&amp;#x00E9;s dans le cadre des documents de gestion durable pr&amp;#x00E9;vus aux articles L.124-1 (2&amp;#x00B0; et 3&amp;#x00B0;) et L.124-2 du code forestier, ou lorsqu&amp;#x2019;ils ont &amp;#x00E9;t&amp;#x00E9; autoris&amp;#x00E9;s au titre des articles L.124-5 et L.312-5 du m&amp;#x00EA;me code, sont d&amp;#x00E9;j&amp;#x00E0; soumis &amp;#x00E0; un encadrement juridique strict visant explicitement la gestion durable des milieux forestiers. Ces documents et autorisations int&amp;#x00E8;grent des objectifs &amp;#x00E9;cologiques, sylvicoles et environnementaux compatibles avec la pr&amp;#x00E9;servation des habitats et des esp&amp;#x00E8;ces.&lt;/p&gt;&lt;p&gt;En l&amp;#x2019;&amp;#x00E9;tat actuel du droit, l&amp;#x2019;exigence suppl&amp;#x00E9;mentaire d&amp;#x2019;une d&amp;#x00E9;rogation au titre de l&amp;#x2019;article L.411-2 du code de l&amp;#x2019;environnement pour des travaux d&amp;#x00E9;j&amp;#x00E0; autoris&amp;#x00E9;s ou encadr&amp;#x00E9;s par le code forestier cr&amp;#x00E9;e une ins&amp;#x00E9;curit&amp;#x00E9; juridique et une complexit&amp;#x00E9; administrative excessive pour les gestionnaires et propri&amp;#x00E9;taires forestiers, sans b&amp;#x00E9;n&amp;#x00E9;fice environnemental d&amp;#x00E9;montr&amp;#x00E9;.&lt;/p&gt;&lt;p&gt;Le pr&amp;#x00E9;sent amendement vise donc &amp;#x00E0; pr&amp;#x00E9;ciser que la d&amp;#x00E9;rogation pr&amp;#x00E9;vue au 4&amp;#x00B0; du I de l&amp;#x2019;article L.411-2 n&amp;#x2019;est pas n&amp;#x00E9;cessaire lorsque ces travaux sont men&amp;#x00E9;s conform&amp;#x00E9;ment aux documents ou autorisations mentionn&amp;#x00E9;s.&lt;/p&gt;&lt;p&gt;Cette condition permet de maintenir le haut niveau de protection pr&amp;#x00E9;vu par le code de l&amp;#x2019;environnement. En cas de non-respect de cette exigence, le r&amp;#x00E9;gime de d&amp;#x00E9;rogation reste pleinement applicable.&lt;/p&gt;&lt;p&gt;Cette clarification s&amp;#x2019;inscrit dans le respect du principe de d&amp;#x00E9;veloppement durable consacr&amp;#x00E9; par la Charte de l&amp;#x2019;environnement, qui impose de concilier protection de l&amp;#x2019;environnement et activit&amp;#x00E9;s &amp;#x00E9;conomiques. Elle renforce la coh&amp;#x00E9;rence des politiques publiques foresti&amp;#x00E8;res et environnementales, s&amp;#x00E9;curise juridiquement les acteurs engag&amp;#x00E9;s dans une gestion durable des milieux naturels et favorise une conservation effective de la biodiversit&amp;#x00E9; fond&amp;#x00E9;e sur une gestion active et encadr&amp;#x00E9;e des espaces.&lt;/p&gt;&lt;p&gt;Cet amendement a &amp;#x00E9;t&amp;#x00E9; travaill&amp;#x00E9; avec la FNEDT.&amp;nbsp;&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-13</dateDepot>        
+      <datePublication>2026-05-16</datePublication>        
+      <soumisArticle40>true</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>ET</code>                
+            <libelle>En traitement</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N000528?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO419865B2632P0D1N000139</uid>    
+   <chronotag>1777492891838</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>CD139</numeroLong>        
+      <numeroOrdreDepot>139</numeroOrdreDepot>        
+      <prefixeOrganeExamen>CION-DVP</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO419865B2632P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17B2632</texteLegislatifRef>    
+   <triAmendement>esaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaji</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA793592</acteurRef>            
+         <groupePolitiqueRef>PO845401</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA720668</acteurRef>            
+         <acteurRef>PA841131</acteurRef>            
+         <acteurRef>PA841761</acteurRef>            
+         <acteurRef>PA841621</acteurRef>            
+         <acteurRef>PA841451</acteurRef>            
+         <acteurRef>PA793632</acteurRef>            
+         <acteurRef>PA842085</acteurRef>            
+         <acteurRef>PA796026</acteurRef>            
+         <acteurRef>PA841587</acteurRef>            
+         <acteurRef>PA794530</acteurRef>            
+         <acteurRef>PA840837</acteurRef>            
+         <acteurRef>PA793852</acteurRef>            
+         <acteurRef>PA795410</acteurRef>            
+         <acteurRef>PA794894</acteurRef>            
+         <acteurRef>PA796050</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> Mme&amp;#160;Grangier,  M.&amp;#160;Blairy, Mme&amp;#160;Bouquin, M.&amp;#160;Dutremble, M.&amp;#160;Evrard, M.&amp;#160;Guibert, M.&amp;#160;Houssin, M.&amp;#160;Humbert, Mme&amp;#160;Lechanteux, M.&amp;#160;David&amp;#160;Magnier, M.&amp;#160;Marchio, M.&amp;#160;Markowsky, M.&amp;#160;Meurin, Mme&amp;#160;Roullaud, Mme&amp;#160;Sabatini et M.&amp;#160;Schreck</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2632.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>Apres</avant_A_Apres>                
+            <numero>3</numero>                
+            <alineaDesignation>Après l'alinéa 3</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;3, ins&amp;#x00E9;rer l&amp;#x2019;alin&amp;#x00E9;a suivant&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;L&amp;#x2019;&amp;#x00E9;valuation de l&amp;#x2019;&amp;#x00E9;tat de conservation de l&amp;#x2019;esp&amp;#x00E8;ce tient &amp;#x00E9;galement compte de l&amp;#x2019;&amp;#x00E9;volution de la population de loups &amp;#x00E0; l&amp;#x2019;&amp;#x00E9;chelle europ&amp;#x00E9;enne, sans pr&amp;#x00E9;judice du cadre europ&amp;#x00E9;en applicable.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p&gt;Le texte pr&amp;#x00E9;voit que l&amp;#x2019;&amp;#x00E9;valuation de l&amp;#x2019;incidence des mesures de gestion sur l&amp;#x2019;&amp;#x00E9;tat de conservation du loup s&amp;#x2019;appr&amp;#x00E9;cie en principe au niveau national.&lt;/p&gt;&lt;p&gt;Cette approche appara&amp;#x00EE;t toutefois incompl&amp;#x00E8;te au regard de la r&amp;#x00E9;alit&amp;#x00E9; biologique de l&amp;#x2019;esp&amp;#x00E8;ce, dont la population d&amp;#x00E9;passe largement les fronti&amp;#x00E8;res nationales.&lt;/p&gt;&lt;p&gt;Les donn&amp;#x00E9;es disponibles mettent en &amp;#x00E9;vidence une progression significative de la population de loups &amp;#x00E0; l&amp;#x2019;&amp;#x00E9;chelle europ&amp;#x00E9;enne, confirm&amp;#x00E9;e par les &amp;#x00E9;volutions r&amp;#x00E9;centes du cadre communautaire.&lt;/p&gt;&lt;p&gt;Dans ce contexte, une appr&amp;#x00E9;ciation strictement nationale peut conduire &amp;#x00E0; des d&amp;#x00E9;cisions excessivement restrictives, sans tenir compte de la dynamique globale de l&amp;#x2019;esp&amp;#x00E8;ce.&lt;/p&gt;&lt;p&gt;Le pr&amp;#x00E9;sent amendement vise &amp;#x00E0; int&amp;#x00E9;grer cette dimension europ&amp;#x00E9;enne dans l&amp;#x2019;&amp;#x00E9;valuation, afin de mieux proportionner les mesures de gestion aux r&amp;#x00E9;alit&amp;#x00E9;s biologiques et territoriales.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-04-23</dateDepot>        
+      <datePublication>2026-04-29</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>DI</code>                
+            <libelle>Discuté</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>DI</code>                
+            <libelle>Rejeté</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort>2026-04-29T22:01:24+02:00</dateSort>        
+      <sort>Rejeté</sort>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO419865B2632P0D1N000139?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

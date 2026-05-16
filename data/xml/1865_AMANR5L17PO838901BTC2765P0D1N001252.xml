@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N001252</uid>    
+   <chronotag>1778857579246</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>1252</numeroLong>        
+      <numeroOrdreDepot>1252</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>giaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaanay</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA718850</acteurRef>            
+         <groupePolitiqueRef>PO845425</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA719968</acteurRef>            
+         <acteurRef>PA718884</acteurRef>            
+         <acteurRef>PA793094</acteurRef>            
+         <acteurRef>PA722390</acteurRef>            
+         <acteurRef>PA794178</acteurRef>            
+         <acteurRef>PA718838</acteurRef>            
+         <acteurRef>PA330909</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Cordier,  Mme&amp;#160;Sylvie&amp;#160;Bonnet, Mme&amp;#160;Bazin-Malgras, M.&amp;#160;Ray, Mme&amp;#160;Corneloup, M.&amp;#160;Taite, M.&amp;#160;Fabrice&amp;#160;Brun et M.&amp;#160;Descoeur</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>Apres</avant_A_Apres>                
+            <numero>10</numero>                
+            <alineaDesignation>Après l'alinéa 10</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité</cartoucheInformatif>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;427&amp;#x2011;6 du code de l&amp;#x2019;environnement, il est ins&amp;#x00E9;r&amp;#x00E9; un article&amp;nbsp;L.&amp;nbsp;427&amp;#x2011;6&amp;#x2011;1 ainsi r&amp;#x00E9;dig&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;&lt;i&gt;Art.&amp;nbsp;L.&amp;nbsp;427&amp;#x2011;6&amp;#x2011;1&lt;/i&gt;.&amp;nbsp;&amp;#x2013;&amp;nbsp;Dans les d&amp;#x00E9;partements o&amp;#x00F9; la pr&amp;#x00E9;sence du loup (Canis lupus) risque d&amp;#x2019;engendrer des dommages importants aux activit&amp;#x00E9;s d&amp;#x2019;&amp;#x00E9;levage, le repr&amp;#x00E9;sentant de l&amp;#x2019;&amp;#x00C9;tat dans le d&amp;#x00E9;partement peut autoriser les soci&amp;#x00E9;t&amp;#x00E9;s de chasse locales, les associations communales ou intercommunales de chasse agr&amp;#x00E9;&amp;#x00E9;es &amp;#x00E0; organiser des battues de pr&amp;#x00E9;l&amp;#x00E8;vement ou de d&amp;#x00E9;fense. Ces battues sont organis&amp;#x00E9;es&amp;nbsp;en lien avec l&amp;#x2019;Office fran&amp;#x00E7;ais de la biodiversit&amp;#x00E9; et avec le lieutenant de louveterie.&amp;nbsp;La f&amp;#x00E9;d&amp;#x00E9;ration d&amp;#x00E9;partementale des chasseurs assure la formation des chasseurs participants et la coordination logistique des op&amp;#x00E9;rations.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;La pr&amp;#x00E9;dation du loup sur les troupeaux domestiques ne cesse de cro&amp;#x00EE;tre, entra&amp;#x00EE;nant une d&amp;#x00E9;tresse &amp;#x00E9;conomique et psychologique majeure&amp;nbsp;des &amp;#x00E9;leveurs, en particulier dans les Ardennes.&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Les chasseurs,&amp;nbsp;gr&amp;#x00E2;ce &amp;#x00E0; leur parfaite connaissance de la faune locale et des territoires, constituent un r&amp;#x00E9;seau de b&amp;#x00E9;n&amp;#x00E9;voles form&amp;#x00E9;s, imm&amp;#x00E9;diatement mobilisables.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Le pr&amp;#x00E9;sent amendement vise par cons&amp;#x00E9;quent &amp;#x00E0; simplifier et &amp;#x00E0; territorialiser la gestion des op&amp;#x00E9;rations de pr&amp;#x00E9;l&amp;#x00E8;vement du loup en permettant aux soci&amp;#x00E9;t&amp;#x00E9;s de chasse locales d'organiser des battues.&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;En associant la l&amp;#x00E9;gitimit&amp;#x00E9; territoriale des chasseurs, l'expertise d'encadrement des f&amp;#x00E9;d&amp;#x00E9;rations d&amp;#x00E9;partementales et l'autorit&amp;#x00E9; du lieutenant de louveterie et de l'Office fran&amp;#x00E7;ais de la biodiversit&amp;#x00E9; (OFB), cet amendement garantit une r&amp;#x00E9;gulation efficace, transparente et respectueuse du cadre r&amp;#x00E9;glementaire global.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-15</dateDepot>        
+      <datePublication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <soumisArticle40>true</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>ET</code>                
+            <libelle>En traitement</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N001252?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>
