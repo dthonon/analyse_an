@@ -302,7 +302,7 @@ def analyse_xml(xml_dir: Path, csv_dir: Path | None) -> None:
 
     if csv_dir:
         csv_dir.mkdir(parents=True, exist_ok=True)
-        csv_file = csv_dir / "amendements_complétés.csv"
+        csv_file = csv_dir / "amendements_filtrés.csv"
         amend1 = pd.read_csv(csv_file) if csv_file.exists() else pd.DataFrame()
         logger.info(
             f"Amendements chargés : {amend1.shape[0]} lignes, {amend1.shape[1]} colonnes"
@@ -310,11 +310,12 @@ def analyse_xml(xml_dir: Path, csv_dir: Path | None) -> None:
         logger.info(
             f"Amendements complets : {amend.shape[0]} lignes, {amend.shape[1]} colonnes"
         )
-        amend = pd.merge(amend1, amend, how="inner", on="Numéro de l'amendement")
+        amend2 = amend1.merge(amend, how="inner", on="Numéro de l'amendement")
         logger.info(
-            f"Amendements fusionnés : {amend.shape[0]} lignes, {amend.shape[1]} colonnes"
+            f"Amendements fusionnés : {amend2.shape[0]} lignes, {amend2.shape[1]} colonnes"
         )
-        amend.to_csv(csv_file, index=False, encoding="utf-8")
+        csv_file = csv_dir / "amendements_complétés.csv"
+        amend2.to_csv(csv_file, index=False, encoding="utf-8")
         logger.info(f"Amendements extraits sauvegardés dans {csv_file}")
     else:
         logger.info("Aucun chemin de sauvegarde CSV fourni, résultats non sauvegardés.")
