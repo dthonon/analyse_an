@@ -3,7 +3,9 @@
 import io
 import logging
 import logging.handlers
+import re
 import sys
+import unicodedata
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
@@ -300,7 +302,7 @@ def analyse_xml(xml_dir: Path, csv_dir: Path | None) -> None:
 
     if csv_dir:
         csv_dir.mkdir(parents=True, exist_ok=True)
-        csv_file = csv_dir / "amendements_filtrés.csv"
+        csv_file = csv_dir / "amendements_complétés.csv"
         amend1 = pd.read_csv(csv_file) if csv_file.exists() else pd.DataFrame()
         logger.info(
             f"Amendements chargés : {amend1.shape[0]} lignes, {amend1.shape[1]} colonnes"
@@ -311,12 +313,75 @@ def analyse_xml(xml_dir: Path, csv_dir: Path | None) -> None:
         amend = pd.merge(amend1, amend, how="inner", on="Numéro de l'amendement")
         logger.info(
             f"Amendements fusionnés : {amend.shape[0]} lignes, {amend.shape[1]} colonnes"
-        )  # amend.to_csv(csv_file, index=False, encoding="utf-8")
-        # logger.info(f"Amendements extraits sauvegardés dans {csv_file}")
+        )
+        amend.to_csv(csv_file, index=False, encoding="utf-8")
+        logger.info(f"Amendements extraits sauvegardés dans {csv_file}")
     else:
         logger.info("Aucun chemin de sauvegarde CSV fourni, résultats non sauvegardés.")
 
     return None
+
+
+@main.command(
+    name="sort-csv",
+    help="Lit et classe le fichier CSV des amendements filtrés par dispositif.",
+)
+@click.option(
+    "--csv-file",
+    type=click.Path(path_type=Path, exists=True, resolve_path=True),
+    default=CSV_DIR / "amendements_complétés.csv",
+    show_default=True,
+    help="Chemin du fichier CSV à lire.",
+)
+@click.option(
+    "--rows",
+    type=int,
+    default=10,
+    show_default=True,
+    help="Nombre de lignes à afficher (0 pour toutes).",
+)
+def sort_csv(csv_file: Path, rows: int) -> None:
+    """Lit et affiche les amendements depuis un fichier CSV."""
+
+    configure_logging()
+    logger = logging.getLogger(__name__)
+
+    csv_file = Path(csv_file)
+    logger.info(f"Lecture du fichier CSV: {csv_file}")
+
+    if not csv_file.exists():
+        logger.error(f"Le fichier {csv_file} n'existe pas")
+        raise click.FileError(str(csv_file), hint="Fichier non trouvé")
+
+    try:
+        df = pd.read_csv(csv_file, encoding="utf-8")
+        logger.info(f"Fichier chargé: {len(df)} lignes, {len(df.columns)} colonnes")
+
+        if "Dispositif" not in df.columns:
+            logger.error("La colonne 'Dispositif' est introuvable dans le CSV")
+            raise click.Abort()
+
+        def normalize(value: str) -> str:
+            if pd.isna(value):
+                return ""
+            text = str(value).strip().lower()
+            text = unicodedata.normalize("NFKD", text)
+            text = "".join(ch for ch in text if not unicodedata.combining(ch))
+            text = re.sub(r"[^a-z0-9\s]", "", text)
+            return re.sub(r"\s+", " ", text).strip()
+
+        df["_dispositif_key"] = df["Dispositif"].apply(normalize)
+        df = df.sort_values(by=["_dispositif_key", "Dispositif"])
+        df = df.drop(columns=["_dispositif_key"])
+        logger.info("Amendements triés par dispositif similaire.")
+
+        sorted_file = csv_file.parent / "amendements_triés.csv"
+        df.to_csv(sorted_file, index=False, encoding="utf-8")
+        logger.info(f"Amendements triés sauvegardés dans {sorted_file}")
+
+    except Exception as e:
+        logger.error(f"Erreur lors de la lecture du fichier CSV: {e}")
+        raise
 
 
 if __name__ == "__main__":
