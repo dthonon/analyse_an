@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N000791</uid>    
+   <chronotag>1779035703993</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>791</numeroLong>        
+      <numeroOrdreDepot>791</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>giaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaalz</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA795540</acteurRef>            
+         <groupePolitiqueRef>PO840056</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Grenon</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>                
+            <numero>5</numero>                
+            <alineaDesignation>Alinéa 5</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité</cartoucheInformatif>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;&amp;#x00C0;&amp;nbsp;la derni&amp;#x00E8;re phrase de l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;5, apr&amp;#x00E8;s le mot&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;troupeaux&amp;nbsp;&amp;#x00BB;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;ins&amp;#x00E9;rer les mots&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;,&amp;nbsp;comme le tir de d&amp;#x00E9;fense et d&amp;#x2019;effarouchement,&amp;nbsp;&amp;#x00BB;.&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p&gt;Le pr&amp;#x00E9;sent amendement vise &amp;#x00E0; pr&amp;#x00E9;ciser explicitement que les mesures de protection pouvant &amp;#x00EA;tre mises en &amp;#x0153;uvre dans le cadre du pr&amp;#x00E9;sent article incluent notamment les dispositifs de tir de d&amp;#x00E9;fense et de tir d&amp;#x2019;effarouchement.&lt;/p&gt;&lt;p&gt;Ces dispositifs constituent des outils op&amp;#x00E9;rationnels essentiels pour les &amp;#x00E9;leveurs confront&amp;#x00E9;s &amp;#x00E0; la pr&amp;#x00E9;dation, en particulier dans les territoires o&amp;#x00F9; les attaques sur les troupeaux se multiplient.&lt;/p&gt;&lt;p&gt;Le tir d&amp;#x2019;effarouchement permet de repousser le pr&amp;#x00E9;dateur afin d&amp;#x2019;&amp;#x00E9;viter une attaque ou d&amp;#x2019;emp&amp;#x00EA;cher son installation durable &amp;#x00E0; proximit&amp;#x00E9; des zones de p&amp;#x00E2;turage, tandis que le tir de d&amp;#x00E9;fense vise &amp;#x00E0; assurer la protection imm&amp;#x00E9;diate des troupeaux en cas de menace directe ou d&amp;#x2019;attaque caract&amp;#x00E9;ris&amp;#x00E9;e.&lt;/p&gt;&lt;p&gt;Ces mesures s&amp;#x2019;inscrivent d&amp;#x00E9;j&amp;#x00E0; dans le cadre des d&amp;#x00E9;rogations pr&amp;#x00E9;vues par le code de l&amp;#x2019;environnement applicable aux esp&amp;#x00E8;ces prot&amp;#x00E9;g&amp;#x00E9;es et demeurent strictement encadr&amp;#x00E9;es par l&amp;#x2019;autorit&amp;#x00E9; pr&amp;#x00E9;fectorale.&lt;/p&gt;&lt;p&gt;Les &amp;#x00E9;leveurs confront&amp;#x00E9;s &amp;#x00E0; la pr&amp;#x00E9;dation supportent d&amp;#x00E9;j&amp;#x00E0; des cons&amp;#x00E9;quences &amp;#x00E9;conomiques, sanitaires et psychologiques particuli&amp;#x00E8;rement lourdes pertes directes de cheptel, d&amp;#x00E9;sorganisation des &amp;#x00E9;levages, stress des animaux, mobilisation accrue de main-d&amp;#x2019;&amp;#x0153;uvre, et multiplication des investissements de protection.&lt;/p&gt;&lt;p&gt;Dans ce contexte, il appara&amp;#x00EE;t n&amp;#x00E9;cessaire de lever toute ambigu&amp;#x00EF;t&amp;#x00E9; sur la possibilit&amp;#x00E9; de recourir &amp;#x00E0; ces dispositifs dans le cadre des mesures de protection pr&amp;#x00E9;vues par l&amp;#x2019;article 14.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-14</dateDepot>        
+      <datePublication>2026-05-15</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>ET</code>                
+            <libelle>En traitement</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N000791?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

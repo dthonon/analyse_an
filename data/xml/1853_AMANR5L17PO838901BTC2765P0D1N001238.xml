@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N001238</uid>    
+   <chronotag>1779191675756</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>1238</numeroLong>        
+      <numeroOrdreDepot>1238</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>goaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaui</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA841761</acteurRef>            
+         <groupePolitiqueRef>PO845401</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA793432</acteurRef>            
+         <acteurRef>PA841495</acteurRef>            
+         <acteurRef>PA796118</acteurRef>            
+         <acteurRef>PA794562</acteurRef>            
+         <acteurRef>PA842279</acteurRef>            
+         <acteurRef>PA793374</acteurRef>            
+         <acteurRef>PA793158</acteurRef>            
+         <acteurRef>PA794434</acteurRef>            
+         <acteurRef>PA841645</acteurRef>            
+         <acteurRef>PA842001</acteurRef>            
+         <acteurRef>PA720822</acteurRef>            
+         <acteurRef>PA720668</acteurRef>            
+         <acteurRef>PA794886</acteurRef>            
+         <acteurRef>PA796042</acteurRef>            
+         <acteurRef>PA841487</acteurRef>            
+         <acteurRef>PA841131</acteurRef>            
+         <acteurRef>PA793182</acteurRef>            
+         <acteurRef>PA793134</acteurRef>            
+         <acteurRef>PA840075</acteurRef>            
+         <acteurRef>PA840107</acteurRef>            
+         <acteurRef>PA720468</acteurRef>            
+         <acteurRef>PA794198</acteurRef>            
+         <acteurRef>PA840159</acteurRef>            
+         <acteurRef>PA793548</acteurRef>            
+         <acteurRef>PA795644</acteurRef>            
+         <acteurRef>PA841613</acteurRef>            
+         <acteurRef>PA642988</acteurRef>            
+         <acteurRef>PA841059</acteurRef>            
+         <acteurRef>PA793166</acteurRef>            
+         <acteurRef>PA793928</acteurRef>            
+         <acteurRef>PA794762</acteurRef>            
+         <acteurRef>PA793146</acteurRef>            
+         <acteurRef>PA840135</acteurRef>            
+         <acteurRef>PA842073</acteurRef>            
+         <acteurRef>PA841621</acteurRef>            
+         <acteurRef>PA793246</acteurRef>            
+         <acteurRef>PA840143</acteurRef>            
+         <acteurRef>PA840801</acteurRef>            
+         <acteurRef>PA794678</acteurRef>            
+         <acteurRef>PA841139</acteurRef>            
+         <acteurRef>PA793892</acteurRef>            
+         <acteurRef>PA841737</acteurRef>            
+         <acteurRef>PA796034</acteurRef>            
+         <acteurRef>PA793832</acteurRef>            
+         <acteurRef>PA793102</acteurRef>            
+         <acteurRef>PA841605</acteurRef>            
+         <acteurRef>PA793362</acteurRef>            
+         <acteurRef>PA794418</acteurRef>            
+         <acteurRef>PA793592</acteurRef>            
+         <acteurRef>PA840757</acteurRef>            
+         <acteurRef>PA841451</acteurRef>            
+         <acteurRef>PA794734</acteurRef>            
+         <acteurRef>PA793218</acteurRef>            
+         <acteurRef>PA795900</acteurRef>            
+         <acteurRef>PA793632</acteurRef>            
+         <acteurRef>PA842085</acteurRef>            
+         <acteurRef>PA794598</acteurRef>            
+         <acteurRef>PA841439</acteurRef>            
+         <acteurRef>PA794030</acteurRef>            
+         <acteurRef>PA841749</acteurRef>            
+         <acteurRef>PA840745</acteurRef>            
+         <acteurRef>PA841075</acteurRef>            
+         <acteurRef>PA840869</acteurRef>            
+         <acteurRef>PA794354</acteurRef>            
+         <acteurRef>PA795912</acteurRef>            
+         <acteurRef>PA841837</acteurRef>            
+         <acteurRef>PA720614</acteurRef>            
+         <acteurRef>PA796026</acteurRef>            
+         <acteurRef>PA840857</acteurRef>            
+         <acteurRef>PA793290</acteurRef>            
+         <acteurRef>PA793608</acteurRef>            
+         <acteurRef>PA841873</acteurRef>            
+         <acteurRef>PA840967</acteurRef>            
+         <acteurRef>PA793672</acteurRef>            
+         <acteurRef>PA721932</acteurRef>            
+         <acteurRef>PA795974</acteurRef>            
+         <acteurRef>PA794590</acteurRef>            
+         <acteurRef>PA841587</acteurRef>            
+         <acteurRef>PA841563</acteurRef>            
+         <acteurRef>PA794530</acteurRef>            
+         <acteurRef>PA840837</acteurRef>            
+         <acteurRef>PA841825</acteurRef>            
+         <acteurRef>PA794770</acteurRef>            
+         <acteurRef>PA793616</acteurRef>            
+         <acteurRef>PA719436</acteurRef>            
+         <acteurRef>PA793852</acteurRef>            
+         <acteurRef>PA840915</acteurRef>            
+         <acteurRef>PA793696</acteurRef>            
+         <acteurRef>PA793354</acteurRef>            
+         <acteurRef>PA795786</acteurRef>            
+         <acteurRef>PA794322</acteurRef>            
+         <acteurRef>PA795552</acteurRef>            
+         <acteurRef>PA794670</acteurRef>            
+         <acteurRef>PA841199</acteurRef>            
+         <acteurRef>PA794582</acteurRef>            
+         <acteurRef>PA793656</acteurRef>            
+         <acteurRef>PA795966</acteurRef>            
+         <acteurRef>PA793230</acteurRef>            
+         <acteurRef>PA793254</acteurRef>            
+         <acteurRef>PA841955</acteurRef>            
+         <acteurRef>PA841981</acteurRef>            
+         <acteurRef>PA842227</acteurRef>            
+         <acteurRef>PA794442</acteurRef>            
+         <acteurRef>PA795410</acteurRef>            
+         <acteurRef>PA842097</acteurRef>            
+         <acteurRef>PA794894</acteurRef>            
+         <acteurRef>PA794570</acteurRef>            
+         <acteurRef>PA794954</acteurRef>            
+         <acteurRef>PA796050</acteurRef>            
+         <acteurRef>PA842255</acteurRef>            
+         <acteurRef>PA793382</acteurRef>            
+         <acteurRef>PA795778</acteurRef>            
+         <acteurRef>PA794502</acteurRef>            
+         <acteurRef>PA841553</acteurRef>            
+         <acteurRef>PA793298</acteurRef>            
+         <acteurRef>PA840067</acteurRef>            
+         <acteurRef>PA840781</acteurRef>            
+         <acteurRef>PA793334</acteurRef>            
+         <acteurRef>PA794946</acteurRef>            
+         <acteurRef>PA841575</acteurRef>            
+         <acteurRef>PA841479</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Dutremble,  M.&amp;#160;Allisio, M.&amp;#160;Amblard, Mme&amp;#160;Auzanot, M.&amp;#160;Ballard, Mme&amp;#160;Bamana, M.&amp;#160;Baubry, M.&amp;#160;Beaurain, M.&amp;#160;Bentz, M.&amp;#160;Bernhardt, M.&amp;#160;Bigot, M.&amp;#160;Bilde, M.&amp;#160;Blairy, Mme&amp;#160;Blanc, M.&amp;#160;Boccaletti, M.&amp;#160;Boulogne, Mme&amp;#160;Bouquin, M.&amp;#160;Bovet, M.&amp;#160;Buisson, M.&amp;#160;Casterman, M.&amp;#160;Chaumeil, M.&amp;#160;Chenu, M.&amp;#160;Chudeau, M.&amp;#160;Clavet, Mme&amp;#160;Colombier, Mme&amp;#160;Da&amp;#160;Conceicao&amp;#160;Carvalho, M.&amp;#160;de&amp;#160;Fleurian, M.&amp;#160;de&amp;#160;L&amp;#233;pinau, Mme&amp;#160;Dellong&amp;#160;Meng, M.&amp;#160;Dessigny, Mme&amp;#160;Diaz, Mme&amp;#160;Dogor-Such, M.&amp;#160;Dragon, M.&amp;#160;Dufosset, M.&amp;#160;Dussausaye, M.&amp;#160;Evrard, M.&amp;#160;Falcon, M.&amp;#160;Florquin, M.&amp;#160;Fouquart, M.&amp;#160;Frapp&amp;#233;, M.&amp;#160;Gabarron, Mme&amp;#160;Galzy, M.&amp;#160;Gery, M.&amp;#160;Giletti, M.&amp;#160;Gillet, M.&amp;#160;Christian&amp;#160;Girard, M.&amp;#160;Golliot, M.&amp;#160;Gonzalez, Mme&amp;#160;Florence&amp;#160;Goulet, Mme&amp;#160;Grangier, Mme&amp;#160;Griseti, M.&amp;#160;Guibert, M.&amp;#160;Guiniot, M.&amp;#160;Guitton, Mme&amp;#160;Hamelet, M.&amp;#160;Houssin, M.&amp;#160;Humbert, M.&amp;#160;Jacobelli, M.&amp;#160;Jenft, M.&amp;#160;Jolly, Mme&amp;#160;Joncour, M.&amp;#160;Jordan, Mme&amp;#160;Josserand, Mme&amp;#160;Joubert, Mme&amp;#160;Laporte, Mme&amp;#160;Lavalette, M.&amp;#160;Le&amp;#160;Bourgeois, Mme&amp;#160;Le&amp;#160;Pen, Mme&amp;#160;Lechanteux, Mme&amp;#160;Lechon, Mme&amp;#160;Lelouis, Mme&amp;#160;Levavasseur, M.&amp;#160;Limongi, M.&amp;#160;Lioret, Mme&amp;#160;Loir, Mme&amp;#160;Lorho, M.&amp;#160;Lottiaux, M.&amp;#160;Loubet, M.&amp;#160;David&amp;#160;Magnier, Mme&amp;#160;Marais-Beuil, M.&amp;#160;Marchio, M.&amp;#160;Markowsky, M.&amp;#160;Patrice&amp;#160;Martin, Mme&amp;#160;Martinez, M.&amp;#160;Mauvieux, M.&amp;#160;Meizonnet, M.&amp;#160;Meurin, M.&amp;#160;Monnier, M.&amp;#160;Muller, Mme&amp;#160;M&amp;#233;lin, Mme&amp;#160;M&amp;#233;nach&amp;#233;, M.&amp;#160;M&amp;#233;nag&amp;#233;, M.&amp;#160;Odoul, Mme&amp;#160;Parmentier, M.&amp;#160;Perez, M.&amp;#160;Pfeffer, Mme&amp;#160;Pollet, M.&amp;#160;Rambaud, Mme&amp;#160;Ranc, M.&amp;#160;Rancoule, M.&amp;#160;Renault, Mme&amp;#160;Rimbert, M.&amp;#160;Rivi&amp;#232;re, Mme&amp;#160;Robert-Dehault, Mme&amp;#160;Roullaud, Mme&amp;#160;Roy, Mme&amp;#160;Sabatini, M.&amp;#160;Sabatou, M.&amp;#160;Salmon, M.&amp;#160;Schreck, Mme&amp;#160;Sicard, M.&amp;#160;Emmanuel&amp;#160;Tach&amp;#233;, M.&amp;#160;Jean-Philippe&amp;#160;Tanguy, M.&amp;#160;Taverne, M.&amp;#160;Tesson, M.&amp;#160;Tivoli, M.&amp;#160;Tomatis, M.&amp;#160;Tonussi, M.&amp;#160;Tribuiani, M.&amp;#160;Villedieu, M.&amp;#160;Vos et M.&amp;#160;Weber</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>APRÈS ART. 14</articleDesignationCourte>            
+         <articleDesignation>APRÈS L'ARTICLE 14, insérer l'article suivant:</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>Après</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>true</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité</cartoucheInformatif>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Tout &amp;#x00E9;leveur ou d&amp;#x00E9;tenteur de troupeau est autoris&amp;#x00E9; &amp;#x00E0; proc&amp;#x00E9;der &amp;#x00E0; des tirs de d&amp;#x00E9;fense imm&amp;#x00E9;diatement en cas d&amp;#x2019;attaque ou de menace imminente sur ces animaux, sans autorisation administrative pr&amp;#x00E9;alable, dans des conditions d&amp;#x00E9;finies par d&amp;#x00E9;cret en Conseil d&amp;#x2019;&amp;#x00C9;tat.&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p&gt;Cet amendement vise &amp;#x00E0; instaurer un droit effectif &amp;#x00E0; la d&amp;#x00E9;fense des troupeaux.&lt;/p&gt;&lt;p&gt;&lt;br&gt;Les proc&amp;#x00E9;dures actuelles, trop lourdes et trop lentes, ne permettent pas aux &amp;#x00E9;leveurs de faire face&amp;nbsp;efficacement aux attaques. En situation d&amp;#x2019;urgence, l&amp;#x2019;exigence d&amp;#x2019;une autorisation pr&amp;#x00E9;alable est&amp;nbsp;inadapt&amp;#x00E9;e et expose les exploitants &amp;#x00E0; des pertes importantes.&lt;/p&gt;&lt;p&gt;&lt;br&gt;Il convient donc de reconna&amp;#x00EE;tre un droit de tir imm&amp;#x00E9;diat en cas de danger av&amp;#x00E9;r&amp;#x00E9;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-15</dateDepot>        
+      <datePublication>2026-05-18</datePublication>        
+      <soumisArticle40>true</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>ET</code>                
+            <libelle>En traitement</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>R</code>                
+            <libelle>R</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N001238?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference>        
+      <codeLoi>Z1</codeLoi>        
+      <divisionCodeLoi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </loiReference>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

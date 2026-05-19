@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO419865B2632P0D1N000087</uid>    
+   <chronotag>1777497842066</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>CD87</numeroLong>        
+      <numeroOrdreDepot>87</numeroOrdreDepot>        
+      <prefixeOrganeExamen>CION-DVP</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO419865B2632P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17B2632</texteLegislatifRef>    
+   <triAmendement>esaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaavs</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA793298</acteurRef>            
+         <groupePolitiqueRef>PO845401</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA720668</acteurRef>            
+         <acteurRef>PA841131</acteurRef>            
+         <acteurRef>PA841761</acteurRef>            
+         <acteurRef>PA841621</acteurRef>            
+         <acteurRef>PA841451</acteurRef>            
+         <acteurRef>PA793632</acteurRef>            
+         <acteurRef>PA796026</acteurRef>            
+         <acteurRef>PA794530</acteurRef>            
+         <acteurRef>PA840837</acteurRef>            
+         <acteurRef>PA793852</acteurRef>            
+         <acteurRef>PA795410</acteurRef>            
+         <acteurRef>PA796050</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Tivoli,  M.&amp;#160;Blairy, Mme&amp;#160;Bouquin, M.&amp;#160;Dutremble, M.&amp;#160;Evrard, M.&amp;#160;Guibert, M.&amp;#160;Houssin, Mme&amp;#160;Lechanteux, M.&amp;#160;Marchio, M.&amp;#160;Markowsky, M.&amp;#160;Meurin, Mme&amp;#160;Roullaud et M.&amp;#160;Schreck</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2632.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>Apres</avant_A_Apres>                
+            <numero>6</numero>                
+            <alineaDesignation>Après l'alinéa 6</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;6, ins&amp;#x00E9;rer l&amp;#x2019;alin&amp;#x00E9;a suivant&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;L&amp;#x2019;arr&amp;#x00EA;t&amp;#x00E9; mentionn&amp;#x00E9; au quatri&amp;#x00E8;me alin&amp;#x00E9;a identifie des zones caract&amp;#x00E9;ris&amp;#x00E9;es par une pr&amp;#x00E9;sence significative et r&amp;#x00E9;currente du loup, dans lesquelles sont mises en &amp;#x0153;uvre des mesures renforc&amp;#x00E9;es d&amp;#x2019;&amp;#x00E9;loignement, de pr&amp;#x00E9;vention et de protection des troupeaux. Ces zones sont d&amp;#x00E9;finies sur la base de donn&amp;#x00E9;es objectives et actualis&amp;#x00E9;es relatives &amp;#x00E0; la pression de pr&amp;#x00E9;dation. Un d&amp;#x00E9;cret en Conseil d&amp;#x2019;&amp;#x00C9;tat pr&amp;#x00E9;cise les modalit&amp;#x00E9;s d&amp;#x2019;application du pr&amp;#x00E9;sent alin&amp;#x00E9;a&amp;nbsp;&amp;#x00BB;.&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Depuis une quinzaine d&amp;#x2019;ann&amp;#x00E9;es, le loup &amp;#x00E9;tend progressivement sa pr&amp;#x00E9;sence sur le territoire. Pendant longtemps, toute discussion sur ses impacts &amp;#x00E9;tait impossible &amp;#x00E0; mener tant le d&amp;#x00E9;bat &amp;#x00E9;tait fauss&amp;#x00E9; par des prises de position id&amp;#x00E9;ologiques. Pourtant, sa progression actuelle l&amp;#x2019;am&amp;#x00E8;ne d&amp;#x00E9;sormais &amp;#x00E0; s&amp;#x2019;approcher, voire &amp;#x00E0; p&amp;#x00E9;n&amp;#x00E9;trer, dans des zones urbanis&amp;#x00E9;es. Des observations r&amp;#x00E9;p&amp;#x00E9;t&amp;#x00E9;es ont ainsi &amp;#x00E9;t&amp;#x00E9; signal&amp;#x00E9;es &amp;#x00E0; proximit&amp;#x00E9; imm&amp;#x00E9;diate, ou au c&amp;#x0153;ur m&amp;#x00EA;me de villes comme Nice, Menton ou Grasse. La pr&amp;#x00E9;sence du loup a des effets directes sur la faune sauvage et les animaux domestiques. Cette proximit&amp;#x00E9; soul&amp;#x00E8;ve des inqui&amp;#x00E9;tudes l&amp;#x00E9;gitimes, tant pour les animaux domestiques que pour les populations humaines. Preuve en est, il a fallu attendre le d&amp;#x00E9;c&amp;#x00E8;s du poney d&amp;#x2019;Ursula Von Der Leyen pour que l&amp;#x2019;on se d&amp;#x00E9;cide enfin &amp;#x00E0; mener un d&amp;#x00E9;bat de fond.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Le loup demeure une esp&amp;#x00E8;ce sauvage, dont la place n&amp;#x2019;est pas en milieu urbain. Il appara&amp;#x00EE;t donc n&amp;#x00E9;cessaire de mettre en &amp;#x0153;uvre des dispositifs adapt&amp;#x00E9;s visant &amp;#x00E0; limiter son approche, renforcer les moyens de protection, et instaurer de v&amp;#x00E9;ritables zones tampons entre espaces naturels et zones habit&amp;#x00E9;es.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-04-23</dateDepot>        
+      <datePublication>2026-04-29</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>DI</code>                
+            <libelle>Discuté</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>DI</code>                
+            <libelle>Rejeté</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort>2026-04-29T23:23:44+02:00</dateSort>        
+      <sort>Rejeté</sort>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO419865B2632P0D1N000087?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

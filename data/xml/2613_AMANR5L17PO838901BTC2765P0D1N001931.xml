@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N001931</uid>    
+   <chronotag>1778920948908</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>1931</numeroLong>        
+      <numeroOrdreDepot>1931</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>goaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaec</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA793796</acteurRef>            
+         <groupePolitiqueRef>PO845485</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA793214</acteurRef>            
+         <acteurRef>PA267763</acteurRef>            
+         <acteurRef>PA841543</acteurRef>            
+         <acteurRef>PA840817</acteurRef>            
+         <acteurRef>PA719138</acteurRef>            
+         <acteurRef>PA719286</acteurRef>            
+         <acteurRef>PA942</acteurRef>            
+         <acteurRef>PA841359</acteurRef>            
+         <acteurRef>PA267042</acteurRef>            
+         <acteurRef>PA1592</acteurRef>            
+         <acteurRef>PA841017</acteurRef>            
+         <acteurRef>PA795244</acteurRef>            
+         <acteurRef>PA227089</acteurRef>            
+         <acteurRef>PA720976</acteurRef>            
+         <acteurRef>PA841931</acteurRef>            
+         <acteurRef>PA607619</acteurRef>            
+         <acteurRef>PA721486</acteurRef>            
+         <acteurRef>PA721110</acteurRef>            
+         <acteurRef>PA720960</acteurRef>            
+         <acteurRef>PA721474</acteurRef>            
+         <acteurRef>PA2952</acteurRef>            
+         <acteurRef>PA796078</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Taupiac,  Mme&amp;#160;Abadie-Amiel, M.&amp;#160;Bataille, M.&amp;#160;Bodart, M.&amp;#160;Bruneau, M.&amp;#160;Castellani, M.&amp;#160;Colombani, M.&amp;#160;de&amp;#160;Courson, Mme&amp;#160;de&amp;#160;P&amp;#233;lichy, M.&amp;#160;Favennec-B&amp;#233;cot, M.&amp;#160;Habib, M.&amp;#160;Huwart, M.&amp;#160;Lenormand, Mme&amp;#160;L&amp;#233;tard, M.&amp;#160;Mathiasin, M.&amp;#160;Mazaury, M.&amp;#160;Molac, M.&amp;#160;Naegelen, Mme&amp;#160;Sanquer, M.&amp;#160;Serva, M.&amp;#160;Viry, M.&amp;#160;Warsmann et Mme&amp;#160;Youssouffa</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>APRÈS ART. 14</articleDesignationCourte>            
+         <articleDesignation>APRÈS L'ARTICLE 14, insérer l'article suivant:</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>Après</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>true</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité</cartoucheInformatif>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;La section 1 du chapitre I&lt;sup&gt;er&lt;/sup&gt; du titre I&lt;sup&gt;er&lt;/sup&gt; du livre IV du code de l&amp;#x2019;environnement est ainsi modifi&amp;#x00E9;e&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;1&amp;#x00B0;&amp;nbsp;L&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;1 du code de l&amp;#x2019;environnement est ainsi modifi&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&lt;i&gt;a)&lt;/i&gt; Apr&amp;#x00E8;s le I&amp;nbsp;de l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;1 du code de l&amp;#x2019;environnement, il est ins&amp;#x00E9;r&amp;#x00E9; un I&amp;nbsp;&lt;i&gt;ter&lt;/i&gt; ainsi r&amp;#x00E9;dig&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;I&amp;nbsp;&lt;i&gt;ter&lt;/i&gt;.&amp;nbsp;&amp;#x2013;&amp;nbsp;Afin de pr&amp;#x00E9;venir les dommages aux exploitations piscicoles dus au grand cormoran (Phalacrocorax carbo sinensis) tout en assurant le maintien dans un &amp;#x00E9;tat de conservation favorable de l&amp;#x2019;esp&amp;#x00E8;ce, un arr&amp;#x00EA;t&amp;#x00E9; conjoint des ministres charg&amp;#x00E9;s de la protection de la nature et de l&amp;#x2019;agriculture d&amp;#x00E9;finit les conditions dans lesquelles cette esp&amp;#x00E8;ce fait l&amp;#x2019;objet de mesures de gestion. Ces mesures de gestion sont d&amp;#x00E9;termin&amp;#x00E9;es sur le fondement de donn&amp;#x00E9;es scientifiques actualis&amp;#x00E9;es r&amp;#x00E9;guli&amp;#x00E8;rement.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;L&amp;#x2019;arr&amp;#x00EA;t&amp;#x00E9; pr&amp;#x00E9;cise les mesures de gestion, notamment en mati&amp;#x00E8;re d&amp;#x2019;effarouchement et de destruction, ainsi que la destruction des nids et l&amp;#x2019;huilage des &amp;#x0153;ufs, destin&amp;#x00E9;es &amp;#x00E0; lutter contre la pr&amp;#x00E9;dation des poissons d&amp;#x2019;&amp;#x00E9;levage, ainsi que leurs modalit&amp;#x00E9;s de mise en &amp;#x0153;uvre, en particulier les r&amp;#x00E9;gimes de d&amp;#x00E9;claration ou d&amp;#x2019;autorisation. Il pr&amp;#x00E9;voit que ces mesures, adapt&amp;#x00E9;es &amp;#x00E0; l&amp;#x2019;&amp;#x00E9;volution de la pression de pr&amp;#x00E9;dation, peuvent, selon les territoires, et afin de garantir le maintien de l&amp;#x2019;esp&amp;#x00E8;ce dans un &amp;#x00E9;tat de conservation favorable, &amp;#x00EA;tre suspendues par l&amp;#x2019;autorit&amp;#x00E9; administrative.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Le nombre maximal de sp&amp;#x00E9;cimens et de nids pouvant &amp;#x00EA;tre d&amp;#x00E9;truits annuellement, ainsi que le nombre maximal d&amp;#x2019;&amp;#x0153;ufs pouvant &amp;#x00EA;tre huil&amp;#x00E9;s, est d&amp;#x00E9;termin&amp;#x00E9; &amp;#x00E0; l&amp;#x2019;&amp;#x00E9;chelle d&amp;#x00E9;partementale et en tenant compte de l&amp;#x2019;&amp;#x00E9;tat favorable de conservation de l&amp;#x2019;esp&amp;#x00E8;ce.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;L&amp;#x2019;&amp;#x00E9;valuation de l&amp;#x2019;incidence des mesures de gestion sur l&amp;#x2019;&amp;#x00E9;tat de conservation du grand cormoran s&amp;#x2019;appr&amp;#x00E9;cie au niveau d&amp;#x00E9;partemental.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&lt;i&gt;b)&lt;/i&gt; Au&amp;nbsp;II, apr&amp;#x00E8;s la r&amp;#x00E9;f&amp;#x00E9;rence&amp;nbsp;: &amp;#x00AB;&amp;nbsp;I&amp;nbsp;&lt;i&gt;bis&lt;/i&gt;&amp;nbsp;&amp;#x00BB;, sont ins&amp;#x00E9;r&amp;#x00E9;s les mots&amp;nbsp;: &amp;#x00AB;&amp;nbsp;et du&amp;nbsp;I&amp;nbsp;&lt;i&gt;ter&lt;/i&gt;&amp;nbsp;&amp;#x00BB;.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;2&amp;#x00B0;&amp;nbsp;Le I de l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2 est ainsi modifi&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&lt;i&gt;a)&lt;/i&gt; Au&amp;nbsp;2&amp;#x00B0;, la r&amp;#x00E9;f&amp;#x00E9;rence&amp;nbsp;: &amp;#x00AB;&amp;nbsp;I&amp;nbsp;&lt;i&gt;bis&lt;/i&gt;&amp;nbsp;&amp;#x00BB; est remplac&amp;#x00E9;e par les mots&amp;nbsp;: &amp;#x00AB;&amp;nbsp;des&amp;nbsp;I, I&amp;nbsp;&lt;i&gt;bis&lt;/i&gt; et I&amp;nbsp;&lt;i&gt;ter&lt;/i&gt;&amp;nbsp;&amp;#x00BB;&amp;nbsp;;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&lt;i&gt;b)&lt;/i&gt; Au premier alin&amp;#x00E9;a du&amp;nbsp;4&amp;#x00B0;, apr&amp;#x00E8;s a r&amp;#x00E9;f&amp;#x00E9;rence&amp;nbsp;: &amp;#x00AB;&amp;nbsp;3&amp;#x00B0;&amp;nbsp;&amp;#x00BB;, sont ins&amp;#x00E9;r&amp;#x00E9;s les mots&amp;nbsp;: &amp;#x00AB;&amp;nbsp;du&amp;nbsp;I et au&amp;nbsp;I&amp;nbsp;&lt;i&gt;bis&lt;/i&gt; et&amp;nbsp;&lt;i&gt;ter&lt;/i&gt;&amp;nbsp;&amp;#x00BB;&amp;nbsp;;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&lt;i&gt;c)&lt;/i&gt; Au&amp;nbsp;6&amp;#x00B0;, apr&amp;#x00E8;s la r&amp;#x00E9;f&amp;#x00E9;rence&amp;nbsp;: &amp;#x00AB;&amp;nbsp;I&amp;nbsp;&amp;#x00BB;, sont ins&amp;#x00E9;r&amp;#x00E9;s les mots&amp;nbsp;: &amp;#x00AB;&amp;nbsp;ou au&amp;nbsp;I&amp;nbsp;&lt;i&gt;bis&lt;/i&gt; ou au&amp;nbsp;I&amp;nbsp;&lt;i&gt;ter&lt;/i&gt;&amp;nbsp;&amp;#x00BB;.&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;La France fait face &amp;#x00E0; un d&amp;#x00E9;ficit structurel en produits aquatiques (&amp;#x2013;4,9 milliards d&amp;#x2019;euros en 2024). Dans ce contexte, la pisciculture constitue un levier strat&amp;#x00E9;gique pour renforcer la souverainet&amp;#x00E9; alimentaire.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Toutefois, le d&amp;#x00E9;veloppement de la fili&amp;#x00E8;re est aujourd&amp;#x2019;hui fortement contraint par un facteur insuffisamment pris en compte dans les politiques publiques : la pr&amp;#x00E9;dation par le grand cormoran (Phalacrocorax carbo sinensis).&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Dans le cadre du projet de loi pour la protection et la souverainet&amp;#x00E9; agricoles, la pr&amp;#x00E9;dation du cormoran doit &amp;#x00EA;tre reconnue comme un enjeu majeur, au m&amp;#x00EA;me titre que celle du loup.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Les populations de cormorans ont fortement augment&amp;#x00E9; ces derni&amp;#x00E8;res d&amp;#x00E9;cennies. Autrefois esp&amp;#x00E8;ce migratrice ne faisant que transiter, cet oiseau s'est install&amp;#x00E9; durablement, en partie en raison du raccourcissement des hivers, mais aussi de la rar&amp;#x00E9;faction des ressources halieutiques sur les c&amp;#x00F4;tes. Cette &amp;#x00E9;volution modifie profond&amp;#x00E9;ment la dynamique des conflits homme&amp;#x2011;oiseau : des populations locales stables exercent une pression continue sur les &amp;#x00E9;levages piscicoles, rendant les &amp;#x00E9;pisodes de pr&amp;#x00E9;dation plus fr&amp;#x00E9;quents et plus difficiles &amp;#x00E0; g&amp;#x00E9;rer par des mesures ponctuelles.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Au niveau des exploitations piscicoles, les impacts d&amp;#x00E9;passent largement la seule pr&amp;#x00E9;dation directe : perte de production et baisse des rendements, blessures et stress entra&amp;#x00EE;nant des mortalit&amp;#x00E9;s diff&amp;#x00E9;r&amp;#x00E9;es, d&amp;#x00E9;sorganisation des cycles de production, augmentation des co&amp;#x00FB;ts de protection et de main-d&amp;#x2019;&amp;#x0153;uvre et fragilisation &amp;#x00E9;conomique des entreprises.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;La pisciculture d&amp;#x2019;&amp;#x00E9;tangs constitue le secteur le plus touch&amp;#x00E9; : en 2021, la pr&amp;#x00E9;dation est cit&amp;#x00E9;e comme raison expliquant la non-atteinte de la production maximale par 37 % des entreprises. C&amp;#x2019;est, de loin, la raison majeure de la baisse des volumes produits (Agreste, enqu&amp;#x00EA;te aquaculture 2021). Les effets de la pr&amp;#x00E9;dation par le grand cormoran concernent d&amp;#x00E9;sormais l&amp;#x2019;ensemble des mod&amp;#x00E8;les de production.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Le grand cormoran b&amp;#x00E9;n&amp;#x00E9;ficie d&amp;#x2019;un statut de protection au titre de la directive Oiseaux, bien que son &amp;#x00E9;tat de conservation soit jug&amp;#x00E9; favorable. Des d&amp;#x00E9;rogations sont pr&amp;#x00E9;vues (article 9) afin de pr&amp;#x00E9;venir les dommages aux activit&amp;#x00E9;s &amp;#x00E9;conomiques, notamment la pisciculture. Ainsi, certains professionnels disposent de quotas de tir. Toutefois, ces quotas ne peuvent pas toujours &amp;#x00EA;tre utilis&amp;#x00E9;s en l&amp;#x2019;absence de personnel disponible sur place pour effectuer la r&amp;#x00E9;gulation.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Aujourd&amp;#x2019;hui, la profession souhaite disposer de mesures plus efficaces, privil&amp;#x00E9;giant la r&amp;#x00E9;gulation des cormorans sans recours &amp;#x00E0; la destruction. Cela pourrait passer par la destruction des nids ou l&amp;#x2019;huilage des &amp;#x0153;ufs visant &amp;#x00E0; la st&amp;#x00E9;rilisation, une m&amp;#x00E9;thode encore plus performante.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Cet amendement est issu d'une proposition du CIPA.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-15</dateDepot>        
+      <datePublication>2026-05-16</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>ET</code>                
+            <libelle>En traitement</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N001931?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference>        
+      <codeLoi>c environnement</codeLoi>        
+      <divisionCodeLoi>L411-1</divisionCodeLoi>    
+   </loiReference>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

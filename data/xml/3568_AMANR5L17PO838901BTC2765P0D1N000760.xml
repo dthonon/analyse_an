@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N000760</uid>    
+   <chronotag>1779037018348</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>760</numeroLong>        
+      <numeroOrdreDepot>760</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>giaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaanxu</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA721458</acteurRef>            
+         <groupePolitiqueRef>PO845470</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Roseren</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>Apres</avant_A_Apres>                
+            <numero>11</numero>                
+            <alineaDesignation>Après l'alinéa 11</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité</cartoucheInformatif>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;11, ins&amp;#x00E9;rer l&amp;#x2019;alin&amp;#x00E9;a suivant&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Aux seules fins d&amp;#x2019;am&amp;#x00E9;lioration des tirs de d&amp;#x00E9;fense, tout &amp;#x00E9;leveur exploitant &amp;#x00E0; titre individuel ou sous forme soci&amp;#x00E9;taire, tout propri&amp;#x00E9;taire public ou priv&amp;#x00E9; d&amp;#x2019;une exploitation agricole d&amp;#x2019;&amp;#x00E9;levage mettant en valeur des surfaces p&amp;#x00E2;tur&amp;#x00E9;es, ou tout mandataire d&amp;#x00E9;sign&amp;#x00E9; par lui, peut, sous r&amp;#x00E9;serve d&amp;#x2019;&amp;#x00EA;tre titulaire d&amp;#x2019;un permis de chasser en cours de validit&amp;#x00E9;, utiliser des dispositifs de rep&amp;#x00E9;rage utilisant la technologie d&amp;#x2019;amplification de la lumi&amp;#x00E8;re ou la d&amp;#x00E9;tection thermique, &amp;#x00E0; l&amp;#x2019;exception des appareils pouvant &amp;#x00EA;tre mis en &amp;#x0153;uvre sans l&amp;#x2019;aide des mains et des appareils &amp;#x00E9;quip&amp;#x00E9;s d&amp;#x2019;un adaptateur permettant de les fixer sur une lunette de tir.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Cet amendement vise &amp;#x00E0; autoriser l&amp;#x2019;utilisation de jumelles permettant d&amp;#x2019;am&amp;#x00E9;liorer la vision nocturne, et de jumelles permettant d&amp;#x2019;identifier les sources de chaleur, dans le cadre des tirs de d&amp;#x00E9;fense.&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Leur utilisation est d&amp;#x2019;ores et d&amp;#x00E9;j&amp;#x00E0; autoris&amp;#x00E9;e, mais elle est soumise &amp;#x00E0; un accord pr&amp;#x00E9;alable de l&amp;#x2019;OFB.&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Dans le cadre de la chasse et de la r&amp;#x00E9;gulation des esp&amp;#x00E8;ces nuisibles, ces jumelles sont d&amp;#x00E9;j&amp;#x00E0; autoris&amp;#x00E9;es, sans validation pr&amp;#x00E9;alable de l&amp;#x2019;administration. Cet amendement vise &amp;#x00E0; soumettre les &amp;#x00E9;leveurs expos&amp;#x00E9;s &amp;#x00E0; la pr&amp;#x00E9;dation aux r&amp;#x00E8;gles de droit commun de la chasse et de la r&amp;#x00E9;gulation des esp&amp;#x00E8;ces nuisibles, telles que le sanglier.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-14</dateDepot>        
+      <datePublication>2026-05-15</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>ET</code>                
+            <libelle>En traitement</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N000760?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

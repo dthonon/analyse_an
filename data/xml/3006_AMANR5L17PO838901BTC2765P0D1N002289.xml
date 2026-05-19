@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N002289</uid>    
+   <chronotag>1779036451815</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>2289</numeroLong>        
+      <numeroOrdreDepot>2289</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>giaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaanaw</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Gouvernement</typeAuteur>            
+         <gouvernementRef>PO873634</gouvernementRef>            
+         <acteurRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <groupePolitiqueRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> le Gouvernement</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>                
+            <numero>10</numero>                
+            <alineaDesignation>Alinéa 10</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité</cartoucheInformatif>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;&amp;#x00C0;&amp;nbsp;l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;10, substituer aux mots&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;constat&amp;#x00E9;s par le repr&amp;#x00E9;sentant de l&amp;#x2019;&amp;#x00C9;tat dans le d&amp;#x00E9;partement, le pr&amp;#x00E9;fet coordonnateur du plan national d&amp;#x2019;actions sur le loup peut autoriser l&amp;#x2019;abattage de sp&amp;#x00E9;cimens &amp;#x00E0; titre d&amp;#x00E9;rogatoire, &amp;#x00E0; l&amp;#x2019;&amp;#x00E9;chelle du d&amp;#x00E9;partement dans lequel ont &amp;#x00E9;t&amp;#x00E9; constat&amp;#x00E9;s les dommages et&amp;nbsp;&amp;#x00BB;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;les mots&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;des destructions de sp&amp;#x00E9;cimens suppl&amp;#x00E9;mentaires peuvent &amp;#x00EA;tre accord&amp;#x00E9;es&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p&gt;Cet amendement vise &amp;#x00E0; modifier le texte de la commission (amendement 559) pour conserver la coh&amp;#x00E9;rence du dispositif national en termes de plafond de pr&amp;#x00E9;l&amp;#x00E8;vement et renforcer sa robustesse. Le plafond national d&amp;#x00E9;finit d&amp;#x00E9;j&amp;#x00E0; le maximum de pr&amp;#x00E9;l&amp;#x00E8;vements possibles, sans remettre en cause l&amp;#x2019;&amp;#x00E9;tat de conservation du loup.&lt;/p&gt;&lt;p&gt;Pour ne pas laisser les &amp;#x00E9;leveurs sans solution en fin d&amp;#x2019;ann&amp;#x00E9;e civile, lorsque le plafond de tirs est atteint, il est important de permettre de le relever sans remettre en cause l&amp;#x2019;&amp;#x00E9;tat de conservation favorable. Afin de garder une coh&amp;#x00E9;rence nationale, ce r&amp;#x00F4;le revient au pr&amp;#x00E9;fet coordonnateur du plan loup dans l&amp;#x2019;organisation administrative actuelle. Cette mesure permet de r&amp;#x00E9;pondre aux situations critiques &amp;#x00E0; l&amp;#x2019;&amp;#x00E9;chelle nationale, tout en garantissant une gestion &amp;#x00E9;quilibr&amp;#x00E9;e de la population lupine. Autoriser localement des destructions suppl&amp;#x00E9;mentaires, sans limite fix&amp;#x00E9;e, exposerait n&amp;#x00E9;cessairement l&amp;#x2019;Etat &amp;#x00E0; un risque contentieux.&lt;/p&gt;&lt;p&gt;Cet amendement permet donc d&amp;#x2019;inscrire dans la loi la possibilit&amp;#x00E9; de relever le nombre de loups pouvant &amp;#x00EA;tre abattus, si le nombre maximal de loups d&amp;#x00E9;fini par l&amp;#x2019;arr&amp;#x00EA;t&amp;#x00E9; est atteint avant la fin de l&amp;#x2019;ann&amp;#x00E9;e civile, dans la limite d&amp;#x2019;un seuil maximal.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-17</dateDepot>        
+      <datePublication>2026-05-17</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>ET</code>                
+            <libelle>En traitement</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N002289?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>true</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

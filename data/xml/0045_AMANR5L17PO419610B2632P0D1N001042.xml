@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO419610B2632P0D1N001042</uid>    
+   <chronotag>1778100109858</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>CE1042</numeroLong>        
+      <numeroOrdreDepot>1042</numeroOrdreDepot>        
+      <prefixeOrganeExamen>CION-ECO</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO419610B2632P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17B2632</texteLegislatifRef>    
+   <triAmendement>jhoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaav</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Rapporteur</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA721458</acteurRef>            
+         <groupePolitiqueRef>PO845470</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef>PO419865</auteurRapporteurOrganeRef>        
+      </auteur>        
+      <cosignataires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Roseren, rapporteur pour avis au nom de la commission du d&amp;#233;veloppement durable et de l&amp;apos;am&amp;#233;nagement du territoire</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2632.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>Apres</avant_A_Apres>                
+            <numero>14</numero>                
+            <alineaDesignation>Après l'alinéa 14</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;14, ins&amp;#x00E9;rer l&amp;#x2019;alin&amp;#x00E9;a suivant&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;III&amp;nbsp;&lt;i&gt;bis&lt;/i&gt;.&amp;nbsp;&amp;#x2013;&amp;nbsp;Les tirs d&amp;#x2019;effarouchement et de d&amp;#x00E9;fense ne peuvent &amp;#x00EA;tre interdits dans les espaces prot&amp;#x00E9;g&amp;#x00E9;s mentionn&amp;#x00E9;s aux articles L.&amp;nbsp;331&amp;#x2011;1, L.&amp;nbsp;332&amp;#x2011;1 et L.&amp;nbsp;341&amp;#x2011;1 du code de l&amp;#x2019;environnement, &amp;#x00E0; l&amp;#x2019;exception des c&amp;#x0153;urs de parcs nationaux d&amp;#x00E9;finis &amp;#x00E0; l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;331&amp;#x2011;2 du m&amp;#x00EA;me code.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Cet amendement vise &amp;#x00E0; rem&amp;#x00E9;dier &amp;#x00E0; l&amp;#x2019;in&amp;#x00E9;galit&amp;#x00E9; &amp;#x00E0; laquelle sont confront&amp;#x00E9;s les &amp;#x00E9;leveurs situ&amp;#x00E9;s dans les R&amp;#x00E9;serves naturelles et Parcs nationaux, en pr&amp;#x00E9;voyant d&amp;#x2019;autoriser les tirs d&amp;#x2019;effarouchement et de d&amp;#x00E9;fense. L&amp;#x2019;amendement exclut cependant les c&amp;#x0153;urs de parcs nationaux, dont la r&amp;#x00E9;glementation peut interdire totalement la chasse et la destruction d&amp;#x2019;esp&amp;#x00E8;ces.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-04-30</dateDepot>        
+      <datePublication>2026-05-06</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>DI</code>                
+            <libelle>Discuté</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>DI</code>                
+            <libelle>Adopté</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort>2026-05-06T22:41:12+02:00</dateSort>        
+      <sort>Adopté</sort>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO419610B2632P0D1N001042?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

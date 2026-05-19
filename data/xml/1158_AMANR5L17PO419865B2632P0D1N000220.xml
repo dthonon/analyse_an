@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO419865B2632P0D1N000220</uid>    
+   <chronotag>1777497362221</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>CD220</numeroLong>        
+      <numeroOrdreDepot>220</numeroOrdreDepot>        
+      <prefixeOrganeExamen>CION-DVP</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO419865B2632P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17B2632</texteLegislatifRef>    
+   <triAmendement>esaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaavp</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA719890</acteurRef>            
+         <groupePolitiqueRef>PO845407</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> Mme&amp;#160;Brulebois</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2632.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>                
+            <numero>6</numero>                
+            <alineaDesignation>Alinéa 6</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;I.&amp;nbsp;&amp;#x2013;&amp;nbsp;&amp;#x00C0;&amp;nbsp;la premi&amp;#x00E8;re phrase de l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;6, supprimer les mots&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;en principe&amp;nbsp;&amp;#x00BB;.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;II.&amp;nbsp;&amp;#x2013;&amp;nbsp;En cons&amp;#x00E9;quence, supprimer la seconde phrase du m&amp;#x00EA;me alin&amp;#x00E9;a.&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p&gt;Pour assurer une &amp;#x00E9;galit&amp;#x00E9; de traitement entre tous les &amp;#x00E9;leveurs, la loi doit autoriser le recours aux tirs de d&amp;#x00E9;fense sans distinction g&amp;#x00E9;ographique. &amp;#x00C0; cette fin, l&amp;#x2019;&amp;#x00E9;valuation de l&amp;#x2019;&amp;#x00E9;tat de conservation du loup est men&amp;#x00E9;e &amp;#x00E0; l&amp;#x2019;&amp;#x00E9;chelle nationale, garantissant ainsi une approche uniforme et &amp;#x00E9;quitable sur l&amp;#x2019;ensemble du territoire.&lt;/p&gt;&lt;p&gt;Cet amendement a &amp;#x00E9;t&amp;#x00E9; travaill&amp;#x00E9; avec la FNSEA.&amp;nbsp;&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-04-24</dateDepot>        
+      <datePublication>2026-04-29</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>DI</code>                
+            <libelle>Discuté</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>DI</code>                
+            <libelle>Non soutenu</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort>2026-04-29T23:15:56+02:00</dateSort>        
+      <sort>Non soutenu</sort>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO419865B2632P0D1N000220?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune>        
+      <idDiscussion>37923</idDiscussion>        
+      <typePosition>Milieu</typePosition>    
+   </discussionCommune>    
+   <discussionIdentique>        
+      <idDiscussion>89685</idDiscussion>        
+      <typePosition>Premier</typePosition>    
+   </discussionIdentique>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

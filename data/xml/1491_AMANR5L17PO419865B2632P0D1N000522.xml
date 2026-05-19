@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO419865B2632P0D1N000522</uid>    
+   <chronotag>1777495081941</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>CD522</numeroLong>        
+      <numeroOrdreDepot>522</numeroOrdreDepot>        
+      <prefixeOrganeExamen>CION-DVP</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO419865B2632P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17B2632</texteLegislatifRef>    
+   <triAmendement>esaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaajxi</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA721426</acteurRef>            
+         <groupePolitiqueRef>PO845407</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA721844</acteurRef>            
+         <acteurRef>PA795026</acteurRef>            
+         <acteurRef>PA719512</acteurRef>            
+         <acteurRef>PA719118</acteurRef>            
+         <acteurRef>PA642935</acteurRef>            
+         <acteurRef>PA719922</acteurRef>            
+         <acteurRef>PA718674</acteurRef>            
+         <acteurRef>PA795390</acteurRef>            
+         <acteurRef>PA795334</acteurRef>            
+         <acteurRef>PA879389</acteurRef>            
+         <acteurRef>PA719632</acteurRef>            
+         <acteurRef>PA793270</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> Mme&amp;#160;Riotton,  Mme&amp;#160;Piron, Mme&amp;#160;Violland, Mme&amp;#160;Vignon, M.&amp;#160;Cormier-Bouligeon, M.&amp;#160;Becht, M.&amp;#160;Causse, Mme&amp;#160;Givernet, Mme&amp;#160;Lalanne, M.&amp;#160;Larrouquis, Mme&amp;#160;Lubet, Mme&amp;#160;Panonacle et M.&amp;#160;Rousset</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2632.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>                
+            <numero>4</numero>                
+            <alineaDesignation>Alinéa 4</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;&amp;#x00C0;&amp;nbsp;la derni&amp;#x00E8;re phrase de l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;4, apr&amp;#x00E8;s le mot&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;&amp;#x00E9;quins&amp;nbsp;&amp;#x00BB;,&lt;/p&gt;&lt;p style="text-align: justify;"&gt;ins&amp;#x00E9;rer les mots&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;ainsi que des ovins et des caprins dont les troupeaux p&amp;#x00E2;turent dans des zones de montagne pr&amp;#x00E9;sentant une forte d&amp;#x00E9;clivit&amp;#x00E9; ou une configuration rendant la mise en &amp;#x0153;uvre de moyens de protection inop&amp;#x00E9;rante ou dangereuse&amp;nbsp;&amp;#x00BB;.&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p&gt;On constate que la pr&amp;#x00E9;sence et la pr&amp;#x00E9;dation des troupeaux augmente dans certains territoires en France. Les moyens de protection classiques (cl&amp;#x00F4;tures, filets, parcage) ne sont pas toujours adapt&amp;#x00E9;s notamment en zones de montagne ou sur des terrains escarp&amp;#x00E9;s ou difficiles d&amp;#x2019;acc&amp;#x00E8;s.&amp;nbsp; Ces zones dans lesquelles p&amp;#x00E2;turent des troupeaux sont reconnues administrativement comme des &amp;#x00AB;&amp;nbsp;zones non prot&amp;#x00E9;geables &amp;#x00BB;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Aujourd&amp;#x2019;hui pour les bovins et les &amp;#x00E9;quins, le PJL reconna&amp;#x00EE;t qu&amp;#x2019;il est souvent impossible de mettre en place les protections classiques.&lt;br&gt;&amp;nbsp;&lt;br&gt;Le pr&amp;#x00E9;sent amendement va plus loin en introduisant implicitement la notion de &amp;#x00AB;&amp;nbsp;zone de non-prot&amp;#x00E9;geabilit&amp;#x00E9;&amp;nbsp;&amp;#x00BB; pour les ovins et caprins des zones de montagne. Cela permet de d&amp;#x00E9;fendre l&amp;#x2019;agropastoralisme et nos &amp;#x00E9;leveurs d&amp;#x2019;ovins et caprins en montagne.)&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-04-24</dateDepot>        
+      <datePublication>2026-04-29</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>DI</code>                
+            <libelle>Discuté</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>DI</code>                
+            <libelle>Retiré</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort>2026-04-29T22:37:45+02:00</dateSort>        
+      <sort>Retiré</sort>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO419865B2632P0D1N000522?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune>        
+      <idDiscussion>37919</idDiscussion>        
+      <typePosition>Milieu</typePosition>    
+   </discussionCommune>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

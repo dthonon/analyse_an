@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N000278</uid>    
+   <chronotag>1779191661501</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>278</numeroLong>        
+      <numeroOrdreDepot>278</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>giaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaalt</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA266793</acteurRef>            
+         <groupePolitiqueRef>PO845425</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Bony</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>A</avant_A_Apres>                
+            <numero>5</numero>                
+            <alineaDesignation>Alinéa 5</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité</cartoucheInformatif>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Compl&amp;#x00E9;ter l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;5 par la phrase suivante&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Si le comptage de la population lupine n&amp;#x2019;est pas fiable et si le taux de pr&amp;#x00E9;l&amp;#x00E8;vement n&amp;#x2019;est pas suffisant lutter contre la pr&amp;#x00E9;dation des troupeaux, le plafond de tirs peut &amp;#x00EA;tre relev&amp;#x00E9; &amp;#x00E0; un taux fix&amp;#x00E9; par d&amp;#x00E9;cret&amp;nbsp;&amp;#x00BB;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p&gt;Les attaques sur des troupeaux sont une r&amp;#x00E9;alit&amp;#x00E9; &amp;#x00E0; laquelle les &amp;#x00E9;leveurs doivent faire face. Les ovins restent l&amp;#x2019;esp&amp;#x00E8;ce la plus vuln&amp;#x00E9;rable. Les attaques ne sont pas &amp;#x00E9;galement fr&amp;#x00E9;quentes selon les r&amp;#x00E9;gions et d&amp;#x00E9;partements. Elles sont plus nombreuses dans les d&amp;#x00E9;partements o&amp;#x00F9; les loups sont implant&amp;#x00E9;s depuis longtemps, notamment dans les Alpes et dans l&amp;#x2019;arc m&amp;#x00E9;diterran&amp;#x00E9;en. En 2022, 10 853 animaux &amp;#x00E9;taient morts victimes de la pr&amp;#x00E9;dation du loup. La pr&amp;#x00E9;dation sur les bovins est beaucoup moins fr&amp;#x00E9;quente mais en augmentation. En 2023, les trois r&amp;#x00E9;gions les plus touch&amp;#x00E9;es restent dans l&amp;#x2019;ordre la r&amp;#x00E9;gion Provence-Alpes-C&amp;#x00F4;te d&amp;#x2019;Azur, la r&amp;#x00E9;gion Auvergne Rh&amp;#x00F4;ne-Alpes et la r&amp;#x00E9;gion Occitanie.&lt;/p&gt;&lt;p&gt;Depuis 2015, le nombre de victimes a augment&amp;#x00E9;, refl&amp;#x00E9;tant de fait l&amp;#x2019;augmentation de la population de loups (8 973 victimes &amp;#x00E9;tant recens&amp;#x00E9;es cette ann&amp;#x00E9;e-l&amp;#x00E0;).&lt;/p&gt;&lt;p&gt;L&amp;#x2019;arr&amp;#x00EA;t&amp;#x00E9; du 23 octobre 2020, fixant le nombre maximum de sp&amp;#x00E9;cimens de loups dont la destruction pourra &amp;#x00EA;tre autoris&amp;#x00E9;e chaque ann&amp;#x00E9;e, a &amp;#x00E9;tabli &amp;#x00E0; 19 % le pourcentage de la population estim&amp;#x00E9;e de loups pouvant &amp;#x00EA;tre annuellement pr&amp;#x00E9;lev&amp;#x00E9;e (le pr&amp;#x00E9;fet coordonnateur du PNA &amp;#x00AB; Loup et activit&amp;#x00E9; d&amp;#x2019;&amp;#x00E9;levage &amp;#x00BB; pouvant porter ce pourcentage &amp;#x00E0; 21 %).&lt;/p&gt;&lt;p&gt;Ainsi, si le nombre de pr&amp;#x00E9;l&amp;#x00E8;vement s'av&amp;#x00E8;re insuffisant et en l'absence de comptage fiable de la population lupine, il est propos&amp;#x00E9; d'augmenter le plafond de tirs (aujourd'hui fix&amp;#x00E9; &amp;#x00E0; 19%) dans des conditions d&amp;#x00E9;finies par d&amp;#x00E9;cret.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-12</dateDepot>        
+      <datePublication>2026-05-17</datePublication>        
+      <soumisArticle40>true</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>ET</code>                
+            <libelle>En traitement</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>R</code>                
+            <libelle>R</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N000278?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

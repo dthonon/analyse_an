@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO419865B2632P0D1N000186</uid>    
+   <chronotag>1777494151695</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>CD186</numeroLong>        
+      <numeroOrdreDepot>186</numeroOrdreDepot>        
+      <prefixeOrganeExamen>CION-DVP</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO419865B2632P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17B2632</texteLegislatifRef>    
+   <triAmendement>esaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaajx</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA841381</acteurRef>            
+         <groupePolitiqueRef>PO845419</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA840673</acteurRef>            
+         <acteurRef>PA840665</acteurRef>            
+         <acteurRef>PA793816</acteurRef>            
+         <acteurRef>PA607553</acteurRef>            
+         <acteurRef>PA795430</acteurRef>            
+         <acteurRef>PA841633</acteurRef>            
+         <acteurRef>PA842195</acteurRef>            
+         <acteurRef>PA841665</acteurRef>            
+         <acteurRef>PA643192</acteurRef>            
+         <acteurRef>PA774958</acteurRef>            
+         <acteurRef>PA840829</acteurRef>            
+         <acteurRef>PA841327</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> Mme&amp;#160;Pantel,  Mme&amp;#160;Rossi, Mme&amp;#160;Allemand, Mme&amp;#160;Thomin, M.&amp;#160;Potier, M.&amp;#160;Delautrette, M.&amp;#160;Dufau, M.&amp;#160;Eskenazi, M.&amp;#160;F&amp;#233;gn&amp;#233;, Mme&amp;#160;Jourdan, M.&amp;#160;Leseul, M.&amp;#160;Barusseau et M.&amp;#160;Roussel</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2632.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>A</avant_A_Apres>                
+            <numero>4</numero>                
+            <alineaDesignation>Alinéa 4</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s la deuxi&amp;#x00E8;me phrase de l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;4, ins&amp;#x00E9;rer la phrase suivante&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Les demandes d&amp;#x2019;autorisation ou de d&amp;#x00E9;rogation relatives aux mesures de gestion du loup sont instruites dans un d&amp;#x00E9;lai maximal fix&amp;#x00E9; par voie r&amp;#x00E9;glementaire.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Cet amendement du groupe Socialistes et apparent&amp;#x00E9;s vise &amp;#x00E0; encadrer dans un d&amp;#x00E9;lai maximal l&amp;#x2019;instruction des demandes d&amp;#x2019;autorisation ou de d&amp;#x00E9;rogation relatives aux mesures de gestion du loup afin de garantir la r&amp;#x00E9;activit&amp;#x00E9; et l&amp;#x2019;efficacit&amp;#x00E9; de l&amp;#x2019;action publique.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;La gestion du loup implique des interventions dont l&amp;#x2019;efficacit&amp;#x00E9; d&amp;#x00E9;pend &amp;#x00E9;troitement de leur c&amp;#x00E9;l&amp;#x00E9;rit&amp;#x00E9;, notamment dans les situations de pr&amp;#x00E9;dation r&amp;#x00E9;currente sur les troupeaux. Or, les d&amp;#x00E9;lais d&amp;#x2019;instruction administrative peuvent, dans certains cas, r&amp;#x00E9;duire significativement la port&amp;#x00E9;e op&amp;#x00E9;rationnelle des mesures de protection et de r&amp;#x00E9;gulation.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Le pr&amp;#x00E9;sent amendement tend ainsi &amp;#x00E0; introduire un encadrement temporel de l&amp;#x2019;instruction des demandes d&amp;#x2019;autorisation ou de d&amp;#x00E9;rogation, en renvoyant &amp;#x00E0; un d&amp;#x00E9;lai maximal fix&amp;#x00E9; par voie r&amp;#x00E9;glementaire.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-04-24</dateDepot>        
+      <datePublication>2026-04-29</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>DI</code>                
+            <libelle>Discuté</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>DI</code>                
+            <libelle>Rejeté</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort>2026-04-29T22:22:01+02:00</dateSort>        
+      <sort>Rejeté</sort>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO419865B2632P0D1N000186?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>
