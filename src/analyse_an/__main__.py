@@ -84,9 +84,7 @@ def read_csv_from_http(url: str) -> pd.DataFrame:
         # Lire le CSV depuis le contenu téléchargé
         csv_content = io.StringIO(response.content.decode("utf-8"))
         df = pd.read_csv(csv_content)
-        logger.info(
-            f"CSV chargé avec succès: {len(df)} lignes, {len(df.columns)} colonnes"
-        )
+        logger.info(f"CSV chargé avec succès: {len(df)} lignes, {len(df.columns)} colonnes")
         logger.debug(f"Colonnes: {list(df.columns)}")
 
         return df
@@ -191,9 +189,7 @@ def download_xml(
         raise
 
     df_amendements = filter_amendements_by_designation(df_amendements)
-    logger.info(
-        f"Amendements filtrés par 'Désignation de l'article' : {len(df_amendements)} lignes restantes."
-    )
+    logger.info(f"Amendements filtrés par 'Désignation de l'article' : {len(df_amendements)} lignes restantes.")
 
     # Supprimer la colonne 'URL Dossier législatif' si elle existe
     if "URL Dossier législatif" in df_amendements.columns:
@@ -213,9 +209,7 @@ def download_xml(
         logger.info(f"Amendements filtrés sauvegardés dans {csv_file}")
 
     xml_paths = download_xml_amendements(df_amendements, xml_dir)
-    logger.info(
-        f"Téléchargement terminé: {len(xml_paths)} fichiers XML enregistrés dans {xml_dir}"
-    )
+    logger.info(f"Téléchargement terminé: {len(xml_paths)} fichiers XML enregistrés dans {xml_dir}")
 
 
 @main.command(
@@ -254,34 +248,29 @@ def analyse_xml(xml_dir: Path, csv_dir: Path | None) -> None:
         logger.warning(f"Aucun fichier XML trouvé dans {xml_dir}")
         return None
 
-    amend = pd.DataFrame(
-        columns=["Numéro de l'amendement", "Dispositif", "Exposé sommaire"]
-    )
+    amend = pd.DataFrame(columns=["Numéro de l'amendement", "Sort", "Dispositif", "Exposé sommaire"])
     for f in files:
         try:
             num = None
+            sort_amend = None
             disp = None
             expo = None
             tree = ET.parse(f)
             for c in list(tree.getroot().iter()):
-                if (
-                    c.tag
-                    == "{http://schemas.assemblee-nationale.fr/referentiel}numeroLong"
-                ):
+                if c.tag == "{http://schemas.assemblee-nationale.fr/referentiel}numeroLong":
                     num = BeautifulSoup(str(c.text), "html.parser").get_text()
                     logger.debug(f"Tag 'numeroLong' : {num}")
-                if (
-                    c.tag
-                    == "{http://schemas.assemblee-nationale.fr/referentiel}dispositif"
-                ):
+                if c.tag == "{http://schemas.assemblee-nationale.fr/referentiel}sort":
+                    sort_amend = BeautifulSoup(str(c.text), "html.parser").get_text()
+                    logger.debug(f"Tag 'sort' : {sort_amend}")
+                if c.tag == "{http://schemas.assemblee-nationale.fr/referentiel}dispositif":
                     disp = BeautifulSoup(str(c.text), "html.parser").get_text()
                     logger.debug(f"Tag 'dispositif' : {disp}")
-                if (
-                    c.tag
-                    == "{http://schemas.assemblee-nationale.fr/referentiel}exposeSommaire"
-                ):
+                if c.tag == "{http://schemas.assemblee-nationale.fr/referentiel}exposeSommaire":
                     expo = BeautifulSoup(str(c.text), "html.parser").get_text()
                     logger.debug(f"Tag 'exposeSommaire' : {expo}")
+                sort_amend = "Irrecevable" if (sort_amend == "None" and disp is None) else sort_amend
+                sort_amend = "Non renseigné" if (sort_amend == "None") else sort_amend
             amend = pd.concat(
                 [
                     amend,
@@ -289,6 +278,7 @@ def analyse_xml(xml_dir: Path, csv_dir: Path | None) -> None:
                         [
                             {
                                 "Numéro de l'amendement": num,
+                                "Sort": sort_amend,
                                 "Dispositif": disp,
                                 "Exposé sommaire": expo,
                             }
@@ -304,16 +294,10 @@ def analyse_xml(xml_dir: Path, csv_dir: Path | None) -> None:
         csv_dir.mkdir(parents=True, exist_ok=True)
         csv_file = csv_dir / "amendements_filtrés.csv"
         amend1 = pd.read_csv(csv_file) if csv_file.exists() else pd.DataFrame()
-        logger.info(
-            f"Amendements chargés : {amend1.shape[0]} lignes, {amend1.shape[1]} colonnes"
-        )
-        logger.info(
-            f"Amendements complets : {amend.shape[0]} lignes, {amend.shape[1]} colonnes"
-        )
+        logger.info(f"Amendements chargés : {amend1.shape[0]} lignes, {amend1.shape[1]} colonnes")
+        logger.info(f"Amendements complets : {amend.shape[0]} lignes, {amend.shape[1]} colonnes")
         amend2 = amend1.merge(amend, how="inner", on="Numéro de l'amendement")
-        logger.info(
-            f"Amendements fusionnés : {amend2.shape[0]} lignes, {amend2.shape[1]} colonnes"
-        )
+        logger.info(f"Amendements fusionnés : {amend2.shape[0]} lignes, {amend2.shape[1]} colonnes")
         csv_file = csv_dir / "amendements_complétés.csv"
         amend2.to_csv(csv_file, index=False, encoding="utf-8")
         logger.info(f"Amendements extraits sauvegardés dans {csv_file}")
@@ -321,6 +305,20 @@ def analyse_xml(xml_dir: Path, csv_dir: Path | None) -> None:
         logger.info("Aucun chemin de sauvegarde CSV fourni, résultats non sauvegardés.")
 
     return None
+
+
+def print_sort_summary(df: pd.DataFrame) -> None:
+    """Affiche un résumé par valeur de la colonne 'Sort'."""
+    logger = logging.getLogger(__name__)
+    if "Sort" not in df.columns:
+        logger.warning("Aucune colonne 'Sort' dans le DataFrame, résumé non affiché.")
+        return
+
+    summary = df["Sort"].fillna("Non renseigné").astype(str).value_counts(dropna=False)
+
+    click.echo("Résumé par 'Sort':")
+    for sort_value, count in summary.items():
+        click.echo(f"  {sort_value}: {count}")
 
 
 @main.command(
@@ -375,6 +373,8 @@ def sort_csv(csv_file: Path, rows: int) -> None:
         df = df.sort_values(by=["_dispositif_key", "Dispositif"])
         df = df.drop(columns=["_dispositif_key"])
         logger.info("Amendements triés par dispositif similaire.")
+
+        print_sort_summary(df)
 
         sorted_file = csv_file.parent / "amendements_triés.csv"
         df.to_csv(sorted_file, index=False, encoding="utf-8")
