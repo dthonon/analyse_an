@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO419865B2632P0D1N000014</uid>    
+   <chronotag>1777382074194</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>CD14</numeroLong>        
+      <numeroOrdreDepot>14</numeroOrdreDepot>        
+      <prefixeOrganeExamen>CION-DVP</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO419865B2632P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17B2632</texteLegislatifRef>    
+   <triAmendement>esaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawe</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA841381</acteurRef>            
+         <groupePolitiqueRef>PO845419</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA793270</acteurRef>            
+         <acteurRef>PA822617</acteurRef>            
+         <acteurRef>PA719930</acteurRef>            
+         <acteurRef>PA719938</acteurRef>            
+         <acteurRef>PA721270</acteurRef>            
+         <acteurRef>PA719412</acteurRef>            
+         <acteurRef>PA795144</acteurRef>            
+         <acteurRef>PA1654</acteurRef>            
+         <acteurRef>PA607553</acteurRef>            
+         <acteurRef>PA266793</acteurRef>            
+         <acteurRef>PA793624</acteurRef>            
+         <acteurRef>PA840673</acteurRef>            
+         <acteurRef>PA840665</acteurRef>            
+         <acteurRef>PA642764</acteurRef>            
+         <acteurRef>PA342415</acteurRef>            
+         <acteurRef>PA642847</acteurRef>            
+         <acteurRef>PA332228</acteurRef>            
+         <acteurRef>PA805166</acteurRef>            
+         <acteurRef>PA569</acteurRef>            
+         <acteurRef>PA719968</acteurRef>            
+         <acteurRef>PA721410</acteurRef>            
+         <acteurRef>PA642695</acteurRef>            
+         <acteurRef>PA719032</acteurRef>            
+         <acteurRef>PA841339</acteurRef>            
+         <acteurRef>PA794710</acteurRef>            
+         <acteurRef>PA719890</acteurRef>            
+         <acteurRef>PA718838</acteurRef>            
+         <acteurRef>PA722000</acteurRef>            
+         <acteurRef>PA794798</acteurRef>            
+         <acteurRef>PA719472</acteurRef>            
+         <acteurRef>PA841047</acteurRef>            
+         <acteurRef>PA718850</acteurRef>            
+         <acteurRef>PA719118</acteurRef>            
+         <acteurRef>PA794430</acteurRef>            
+         <acteurRef>PA793716</acteurRef>            
+         <acteurRef>PA722390</acteurRef>            
+         <acteurRef>PA793122</acteurRef>            
+         <acteurRef>PA1008</acteurRef>            
+         <acteurRef>PA795430</acteurRef>            
+         <acteurRef>PA794982</acteurRef>            
+         <acteurRef>PA606573</acteurRef>            
+         <acteurRef>PA720154</acteurRef>            
+         <acteurRef>PA841633</acteurRef>            
+         <acteurRef>PA794854</acteurRef>            
+         <acteurRef>PA794658</acteurRef>            
+         <acteurRef>PA841665</acteurRef>            
+         <acteurRef>PA722366</acteurRef>            
+         <acteurRef>PA331973</acteurRef>            
+         <acteurRef>PA720560</acteurRef>            
+         <acteurRef>PA1567</acteurRef>            
+         <acteurRef>PA841813</acteurRef>            
+         <acteurRef>PA722150</acteurRef>            
+         <acteurRef>PA267200</acteurRef>            
+         <acteurRef>PA720354</acteurRef>            
+         <acteurRef>PA643184</acteurRef>            
+         <acteurRef>PA720022</acteurRef>            
+         <acteurRef>PA795374</acteurRef>            
+         <acteurRef>PA227089</acteurRef>            
+         <acteurRef>PA720342</acteurRef>            
+         <acteurRef>PA642725</acteurRef>            
+         <acteurRef>PA794702</acteurRef>            
+         <acteurRef>PA719080</acteurRef>            
+         <acteurRef>PA842271</acteurRef>            
+         <acteurRef>PA794206</acteurRef>            
+         <acteurRef>PA720146</acteurRef>            
+         <acteurRef>PA720728</acteurRef>            
+         <acteurRef>PA607619</acteurRef>            
+         <acteurRef>PA842147</acteurRef>            
+         <acteurRef>PA721486</acteurRef>            
+         <acteurRef>PA841107</acteurRef>            
+         <acteurRef>PA794830</acteurRef>            
+         <acteurRef>PA795124</acteurRef>            
+         <acteurRef>PA608172</acteurRef>            
+         <acteurRef>PA841367</acteurRef>            
+         <acteurRef>PA720092</acteurRef>            
+         <acteurRef>PA793094</acteurRef>            
+         <acteurRef>PA721426</acteurRef>            
+         <acteurRef>PA841927</acteurRef>            
+         <acteurRef>PA342196</acteurRef>            
+         <acteurRef>PA774960</acteurRef>            
+         <acteurRef>PA340343</acteurRef>            
+         <acteurRef>PA720190</acteurRef>            
+         <acteurRef>PA794178</acteurRef>            
+         <acteurRef>PA793796</acteurRef>            
+         <acteurRef>PA721584</acteurRef>            
+         <acteurRef>PA841893</acteurRef>            
+         <acteurRef>PA793816</acteurRef>            
+         <acteurRef>PA607395</acteurRef>            
+         <acteurRef>PA794118</acteurRef>            
+         <acteurRef>PA722102</acteurRef>            
+         <acteurRef>PA607090</acteurRef>            
+         <acteurRef>PA331582</acteurRef>            
+         <acteurRef>PA721474</acteurRef>            
+         <acteurRef>PA793194</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> Mme&amp;#160;Pantel,  M.&amp;#160;Rousset, Mme&amp;#160;Froger, M.&amp;#160;Vallaud, M.&amp;#160;Fesneau, M.&amp;#160;Peu, Mme&amp;#160;Le&amp;#160;Feur, M.&amp;#160;Armand, M.&amp;#160;Hollande, M.&amp;#160;Potier, M.&amp;#160;Bony, M.&amp;#160;Philippe&amp;#160;Brun, Mme&amp;#160;Rossi, Mme&amp;#160;Allemand, M.&amp;#160;Aviragnet, Mme&amp;#160;Battistel, M.&amp;#160;Bazin, M.&amp;#160;Benoit, Mme&amp;#160;Bergantz, M.&amp;#160;Bonnecarr&amp;#232;re, Mme&amp;#160;Sylvie&amp;#160;Bonnet, Mme&amp;#160;Bonnivard, M.&amp;#160;Bothorel, M.&amp;#160;Bouyx, M.&amp;#160;Brard, M.&amp;#160;Brugerolles, Mme&amp;#160;Brulebois, M.&amp;#160;Fabrice&amp;#160;Brun, M.&amp;#160;Buchou, Mme&amp;#160;Buffet, M.&amp;#160;Jean-Ren&amp;#233;&amp;#160;Cazeneuve, M.&amp;#160;Ceccoli, M.&amp;#160;Cordier, M.&amp;#160;Cormier-Bouligeon, M.&amp;#160;Criaud, M.&amp;#160;Croizier, Mme&amp;#160;Corneloup, M.&amp;#160;Daubi&amp;#233;, M.&amp;#160;David, M.&amp;#160;Delautrette, Mme&amp;#160;Delpech, Mme&amp;#160;Dombre&amp;#160;Coste, Mme&amp;#160;Dubr&amp;#233;-Chirat, M.&amp;#160;Dufau, M.&amp;#160;Echaniz, M.&amp;#160;Fait, M.&amp;#160;F&amp;#233;gn&amp;#233;, M.&amp;#160;Fugit, Mme&amp;#160;Got, Mme&amp;#160;Perrine&amp;#160;Goulet, M.&amp;#160;Guedj, Mme&amp;#160;Herouin-L&amp;#233;autey, M.&amp;#160;Houli&amp;#233;, M.&amp;#160;Huyghe, M.&amp;#160;Jacques, Mme&amp;#160;Klinkert, M.&amp;#160;Lauzzana, M.&amp;#160;Lecamp, Mme&amp;#160;L&amp;#233;tard, Mme&amp;#160;Le&amp;#160;Peih, M.&amp;#160;Li&amp;#233;geon, Mme&amp;#160;Lingemann, Mme&amp;#160;Marsaud, M.&amp;#160;Maurel, M.&amp;#160;Marion, M.&amp;#160;Mass&amp;#233;glia, M.&amp;#160;Mattei, M.&amp;#160;Molac, M.&amp;#160;Mongardien, M.&amp;#160;Naegelen, M.&amp;#160;Oberti, M.&amp;#160;Ott, M.&amp;#160;Padey, Mme&amp;#160;Pir&amp;#232;s&amp;#160;Beaune, M.&amp;#160;Proen&amp;#231;a, M.&amp;#160;Ramos, M.&amp;#160;Ray, Mme&amp;#160;Riotton, Mme&amp;#160;Ronceret, Mme&amp;#160;Rouaux, Mme&amp;#160;Santiago, M.&amp;#160;Saulignac, M.&amp;#160;Sorre, M.&amp;#160;Taite, M.&amp;#160;Taupiac, M.&amp;#160;Terlier, Mme&amp;#160;Thi&amp;#233;bault-Martinez, Mme&amp;#160;Thomin, M.&amp;#160;Travert, M.&amp;#160;Vermorel-Marques, Mme&amp;#160;Vidal, M.&amp;#160;Jean-Pierre&amp;#160;Vigier, M.&amp;#160;Philippe&amp;#160;Vigier, M.&amp;#160;Viry et M.&amp;#160;Vuibert</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2632.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>Apres</avant_A_Apres>                
+            <numero>14</numero>                
+            <alineaDesignation>Après l'alinéa 14</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Cet amendement a été déclaré irrecevable au titre de l’article 40 de la Constitution.</cartoucheInformatif>        
+      <contenuAuteur xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-04-21</dateDepot>        
+      <datePublication>2026-04-26</datePublication>        
+      <soumisArticle40>true</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>IR</code>                
+            <libelle>Irrecevable 40</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>IR</code>                
+            <libelle>Charge</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO419865B2632P0D1N000014?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference>        
+      <codeLoi>2.6</codeLoi>        
+      <divisionCodeLoi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </loiReference>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

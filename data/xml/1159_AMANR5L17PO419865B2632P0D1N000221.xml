@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO419865B2632P0D1N000221</uid>    
+   <chronotag>1777499791636</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>CD221</numeroLong>        
+      <numeroOrdreDepot>221</numeroOrdreDepot>        
+      <prefixeOrganeExamen>CION-DVP</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO419865B2632P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17B2632</texteLegislatifRef>    
+   <triAmendement>esaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayc</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA719890</acteurRef>            
+         <groupePolitiqueRef>PO845407</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> Mme&amp;#160;Brulebois</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2632.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>                
+            <numero>15</numero>                
+            <alineaDesignation>Alinéa 15</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Substituer &amp;#x00E0; l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;15 les 7 alin&amp;#x00E9;as suivants&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;IV.&amp;nbsp;&amp;#x2013;&amp;nbsp;Le IV de l&amp;#x2019;article&amp;nbsp;47 de la loi n&amp;#x00B0; 2025&amp;#x2011;268 du&amp;nbsp;24&amp;nbsp;mars&amp;nbsp;2025 d&amp;#x2019;orientation pour la souverainet&amp;#x00E9; alimentaire et le renouvellement des g&amp;#x00E9;n&amp;#x00E9;rations en agriculture est ainsi modifi&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;1&amp;#x00B0;&amp;nbsp;Le premier alin&amp;#x00E9;a est ainsi r&amp;#x00E9;dig&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Compte tenu de l&amp;#x2019;absence de moyens de pr&amp;#x00E9;vention efficaces disponibles pour prot&amp;#x00E9;ger les &amp;#x00E9;levages de bovins et d&amp;#x2019;&amp;#x00E9;quins, les tirs sont autoris&amp;#x00E9;s sans autre condition dans les territoires colonis&amp;#x00E9;s par le loup.&amp;nbsp;&amp;#x00BB;&amp;nbsp;;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;2&amp;#x00B0;&amp;nbsp;Le second alin&amp;#x00E9;a est supprim&amp;#x00E9;.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;V.&amp;nbsp;&amp;#x2013;&amp;nbsp;Apr&amp;#x00E8;s l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2&amp;#x2011;4 du code de l&amp;#x2019;environnement, il est ins&amp;#x00E9;r&amp;#x00E9; un article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2&amp;#x2011;5 ainsi r&amp;#x00E9;dig&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Compte tenu de l&amp;#x2019;absence de moyens de pr&amp;#x00E9;vention efficaces disponibles pour prot&amp;#x00E9;ger les &amp;#x00E9;levages de bovins et d&amp;#x2019;&amp;#x00E9;quins, les tirs sont autoris&amp;#x00E9;s sans autre condition dans les territoires colonis&amp;#x00E9;s par le loup.&amp;nbsp;&amp;#x00BB;&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Plut&amp;#x00F4;t que d&amp;#x2019;abroger la disposition de la loi n&amp;#x00B0; 2025&amp;#x2011;268 du&amp;nbsp;24&amp;nbsp;mars&amp;nbsp;2025 relative &amp;#x00E0; l&amp;#x2019;orientation pour la souverainet&amp;#x00E9; alimentaire et le renouvellement des g&amp;#x00E9;n&amp;#x00E9;rations en agriculture pour la r&amp;#x00E9;&amp;#x00E9;crire dans la future loi d&amp;#x2019;urgence, le pr&amp;#x00E9;sent amendement propose de modifier directement l&amp;#x2019;article concern&amp;#x00E9; de la loi du&amp;nbsp;24&amp;nbsp;mars&amp;nbsp;2025, sans l&amp;#x2019;abroger, et d&amp;#x2019;en assurer la codification.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Sur le fond, il reconna&amp;#x00EE;t le caract&amp;#x00E8;re non prot&amp;#x00E9;geable des troupeaux de bovins et d&amp;#x2019;&amp;#x00E9;quid&amp;#x00E9;s en supprimant l&amp;#x2019;obligation pr&amp;#x00E9;alable de mise en &amp;#x0153;uvre de mesures de r&amp;#x00E9;duction de vuln&amp;#x00E9;rabilit&amp;#x00E9; pour autoriser les tirs visant les loups.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Cet amendement a &amp;#x00E9;t&amp;#x00E9; travaill&amp;#x00E9; avec la FNSEAA&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-04-24</dateDepot>        
+      <datePublication>2026-04-29</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>DI</code>                
+            <libelle>Discuté</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>DI</code>                
+            <libelle>Non soutenu</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort>2026-04-29T23:56:06+02:00</dateSort>        
+      <sort>Non soutenu</sort>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO419865B2632P0D1N000221?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference>        
+      <codeLoi>loi 2025-268</codeLoi>        
+      <divisionCodeLoi/>    
+   </loiReference>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique>        
+      <idDiscussion>89763</idDiscussion>        
+      <typePosition>Premier</typePosition>    
+   </discussionIdentique>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N000071</uid>    
+   <chronotag>1779267688621</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>71</numeroLong>        
+      <numeroOrdreDepot>71</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>giaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabg</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA721410</acteurRef>            
+         <groupePolitiqueRef>PO845425</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA642847</acteurRef>            
+         <acteurRef>PA722390</acteurRef>            
+         <acteurRef>PA719968</acteurRef>            
+         <acteurRef>PA793094</acteurRef>            
+         <acteurRef>PA330008</acteurRef>            
+         <acteurRef>PA608416</acteurRef>            
+         <acteurRef>PA643104</acteurRef>            
+         <acteurRef>PA608826</acteurRef>            
+         <acteurRef>PA332523</acteurRef>            
+         <acteurRef>PA794750</acteurRef>            
+         <acteurRef>PA266793</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> Mme&amp;#160;Bonnivard,  M.&amp;#160;Bazin, Mme&amp;#160;Corneloup, Mme&amp;#160;Sylvie&amp;#160;Bonnet, M.&amp;#160;Ray, M.&amp;#160;Breton, M.&amp;#160;Hetzel, Mme&amp;#160;Minard, Mme&amp;#160;Duby-Muller, Mme&amp;#160;Dalloz, M.&amp;#160;Liger et M.&amp;#160;Bony</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;R&amp;#x00E9;diger ainsi cet article&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Le code de l&amp;#x2019;environnement est ainsi modifi&amp;#x00E9;&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;1&amp;#x00B0;&amp;nbsp;L&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;331&amp;#x2011;4&amp;#x2011;1 est ainsi modifi&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;&lt;i&gt;a)&lt;/i&gt;&amp;nbsp;Au d&amp;#x00E9;but du premier alin&amp;#x00E9;a, sont ajout&amp;#x00E9;s les mots&amp;nbsp;:&amp;nbsp;&amp;#x00AB;&amp;nbsp;&amp;#x00C0; condition d&amp;#x2019;&amp;#x00EA;tre compatible avec les activit&amp;#x00E9;s de pastoralisme et d&amp;#x2019;entretien des paysages,&amp;nbsp;&amp;#x00BB;&amp;nbsp;;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;&lt;i&gt;b)&lt;/i&gt;&amp;nbsp;Apr&amp;#x00E8;s le 2&amp;#x00B0;, il est ins&amp;#x00E9;r&amp;#x00E9; un alin&amp;#x00E9;a ainsi r&amp;#x00E9;dig&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Par d&amp;#x00E9;rogation &amp;#x00E0; l&amp;#x2019;alin&amp;#x00E9;a pr&amp;#x00E9;c&amp;#x00E9;dent, l&amp;#x2019;effarouchement et le pr&amp;#x00E9;l&amp;#x00E8;vement des pr&amp;#x00E9;dateurs aux fins exclusives de la d&amp;#x00E9;fense des troupeaux domestiques r&amp;#x00E9;pondant aux conditions d&amp;#x2019;une d&amp;#x00E9;rogation pr&amp;#x00E9;vue par au&amp;nbsp;b&amp;nbsp;du&amp;nbsp;4&amp;#x00B0; du&amp;nbsp;I de l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2 ne peuvent faire l&amp;#x2019;objet d&amp;#x2019;une interdiction r&amp;#x00E8;glementaire.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;2&amp;#x00B0;&amp;nbsp;L&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;332&amp;#x2011;3 est ainsi modifi&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;&lt;i&gt;a)&lt;/i&gt;&amp;nbsp;Au premier alin&amp;#x00E9;a, apr&amp;#x00E8;s la mention&amp;nbsp;:&amp;#x00AB;&amp;nbsp;I.&amp;nbsp;&amp;#x2013;&amp;nbsp;&amp;#x00BB;, sont ins&amp;#x00E9;r&amp;#x00E9;s les mots&amp;nbsp;: &amp;#x00C0; condition d&amp;#x2019;&amp;#x00EA;tre compatible avec les activit&amp;#x00E9;s de pastoralisme et d&amp;#x2019;entretien des paysages,&amp;nbsp;&amp;#x00BB;&amp;nbsp;;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;&lt;i&gt;b)&lt;/i&gt;&amp;nbsp;Apr&amp;#x00E8;s le deuxi&amp;#x00E8;me alin&amp;#x00E9;a, il est ins&amp;#x00E9;r&amp;#x00E9; un alin&amp;#x00E9;a ainsi r&amp;#x00E9;dig&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Par d&amp;#x00E9;rogation &amp;#x00E0; l&amp;#x2019;alin&amp;#x00E9;a pr&amp;#x00E9;c&amp;#x00E9;dent, l&amp;#x2019;effarouchement et le pr&amp;#x00E9;l&amp;#x00E8;vement des pr&amp;#x00E9;dateurs aux fins exclusives de la d&amp;#x00E9;fense des troupeaux domestiques r&amp;#x00E9;pondant aux conditions d&amp;#x2019;une d&amp;#x00E9;rogation pr&amp;#x00E9;vue au&amp;nbsp;b&amp;nbsp;du&amp;nbsp;4&amp;#x00B0; du&amp;nbsp;I de l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2 ne peuvent faire l&amp;#x2019;objet d&amp;#x2019;une interdiction r&amp;#x00E8;glementaire.&amp;nbsp;&amp;#x00BB;&amp;nbsp;;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;3&amp;#x00B0;&amp;nbsp;&amp;#x00C0; la fin du premier alin&amp;#x00E9;a de l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;1, le mot&amp;nbsp;: &amp;#x00AB;&amp;nbsp;sont&amp;nbsp;&amp;#x00BB; est remplac&amp;#x00E9; par les mots&amp;nbsp;: &amp;#x00AB;&amp;nbsp;peuvent &amp;#x00EA;tre&amp;nbsp;&amp;#x00BB;&amp;nbsp;;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;4&amp;#x00B0;&amp;nbsp;Au premier alin&amp;#x00E9;a du&amp;nbsp;4&amp;#x00B0;du&amp;nbsp;I de l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2, les mots&amp;nbsp;: &amp;#x00AB;&amp;nbsp;,&amp;nbsp;pouvant &amp;#x00EA;tre &amp;#x00E9;valu&amp;#x00E9;e par une tierce expertise men&amp;#x00E9;e, &amp;#x00E0; la demande de l&amp;#x2019;autorit&amp;#x00E9; comp&amp;#x00E9;tente, par un organisme ext&amp;#x00E9;rieur choisi en accord avec elle, aux frais du p&amp;#x00E9;titionnaire,&amp;nbsp;&amp;#x00BB; sont supprim&amp;#x00E9;s&amp;nbsp;;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;5&amp;#x00B0;&amp;nbsp;Apr&amp;#x00E8;s l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2&amp;#x2011;2, sont ins&amp;#x00E9;r&amp;#x00E9;s deux article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2&amp;#x2011;3 et L.&amp;nbsp;411&amp;#x2011;2&amp;#x2011;4 ainsi r&amp;#x00E9;dig&amp;#x00E9;s&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Art.&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2&amp;#x2011;3.&amp;nbsp;&amp;#x2013;&amp;nbsp;Constitue une raison imp&amp;#x00E9;rative d&amp;#x2019;int&amp;#x00E9;r&amp;#x00EA;t public majeur, au sens du&amp;nbsp;c&amp;nbsp;du&amp;nbsp;4&amp;#x00B0; du&amp;nbsp;I de l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2, en mati&amp;#x00E8;re de biodiversit&amp;#x00E9; l&amp;#x2019;&amp;#x00E9;levage de plein air.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Nonobstant les dispositions de l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;1, tout &amp;#x00E9;leveur peut repousser ou d&amp;#x00E9;truire un pr&amp;#x00E9;dateur pour pr&amp;#x00E9;munir son &amp;#x00E9;levage d&amp;#x2019;un danger.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Art.&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2&amp;#x2011;4.&amp;nbsp;&amp;#x2013;&amp;nbsp;I.&amp;nbsp;&amp;#x2013;&amp;nbsp;Le tir l&amp;#x00E9;tal et la capture de loups sont consid&amp;#x00E9;r&amp;#x00E9;s comme des mesures de protections des &amp;#x00E9;levages de plein air tant que la viabilit&amp;#x00E9; de l&amp;#x2019;esp&amp;#x00E8;ce est garantie par la pr&amp;#x00E9;sence d&amp;#x2019;au moins 500 sp&amp;#x00E9;cimens sur le territoire national.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Ces op&amp;#x00E9;rations peuvent &amp;#x00EA;tre mises en &amp;#x0153;uvre toute l&amp;#x2019;ann&amp;#x00E9;e, sans condition pr&amp;#x00E9;alable visant &amp;#x00E0; prot&amp;#x00E9;ger ou r&amp;#x00E9;duire la vuln&amp;#x00E9;rabilit&amp;#x00E9; des troupeaux, par les &amp;#x00E9;leveurs exploitant &amp;#x00E0; titre individuel ou sous forme soci&amp;#x00E9;taire, groupements pastoraux, propri&amp;#x00E9;taires publics ou priv&amp;#x00E9;s d&amp;#x2019;une exploitation agricole d&amp;#x2019;&amp;#x00E9;levage mettant en valeur des surfaces p&amp;#x00E2;tur&amp;#x00E9;es, ainsi que leurs mandataires.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Les pr&amp;#x00E9;l&amp;#x00E8;vements ou captures effectivement r&amp;#x00E9;alis&amp;#x00E9;s sont d&amp;#x00E9;clar&amp;#x00E9;s en pr&amp;#x00E9;fecture dans les 72 heures afin de permettre la d&amp;#x00E9;termination du nombre de sp&amp;#x00E9;cimens restant sur le territoire national.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;II.&amp;nbsp;&amp;#x2013;&amp;nbsp;En-de&amp;#x00E7;&amp;#x00E0; du seuil minimal de 500 sp&amp;#x00E9;cimens sur le territoire national, des tirs ou captures peuvent exceptionnellement &amp;#x00EA;tre accord&amp;#x00E9;s en cas de dommages importants caus&amp;#x00E9;s par les loups aux &amp;#x00E9;levages domestiques, dans les conditions pr&amp;#x00E9;vues par les d&amp;#x00E9;rogations mentionn&amp;#x00E9;es au&amp;nbsp;4&amp;#x00B0; du&amp;nbsp;I de l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2. En cas de besoin, le repr&amp;#x00E9;sentant de l&amp;#x2019;&amp;#x00C9;tat dans le d&amp;#x00E9;partement, le pr&amp;#x00E9;fet coordinateur ou le pr&amp;#x00E9;fet r&amp;#x00E9;f&amp;#x00E9;rent du plan national d&amp;#x2019;actions sur le loup peut organiser, tout au long de l&amp;#x2019;ann&amp;#x00E9;e, sur des zones qu&amp;#x2019;il d&amp;#x00E9;termine en concertation avec les instances repr&amp;#x00E9;sentatives des agriculteurs et relevant de son ressort territorial, des op&amp;#x00E9;rations de pr&amp;#x00E9;l&amp;#x00E8;vement ou de capture de plus grande ampleur.&amp;nbsp;&amp;#x00BB;&amp;nbsp;;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;6&amp;#x00B0;&amp;nbsp;Apr&amp;#x00E8;s l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;423&amp;#x2011;3, il est ins&amp;#x00E9;r&amp;#x00E9; un article&amp;nbsp;L.&amp;nbsp;423&amp;#x2011;3&amp;#x2011;1 ainsi r&amp;#x00E9;dig&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Art.&amp;nbsp;L.&amp;nbsp;423&amp;#x2011;3&amp;#x2011;1.&amp;nbsp;&amp;#x2013;&amp;nbsp;Pour le besoin de la d&amp;#x00E9;fense des troupeaux contre les attaques de loups, les &amp;#x00E9;leveurs exploitant &amp;#x00E0; titre individuel ou sous forme soci&amp;#x00E9;taire, groupements pastoraux, propri&amp;#x00E9;taires publics ou priv&amp;#x00E9;s d&amp;#x2019;une exploitation agricole d&amp;#x2019;&amp;#x00E9;levage mettant en valeur des surfaces p&amp;#x00E2;tur&amp;#x00E9;es, ainsi que leurs mandataires titulaires du permis de chasse et ayant suivi une formation participant aux op&amp;#x00E9;rations de tirs l&amp;#x00E9;taux et de captures des loups dans les conditions pr&amp;#x00E9;vues &amp;#x00E0; l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2&amp;#x2011;4 sont habilit&amp;#x00E9;s &amp;#x00E0; utiliser des appareils monoculaires ou binoculaires thermiques, y compris des appareils qui peuvent &amp;#x00EA;tre mis en &amp;#x0153;uvre sans l&amp;#x2019;aide des mains dont les monoculaires &amp;#x00E9;quip&amp;#x00E9;s d&amp;#x2019;un adaptateur leur permettant d&amp;#x2019;&amp;#x00EA;tre fix&amp;#x00E9;s sur une lunette de tir.&amp;nbsp;&amp;#x00BB;&amp;nbsp;;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;7&amp;#x00B0;&amp;nbsp;Apr&amp;#x00E8;s l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;427&amp;#x2011;2, il est ins&amp;#x00E9;r&amp;#x00E9; un article&amp;nbsp;L.&amp;nbsp;427&amp;#x2011;2&amp;#x2011;1 ainsi r&amp;#x00E9;dig&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Art.&amp;nbsp;L.&amp;nbsp;427&amp;#x2011;2&amp;#x2011;1.&amp;nbsp;&amp;#x2013;&amp;nbsp;Sur demande des &amp;#x00E9;leveurs, les lieutenants de louveterie se d&amp;#x00E9;placent dans les meilleurs d&amp;#x00E9;lais, sans formalit&amp;#x00E9;s et sans conditions pr&amp;#x00E9;alables sur les exploitations agricoles victimes ou menac&amp;#x00E9;es par la pr&amp;#x00E9;dation du loup.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;&amp;#x00C0; des fins de d&amp;#x00E9;fense des troupeaux contre les attaques de loups, les lieutenants de louveterie sont habilit&amp;#x00E9;s &amp;#x00E0; utiliser des appareils monoculaires ou binoculaires thermiques, y compris des appareils qui peuvent &amp;#x00EA;tre mis en &amp;#x0153;uvre sans l&amp;#x2019;aide des mains dont les monoculaires &amp;#x00E9;quip&amp;#x00E9;s d&amp;#x2019;un adaptateur leur permettant d&amp;#x2019;&amp;#x00EA;tre fix&amp;#x00E9;s sur une lunette de tir.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p&gt;Inspir&amp;#x00E9; de la proposition de loi de Jean-Luc Warsmann visant &amp;#x00E0; prot&amp;#x00E9;ger les animaux &amp;#x00E9;lev&amp;#x00E9;s par nos agriculteurs de la pr&amp;#x00E9;dation du loup, cet amendement propose de lever l&amp;#x2019;interdiction de la capture et la destruction de loups dans les parcs nationaux et r&amp;#x00E9;serves naturelles.&amp;nbsp;&lt;/p&gt;&lt;p&gt;En mati&amp;#x00E8;re d&amp;#x2019;effarouchement, son champ d&amp;#x2019;application est &amp;#x00E9;tendu &amp;#x00E0; l&amp;#x2019;ours et au lynx pour lesquels les m&amp;#x00EA;mes restrictions s&amp;#x2019;appliquent actuellement.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Il permet de tenir compte des divers degr&amp;#x00E9;s de protection que peut exiger l&amp;#x2019;&amp;#x00E9;tat respectif des diff&amp;#x00E9;rentes esp&amp;#x00E8;ces, des contraintes et risques impliqu&amp;#x00E9;s par la protection des esp&amp;#x00E8;ces, qu&amp;#x2019;il s&amp;#x2019;agisse de leur impact sur les activit&amp;#x00E9;s humaines ou sur la biodiversit&amp;#x00E9;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Tout en respectant l&amp;#x2019;obligation stricte de transposition de l&amp;#x2019;article&amp;nbsp;16 de la directive Habitats, il supprime les dispositions de l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2 du code de l&amp;#x2019;environnement qui, en pr&amp;#x00E9;voyant des proc&amp;#x00E9;dures non impos&amp;#x00E9;es dans le droit de l&amp;#x2019;Union europ&amp;#x00E9;enne, surtransposent inutilement ladite directive.&lt;/p&gt;&lt;p&gt;Il fait de la d&amp;#x00E9;fense des &amp;#x00E9;levages une raison imp&amp;#x00E9;rative d&amp;#x2019;int&amp;#x00E9;r&amp;#x00EA;t public majeur pour la pr&amp;#x00E9;servation de la biodiversit&amp;#x00E9; et affirme la responsabilit&amp;#x00E9; de tout &amp;#x00E9;leveur &amp;#x00E0; prot&amp;#x00E9;ger son troupeau et l&amp;#x2019;autorisant pour cela &amp;#x00E0; proc&amp;#x00E9;der &amp;#x00E0; la destruction ou &amp;#x00E0; la capture d&amp;#x2019;un loup pr&amp;#x00E9;sentant un danger pour son troupeau.&lt;/p&gt;&lt;p&gt;Il garantit &amp;#x00E0; tout &amp;#x00E9;leveur un droit permanent &amp;#x00E0; proc&amp;#x00E9;der &amp;#x00E0; la destruction ou &amp;#x00E0; la capture d&amp;#x2019;un loup, d&amp;#x00E8;s lors que le nombre de sp&amp;#x00E9;cimens sur le territoire national exc&amp;#x00E8;de le seuil de viabilit&amp;#x00E9; fix&amp;#x00E9; &amp;#x00E0; 500 loups. En-de&amp;#x00E7;&amp;#x00E0; du seuil de viabilit&amp;#x00E9;, il pr&amp;#x00E9;voit que les tirs l&amp;#x00E9;taux et capture sont soumis &amp;#x00E0; autorisation pr&amp;#x00E9;fectorale en cas de dommages importants, conform&amp;#x00E9;ment &amp;#x00E0; l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Il autorise les &amp;#x00E9;leveurs et leurs mandataires titulaires d&amp;#x2019;un permis de chasse &amp;#x00E0; utiliser des lunettes de tir &amp;#x00E0; vis&amp;#x00E9;e thermique, utilisables sans les mains gr&amp;#x00E2;ce &amp;#x00E0; un syst&amp;#x00E8;me de fixation sur l&amp;#x2019;arme, et facilite la r&amp;#x00E9;activit&amp;#x00E9; du d&amp;#x00E9;ploiement des lieutenants de louveterie pour venir en soutien des exploitations affect&amp;#x00E9;es par les attaques de loup en supprimant la subordination de leur envoi &amp;#x00E0; la mise en &amp;#x0153;uvre de mesures pr&amp;#x00E9;alables (protection ou r&amp;#x00E9;duction de vuln&amp;#x00E9;rabilit&amp;#x00E9;) ou &amp;#x00E0; la survenance d&amp;#x2019;une attaque.&lt;/p&gt;&lt;p&gt;Tel est l'objet du pr&amp;#x00E9;sent amendement.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-11</dateDepot>        
+      <datePublication>2026-05-19</datePublication>        
+      <soumisArticle40>true</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>AC</code>                
+            <libelle>A discuter</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N000071?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune>        
+      <idDiscussion>38691</idDiscussion>        
+      <typePosition>Premier</typePosition>    
+   </discussionCommune>    
+   <discussionIdentique>        
+      <idDiscussion>90463</idDiscussion>        
+      <typePosition>Premier</typePosition>    
+   </discussionIdentique>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

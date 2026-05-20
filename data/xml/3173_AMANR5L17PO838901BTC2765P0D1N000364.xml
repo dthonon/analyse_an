@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N000364</uid>    
+   <chronotag>1779268769141</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>364</numeroLong>        
+      <numeroOrdreDepot>364</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>goaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaewis</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA718838</acteurRef>            
+         <groupePolitiqueRef>PO845425</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA774954</acteurRef>            
+         <acteurRef>PA721410</acteurRef>            
+         <acteurRef>PA794994</acteurRef>            
+         <acteurRef>PA793094</acteurRef>            
+         <acteurRef>PA722390</acteurRef>            
+         <acteurRef>PA266793</acteurRef>            
+         <acteurRef>PA840979</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Fabrice&amp;#160;Brun,  Mme&amp;#160;Blin, Mme&amp;#160;Bonnivard, M.&amp;#160;Portier, M.&amp;#160;Ray, Mme&amp;#160;Corneloup, M.&amp;#160;Bony et M.&amp;#160;Le&amp;#160;Fur</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>APRÈS ART. 14</articleDesignationCourte>            
+         <articleDesignation>APRÈS L'ARTICLE 14, insérer l'article suivant:</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>Après</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>true</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;423&amp;#x2011;3 du code de l&amp;#x2019;environnement, il est ins&amp;#x00E9;r&amp;#x00E9; un article&amp;nbsp;L.&amp;nbsp;423&amp;#x2011;3&amp;#x2011;1 ainsi r&amp;#x00E9;dig&amp;#x00E9;&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;&lt;i&gt;Art.&amp;nbsp;L.&amp;nbsp;423&amp;#x2011;3&amp;#x2011;1&lt;/i&gt;.&amp;nbsp;&amp;#x2013;&amp;nbsp;Pour le besoin de la d&amp;#x00E9;fense des troupeaux contre les attaques de loups, les &amp;#x00E9;leveurs exploitant &amp;#x00E0; titre individuel ou sous forme soci&amp;#x00E9;taire, groupements pastoraux, propri&amp;#x00E9;taires publics ou priv&amp;#x00E9;s d&amp;#x2019;une exploitation agricole d&amp;#x2019;&amp;#x00E9;levage mettant en valeur des surfaces p&amp;#x00E2;tur&amp;#x00E9;es, ainsi que leurs mandataires titulaires du permis de chasse et ayant suivi une formation participant aux op&amp;#x00E9;rations de tirs l&amp;#x00E9;taux et de captures des loups dans les conditions pr&amp;#x00E9;vues &amp;#x00E0; l&amp;#x2019;article&amp;nbsp;L.&amp;nbsp;411&amp;#x2011;2&amp;#x2011;4 sont&amp;nbsp;habilit&amp;#x00E9;s &amp;#x00E0; utiliser des appareils monoculaires ou binoculaires thermiques, y compris des appareils qui peuvent &amp;#x00EA;tre mis en &amp;#x0153;uvre sans l&amp;#x2019;aide des mains dont les monoculaires &amp;#x00E9;quip&amp;#x00E9;s d&amp;#x2019;un adaptateur leur permettant d&amp;#x2019;&amp;#x00EA;tre fix&amp;#x00E9;s sur une lunette de tir.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p&gt;&amp;nbsp;Le pr&amp;#x00E9;sent article r&amp;#x00E9;pond au besoin identifi&amp;#x00E9; par les &amp;#x00E9;leveurs de simplifier les proc&amp;#x00E9;dures pour les &amp;#x00E9;leveurs afin de d&amp;#x00E9;fendre leurs troupeaux contre la pr&amp;#x00E9;dation du loup. En effet, depuis de nombreuses ann&amp;#x00E9;es les troupeaux &amp;#x00E9;lev&amp;#x00E9;s en plein air subissent des attaques de loups de plus en plus fr&amp;#x00E9;quentes, qui occasionnent des pr&amp;#x00E9;dations sur les animaux d&amp;#x2019;&amp;#x00E9;levage de plus en plus nombreuses, malgr&amp;#x00E9; les mesures de protection mises en place par les &amp;#x00E9;leveurs. Aujourd&amp;#x2019;hui, les &amp;#x00E9;leveurs subissent de nombreux pr&amp;#x00E9;judices et des pertes au sein de leurs troupeaux.&amp;nbsp;&lt;br&gt;Cet amendement, inspir&amp;#x00E9; de la proposition de loi de Jean-Luc Warsmann, d&amp;#x00E9;put&amp;#x00E9; des Ardennes, vise &amp;#x00E0; permettre aux &amp;#x00E9;leveurs et &amp;#x00E0; leurs mandataires titulaires d&amp;#x2019;un permis de chasse d&amp;#x2019;utiliser des lunettes de tir &amp;#x00E0; vis&amp;#x00E9;e nocturne, utilisables gr&amp;#x00E2;ce &amp;#x00E0; un syst&amp;#x00E8;me de fixation sur l&amp;#x2019;arme.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-13</dateDepot>        
+      <datePublication>2026-05-19</datePublication>        
+      <soumisArticle40>true</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>AC</code>                
+            <libelle>A discuter</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N000364?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference>        
+      <codeLoi>c environnement</codeLoi>        
+      <divisionCodeLoi>L423-3-1</divisionCodeLoi>    
+   </loiReference>    
+   <discussionCommune>        
+      <idDiscussion>38707</idDiscussion>        
+      <typePosition>Milieu</typePosition>    
+   </discussionCommune>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

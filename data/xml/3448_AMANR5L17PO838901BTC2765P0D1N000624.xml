@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N000624</uid>    
+   <chronotag>1779266428516</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>624</numeroLong>        
+      <numeroOrdreDepot>624</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>giaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaamkw</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA840665</acteurRef>            
+         <groupePolitiqueRef>PO845419</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA342415</acteurRef>            
+         <acteurRef>PA841381</acteurRef>            
+         <acteurRef>PA840673</acteurRef>            
+         <acteurRef>PA794854</acteurRef>            
+         <acteurRef>PA841367</acteurRef>            
+         <acteurRef>PA331973</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> Mme&amp;#160;Allemand,  Mme&amp;#160;Battistel, Mme&amp;#160;Pantel, Mme&amp;#160;Rossi, M.&amp;#160;Echaniz, M.&amp;#160;Proen&amp;#231;a et Mme&amp;#160;Got</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>Apres</avant_A_Apres>                
+            <numero>5</numero>                
+            <alineaDesignation>Après l'alinéa 5</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité</cartoucheInformatif>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;5, ins&amp;#x00E9;rer&amp;nbsp;l&amp;#x2019;alin&amp;#x00E9;a suivant&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;L&amp;#x2019;arr&amp;#x00EA;t&amp;#x00E9; d&amp;#x00E9;finit les conditions dans lesquelles le repr&amp;#x00E9;sentant de l&amp;#x2019;&amp;#x00C9;tat dans le d&amp;#x00E9;partement peut autoriser tout &amp;#x00E9;leveur exploitant &amp;#x00E0; titre individuel ou sous forme soci&amp;#x00E9;taire, tout propri&amp;#x00E9;taire public ou priv&amp;#x00E9; d&amp;#x2019;une exploitation agricole d&amp;#x2019;&amp;#x00E9;levage mettant en valeur des surfaces p&amp;#x00E2;tur&amp;#x00E9;es, ou tout mandataire d&amp;#x00E9;sign&amp;#x00E9; par lui, participant aux mesures de gestion destin&amp;#x00E9;es &amp;#x00E0; lutter contre la pr&amp;#x00E9;dation des troupeaux, &amp;#x00E0; utiliser des lunettes de tir &amp;#x00E0; vis&amp;#x00E9;e thermique ou utilisant la technologie d&amp;#x2019;intensification de lumi&amp;#x00E8;re ou d&amp;#x2019;infrarouge passif, sous r&amp;#x00E9;serve d&amp;#x2019;&amp;#x00EA;tre titulaire d&amp;#x2019;un permis de chasser valide, d&amp;#x2019;avoir suivi une formation pr&amp;#x00E9;alable aupr&amp;#x00E8;s de l&amp;#x2019;Office fran&amp;#x00E7;ais de la biodiversit&amp;#x00E9; et d&amp;#x2019;avoir pr&amp;#x00E9;alablement particip&amp;#x00E9; &amp;#x00E0; une op&amp;#x00E9;ration encadr&amp;#x00E9;e par un ou plusieurs lieutenants de de louveterie. L&amp;#x2019;autorisation est d&amp;#x00E9;livr&amp;#x00E9;e pour une dur&amp;#x00E9;e de trente jours, et se limite au p&amp;#x00E9;rim&amp;#x00E8;tre de la commune o&amp;#x00F9; l&amp;#x2019;op&amp;#x00E9;ration encadr&amp;#x00E9;e par un ou plusieurs lieutenants de louveterie a eu lieu, ainsi qu&amp;#x2019;&amp;#x00E0; ses communes limitrophes.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p&gt;Cet amendement vise &amp;#x00E0; ouvrir la possibilit&amp;#x00E9; aux &amp;#x00E9;leveurs et &amp;#x00E0; leurs mandataires titulaires d&amp;#x2019;un permis de chasse d&amp;#x2019;utiliser des lunettes thermiques afin de proc&amp;#x00E9;der &amp;#x00E0; des tirs de loups dans le cadre des mesures de protection de leurs troupeaux&amp;nbsp;vis&amp;#x00E9;es au pr&amp;#x00E9;sent article.&lt;/p&gt;&lt;p&gt;Ce moyen d&amp;#x2019;assistance est d&amp;#x00E9;j&amp;#x00E0; autoris&amp;#x00E9; pour la chasse et la destruction des esp&amp;#x00E8;ces d&amp;#x2019;animaux class&amp;#x00E9;es comme susceptibles d&amp;#x2019;occasionner des d&amp;#x00E9;g&amp;#x00E2;ts. A droit constant, seuls les lieutenants de louveterie et les agents de l&amp;#x2019;OFB peuvent l&amp;#x2019;utiliser.&lt;/p&gt;&lt;p&gt;Le pr&amp;#x00E9;sent amendement propose d&amp;#x2019;&amp;#x00E9;tendre son utilisation aux &amp;#x00E9;leveurs titulaires d&amp;#x2019;un permis de chasse, sous r&amp;#x00E9;serve de satisfaire plusieurs conditions :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Avoir suivi une formation pr&amp;#x00E9;alable aupr&amp;#x00E8;s de l'OFB ;&lt;/li&gt;&lt;li&gt;Avoir pr&amp;#x00E9;alablement particip&amp;#x00E9; &amp;#x00E0; une op&amp;#x00E9;ration encadr&amp;#x00E9;e par des lieutenants de louveterie.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;L&amp;#x2019;autorisation serait restreinte dans le temps et dans l&amp;#x2019;espace :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Sa validit&amp;#x00E9; sera de trente jours ;&lt;/li&gt;&lt;li&gt;Sa validit&amp;#x00E9; se limite &amp;#x00E0; la commune dans laquelle l'&amp;#x00E9;leveur a particip&amp;#x00E9; &amp;#x00E0; l'op&amp;#x00E9;ration encadr&amp;#x00E9;e par les lieutenants de louveterie, ainsi qu'&amp;#x00E0; ses communes voisines.&lt;/li&gt;&lt;/ul&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-13</dateDepot>        
+      <datePublication>2026-05-19</datePublication>        
+      <soumisArticle40>true</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>ET</code>                
+            <libelle>En traitement</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N000624?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

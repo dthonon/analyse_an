@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N001291</uid>    
+   <chronotag>1779267823956</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>1291</numeroLong>        
+      <numeroOrdreDepot>1291</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>giaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaq</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA719798</acteurRef>            
+         <groupePolitiqueRef>PO845407</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA719024</acteurRef>            
+         <acteurRef>PA719890</acteurRef>            
+         <acteurRef>PA794658</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Labaronne,  M.&amp;#160;Blanchet, Mme&amp;#160;Brulebois et M.&amp;#160;Fait</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>A</avant_A_Apres>                
+            <numero>25</numero>                
+            <alineaDesignation>Alinéa 25</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Compl&amp;#x00E9;ter l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;25 par les mots&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;en lien avec la F&amp;#x00E9;d&amp;#x00E9;ration Nationale des Chasseurs et qu&amp;#x2019;elle soit titulaire du permis de chasser&amp;nbsp;&amp;#x00BB;.&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p&gt;Les missions confi&amp;#x00E9;es aux lieutenants de louveterie s&amp;#x2019;inscrivent dans le champ de la r&amp;#x00E9;gulation de la faune sauvage et pr&amp;#x00E9;sentent un lien &amp;#x00E9;troit avec les pratiques cyn&amp;#x00E9;g&amp;#x00E9;tiques. Elles requi&amp;#x00E8;rent, &amp;#x00E0; ce titre, des comp&amp;#x00E9;tences techniques sp&amp;#x00E9;cifiques, notamment en mati&amp;#x00E8;re de connaissance des esp&amp;#x00E8;ces, de pratiques de chasse et de maniement des armes.&lt;/p&gt;&lt;p&gt;En pratique, les lieutenants de louveterie sont quasi exclusivement issus du monde de la chasse. Ils disposent d&amp;#x2019;une exp&amp;#x00E9;rience de terrain et, pour nombre d&amp;#x2019;entre eux, exercent des responsabilit&amp;#x00E9;s au sein des structures cyn&amp;#x00E9;g&amp;#x00E9;tiques, en particulier dans les f&amp;#x00E9;d&amp;#x00E9;rations d&amp;#x00E9;partementales des chasseurs. Cette r&amp;#x00E9;alit&amp;#x00E9; constitue un atout pour l&amp;#x2019;exercice efficace de leurs missions.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Dans un contexte de tensions sur les effectifs et de n&amp;#x00E9;cessit&amp;#x00E9; de renforcer les capacit&amp;#x00E9;s d&amp;#x2019;intervention sur le terrain, il appara&amp;#x00EE;t indispensable d&amp;#x2019;&amp;#x00E9;largir et de s&amp;#x00E9;curiser les viviers de recrutement, tout en maintenant un haut niveau d&amp;#x2019;exigence quant aux comp&amp;#x00E9;tences requises.&lt;/p&gt;&lt;p&gt;Le pr&amp;#x00E9;sent amendement vise ainsi &amp;#x00E0; consacrer un principe d&amp;#x2019;ouverture large du recrutement des lieutenants de louveterie, en pr&amp;#x00E9;cisant que toute personne, qu&amp;#x2019;elle soit ou non en activit&amp;#x00E9; professionnelle, peut y pr&amp;#x00E9;tendre, d&amp;#x00E8;s lors qu&amp;#x2019;elle satisfait aux conditions d&amp;#x2019;engagement fix&amp;#x00E9;es par voie r&amp;#x00E9;glementaire.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Il r&amp;#x00E9;affirme en parall&amp;#x00E8;le l&amp;#x2019;exigence fondamentale de d&amp;#x00E9;tention du permis de chasser, garantie indispensable des comp&amp;#x00E9;tences techniques attendues.&lt;/p&gt;&lt;p&gt;Enfin, il pr&amp;#x00E9;voit que ces conditions soient d&amp;#x00E9;finies en lien avec la F&amp;#x00E9;d&amp;#x00E9;ration nationale des chasseurs, afin de s&amp;#x2019;appuyer sur l&amp;#x2019;expertise du r&amp;#x00E9;seau cyn&amp;#x00E9;g&amp;#x00E9;tique et de garantir l&amp;#x2019;ad&amp;#x00E9;quation des profils recrut&amp;#x00E9;s aux besoins op&amp;#x00E9;rationnels.&lt;/p&gt;&lt;p&gt;Cet amendement concilie ainsi un objectif d&amp;#x2019;ouverture du recrutement avec le maintien des exigences de comp&amp;#x00E9;tence et d&amp;#x2019;ancrage dans le monde cyn&amp;#x00E9;g&amp;#x00E9;tique, n&amp;#x00E9;cessaires &amp;#x00E0; la bonne ex&amp;#x00E9;cution des missions de louveterie.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-15</dateDepot>        
+      <datePublication>2026-05-17</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>AC</code>                
+            <libelle>A discuter</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N001291?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>
