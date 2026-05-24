@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO419610B2632P0D1N001037</uid>    
+   <chronotag>1778100107930</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>CE1037</numeroLong>        
+      <numeroOrdreDepot>1037</numeroOrdreDepot>        
+      <prefixeOrganeExamen>CION-ECO</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO419610B2632P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17B2632</texteLegislatifRef>    
+   <triAmendement>jhoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabo</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Rapporteur</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA721458</acteurRef>            
+         <groupePolitiqueRef>PO845470</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef>PO419865</auteurRapporteurOrganeRef>        
+      </auteur>        
+      <cosignataires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Roseren, rapporteur pour avis au nom de la commission du d&amp;#233;veloppement durable et de l&amp;apos;am&amp;#233;nagement du territoire</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2632.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>Apres</avant_A_Apres>                
+            <numero>4</numero>                
+            <alineaDesignation>Après l'alinéa 4</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;4, ins&amp;#x00E9;rer l&amp;#x2019;alin&amp;#x00E9;a suivant&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;L&amp;#x2019;arr&amp;#x00EA;t&amp;#x00E9; pr&amp;#x00E9;cise les conditions dans lesquelles l&amp;#x2019;autorit&amp;#x00E9; administrative &amp;#x00E9;met le r&amp;#x00E9;c&amp;#x00E9;piss&amp;#x00E9; de la d&amp;#x00E9;claration de demande de tir de d&amp;#x00E9;fense. &amp;#x00C0; compter de la r&amp;#x00E9;ception d&amp;#x2019;un dossier complet, ce d&amp;#x00E9;lai ne peut exc&amp;#x00E9;der un jour ouvr&amp;#x00E9;.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Cet amendement vise &amp;#x00E0; renvoyer &amp;#x00E0; la voie r&amp;#x00E9;glementaire les modalit&amp;#x00E9;s d&amp;#x2019;instruction de la d&amp;#x00E9;claration de demande de tir de d&amp;#x00E9;fense que doit r&amp;#x00E9;aliser un &amp;#x00E9;leveur confront&amp;#x00E9; &amp;#x00E0; la pr&amp;#x00E9;dation lupine. L&amp;#x2019;amendement pr&amp;#x00E9;voit en outre que la r&amp;#x00E9;c&amp;#x00E9;piss&amp;#x00E9; de demande de tir, sans lequel les tirs de d&amp;#x00E9;fense ne peuvent pas &amp;#x00EA;tre r&amp;#x00E9;alis&amp;#x00E9;s, doit &amp;#x00EA;tre envoy&amp;#x00E9; au demandeur dans un d&amp;#x00E9;lai d&amp;#x2019;un jour ouvr&amp;#x00E9;, &amp;#x00E0; compter de la r&amp;#x00E9;ception d&amp;#x2019;un dossier d&amp;#x00FB;ment rempli.&amp;nbsp;&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-04-30</dateDepot>        
+      <datePublication>2026-05-05</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>DI</code>                
+            <libelle>Discuté</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>DI</code>                
+            <libelle>Adopté</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort>2026-05-06T22:41:12+02:00</dateSort>        
+      <sort>Adopté</sort>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO419610B2632P0D1N001037?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

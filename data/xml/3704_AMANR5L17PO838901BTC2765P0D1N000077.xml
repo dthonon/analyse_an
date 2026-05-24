@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N000077</uid>    
+   <chronotag>1779316623824</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>77</numeroLong>        
+      <numeroOrdreDepot>77</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>adicaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabb</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA793664</acteurRef>            
+         <groupePolitiqueRef>PO845439</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA2940</acteurRef>            
+         <acteurRef>PA840997</acteurRef>            
+         <acteurRef>PA795362</acteurRef>            
+         <acteurRef>PA841507</acteurRef>            
+         <acteurRef>PA842045</acteurRef>            
+         <acteurRef>PA794154</acteurRef>            
+         <acteurRef>PA793948</acteurRef>            
+         <acteurRef>PA610968</acteurRef>            
+         <acteurRef>PA793780</acteurRef>            
+         <acteurRef>PA588884</acteurRef>            
+         <acteurRef>PA841701</acteurRef>            
+         <acteurRef>PA795454</acteurRef>            
+         <acteurRef>PA841885</acteurRef>            
+         <acteurRef>PA794008</acteurRef>            
+         <acteurRef>PA721210</acteurRef>            
+         <acteurRef>PA793452</acteurRef>            
+         <acteurRef>PA841351</acteurRef>            
+         <acteurRef>PA793980</acteurRef>            
+         <acteurRef>PA795010</acteurRef>            
+         <acteurRef>PA841419</acteurRef>            
+         <acteurRef>PA842013</acteurRef>            
+         <acteurRef>PA840947</acteurRef>            
+         <acteurRef>PA794022</acteurRef>            
+         <acteurRef>PA794146</acteurRef>            
+         <acteurRef>PA841223</acteurRef>            
+         <acteurRef>PA795636</acteurRef>            
+         <acteurRef>PA793708</acteurRef>            
+         <acteurRef>PA794778</acteurRef>            
+         <acteurRef>PA606545</acteurRef>            
+         <acteurRef>PA795076</acteurRef>            
+         <acteurRef>PA722142</acteurRef>            
+         <acteurRef>PA610002</acteurRef>            
+         <acteurRef>PA795808</acteurRef>            
+         <acteurRef>PA796018</acteurRef>            
+         <acteurRef>PA736201</acteurRef>            
+         <acteurRef>PA841713</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> Mme&amp;#160;Pochon,  Mme&amp;#160;Voynet, M.&amp;#160;Biteau, Mme&amp;#160;Belluco, M.&amp;#160;Nicolas&amp;#160;Bonnet, Mme&amp;#160;Ozenne, M.&amp;#160;Raux, M.&amp;#160;Thierry, M.&amp;#160;Amirshahi, Mme&amp;#160;Arrighi, Mme&amp;#160;Autain, Mme&amp;#160;Balage&amp;#160;El&amp;#160;Mariky, M.&amp;#160;Ben&amp;#160;Cheikh, M.&amp;#160;Arnaud&amp;#160;Bonnet, Mme&amp;#160;Chatelain, M.&amp;#160;Corbi&amp;#232;re, M.&amp;#160;Davi, M.&amp;#160;Duplessy, M.&amp;#160;Fournier, Mme&amp;#160;Garin, M.&amp;#160;Damien&amp;#160;Girard, M.&amp;#160;Gustave, Mme&amp;#160;Catherine&amp;#160;Hervieu, M.&amp;#160;Iordanoff, Mme&amp;#160;Laernoes, M.&amp;#160;Lahais, M.&amp;#160;Lucas-Lundy, M.&amp;#160;Peytavie, Mme&amp;#160;Regol, M.&amp;#160;Roum&amp;#233;gas, Mme&amp;#160;Sandrine&amp;#160;Rousseau, M.&amp;#160;Ruffin, Mme&amp;#160;Sas, Mme&amp;#160;Sebaihi, Mme&amp;#160;Simonnet, Mme&amp;#160;Taill&amp;#233;-Polian et M.&amp;#160;Tavernier</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>                
+            <numero>4</numero>                
+            <alineaDesignation>Alinéa 4</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;&amp;#x00C0;&amp;nbsp;la fin de la premi&amp;#x00E8;re phrase de l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;4, supprimer les mots&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;,&amp;nbsp;notamment en termes de pr&amp;#x00E9;l&amp;#x00E8;vements&amp;nbsp;&amp;#x00BB;.&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Malgr&amp;#x00E9; le rel&amp;#x00E8;vement du seuil d&amp;#x2019;autorisation de tirs qui augmente, la pr&amp;#x00E9;dation ne baisse pas, au contraire elle augmente m&amp;#x00EA;me. Les scientifiques et experts de la question s&amp;#x2019;accordent&amp;nbsp;: les tirs de pr&amp;#x00E9;l&amp;#x00E8;vement se sont av&amp;#x00E9;r&amp;#x00E9;s inefficaces pour lutter contre la pr&amp;#x00E9;dation.&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Seuls les tirs de protection, soit les tirs effectu&amp;#x00E9;s lors d&amp;#x2019;une attaque de loup, s&amp;#x2019;ils sont coupl&amp;#x00E9;s &amp;#x00E0; d&amp;#x2019;autres m&amp;#x00E9;thodes non-l&amp;#x00E9;tales (cl&amp;#x00F4;tures, chiens de protection, etc.), sont d&amp;#x2019;une utilit&amp;#x00E9; av&amp;#x00E9;r&amp;#x00E9;e. Les tirs doivent &amp;#x00EA;tre r&amp;#x00E9;alis&amp;#x00E9;s en fonction des attaques et non en fonction du nombre de loups.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-11</dateDepot>        
+      <datePublication>2026-05-20</datePublication>        
+      <soumisArticle40>true</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>AC</code>                
+            <libelle>A discuter</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N000077?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference>        
+      <codeLoi>1</codeLoi>        
+      <divisionCodeLoi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </loiReference>    
+   <discussionCommune>        
+      <idDiscussion>38693</idDiscussion>        
+      <typePosition>Milieu</typePosition>    
+   </discussionCommune>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

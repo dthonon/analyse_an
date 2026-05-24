@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N002102</uid>    
+   <chronotag>1779462128893</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>2102</numeroLong>        
+      <numeroOrdreDepot>2102</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>adicaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaalr</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA330909</acteurRef>            
+         <groupePolitiqueRef>PO845425</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA267285</acteurRef>            
+         <acteurRef>PA368</acteurRef>            
+         <acteurRef>PA642847</acteurRef>            
+         <acteurRef>PA718884</acteurRef>            
+         <acteurRef>PA774954</acteurRef>            
+         <acteurRef>PA719968</acteurRef>            
+         <acteurRef>PA721410</acteurRef>            
+         <acteurRef>PA266793</acteurRef>            
+         <acteurRef>PA342240</acteurRef>            
+         <acteurRef>PA330008</acteurRef>            
+         <acteurRef>PA793508</acteurRef>            
+         <acteurRef>PA718838</acteurRef>            
+         <acteurRef>PA841047</acteurRef>            
+         <acteurRef>PA841595</acteurRef>            
+         <acteurRef>PA718850</acteurRef>            
+         <acteurRef>PA722390</acteurRef>            
+         <acteurRef>PA332523</acteurRef>            
+         <acteurRef>PA842141</acteurRef>            
+         <acteurRef>PA712015</acteurRef>            
+         <acteurRef>PA608826</acteurRef>            
+         <acteurRef>PA870009</acteurRef>            
+         <acteurRef>PA266797</acteurRef>            
+         <acteurRef>PA794058</acteurRef>            
+         <acteurRef>PA1630</acteurRef>            
+         <acteurRef>PA608416</acteurRef>            
+         <acteurRef>PA346782</acteurRef>            
+         <acteurRef>PA840979</acteurRef>            
+         <acteurRef>PA794750</acteurRef>            
+         <acteurRef>PA642725</acteurRef>            
+         <acteurRef>PA793342</acteurRef>            
+         <acteurRef>PA719272</acteurRef>            
+         <acteurRef>PA643104</acteurRef>            
+         <acteurRef>PA794038</acteurRef>            
+         <acteurRef>PA718784</acteurRef>            
+         <acteurRef>PA794994</acteurRef>            
+         <acteurRef>PA793094</acteurRef>            
+         <acteurRef>PA841377</acteurRef>            
+         <acteurRef>PA266808</acteurRef>            
+         <acteurRef>PA267794</acteurRef>            
+         <acteurRef>PA794178</acteurRef>            
+         <acteurRef>PA643089</acteurRef>            
+         <acteurRef>PA842121</acteurRef>            
+         <acteurRef>PA794118</acteurRef>            
+         <acteurRef>PA607090</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Descoeur,  M.&amp;#160;Wauquiez, M.&amp;#160;Barnier, M.&amp;#160;Bazin, Mme&amp;#160;Bazin-Malgras, Mme&amp;#160;Blin, Mme&amp;#160;Sylvie&amp;#160;Bonnet, Mme&amp;#160;Bonnivard, M.&amp;#160;Bony, M.&amp;#160;Bourgeaux, M.&amp;#160;Breton, M.&amp;#160;Brigand, M.&amp;#160;Fabrice&amp;#160;Brun, M.&amp;#160;Ceccoli, Mme&amp;#160;Chaz&amp;#233;, M.&amp;#160;Cordier, Mme&amp;#160;Corneloup, Mme&amp;#160;Dalloz, Mme&amp;#160;de&amp;#160;Maistre, M.&amp;#160;Dive, Mme&amp;#160;Duby-Muller, M.&amp;#160;Duparay, M.&amp;#160;Gosselin, Mme&amp;#160;Gruet, M.&amp;#160;Herbillon, M.&amp;#160;Hetzel, M.&amp;#160;Juvin, M.&amp;#160;Le&amp;#160;Fur, M.&amp;#160;Liger, M.&amp;#160;Li&amp;#233;geon, Mme&amp;#160;Martin&amp;#160;(Alpes-Maritimes), Mme&amp;#160;Fr&amp;#233;d&amp;#233;rique&amp;#160;Meunier, Mme&amp;#160;Minard, M.&amp;#160;Neuder, M.&amp;#160;Pauget, M.&amp;#160;Portier, M.&amp;#160;Ray, Mme&amp;#160;Rey-Rinchet, M.&amp;#160;Rolland, Mme&amp;#160;Tabarot, M.&amp;#160;Taite, M.&amp;#160;Thi&amp;#233;riot, M.&amp;#160;Tryzna, M.&amp;#160;Vermorel-Marques et M.&amp;#160;Jean-Pierre&amp;#160;Vigier</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>Apres</avant_A_Apres>                
+            <numero>11</numero>                
+            <alineaDesignation>Après l'alinéa 11</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;11, ins&amp;#x00E9;rer l&amp;#x2019;alin&amp;#x00E9;a suivant&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;L&amp;#x2019;arr&amp;#x00EA;t&amp;#x00E9; d&amp;#x00E9;finit les conditions dans lesquelles le repr&amp;#x00E9;sentant de l&amp;#x2019;&amp;#x00C9;tat dans le d&amp;#x00E9;partement peut autoriser tout &amp;#x00E9;leveur exploitant &amp;#x00E0; titre individuel ou sous forme soci&amp;#x00E9;taire, tout propri&amp;#x00E9;taire public ou priv&amp;#x00E9; d&amp;#x2019;une exploitation agricole d&amp;#x2019;&amp;#x00E9;levage mettant en valeur des surfaces p&amp;#x00E2;tur&amp;#x00E9;es, ou tout mandataire d&amp;#x00E9;sign&amp;#x00E9; par lui, participant aux op&amp;#x00E9;rations de gestion destin&amp;#x00E9;es &amp;#x00E0; lutter contre la pr&amp;#x00E9;dation des troupeaux, &amp;#x00E0; utiliser&amp;nbsp;des lunettes de tir &amp;#x00E0; vis&amp;#x00E9;e utilisant la technologie d&amp;#x2019;intensification de lumi&amp;#x00E8;re ou d&amp;#x2019;infrarouge passif, sous r&amp;#x00E9;serve d&amp;#x2019;&amp;#x00EA;tre titulaire d&amp;#x2019;un permis de chasser valide, d&amp;#x2019;avoir suivi une formation pr&amp;#x00E9;alable aupr&amp;#x00E8;s de l&amp;#x2019;Office fran&amp;#x00E7;ais de la biodiversit&amp;#x00E9; et d&amp;#x2019;avoir pr&amp;#x00E9;alablement particip&amp;#x00E9; &amp;#x00E0; une op&amp;#x00E9;ration encadr&amp;#x00E9;e par un ou plusieurs lieutenants de de louveterie. L&amp;#x2019;autorisation est d&amp;#x00E9;livr&amp;#x00E9;e pour une dur&amp;#x00E9;e de trente jours, et se limite au p&amp;#x00E9;rim&amp;#x00E8;tre de la commune o&amp;#x00F9; l&amp;#x2019;op&amp;#x00E9;ration encadr&amp;#x00E9;e par un ou plusieurs lieutenants de louveterie a eu lieu, ainsi qu&amp;#x2019;&amp;#x00E0; ses communes limitrophes.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Le pr&amp;#x00E9;sent amendement de repli du groupe Droite R&amp;#x00E9;publicaine vise &amp;#x00E0; autoriser les &amp;#x00E9;leveurs ainsi que leurs mandataires participant &amp;#x00E0; la lutte contre la pr&amp;#x00E9;dation des troupeaux &amp;#x00E0; utiliser des lunettes de tir &amp;#x00E0; vis&amp;#x00E9;e recourant &amp;#x00E0; la technologie d&amp;#x2019;intensification de lumi&amp;#x00E8;re ou &amp;#x00E0; l&amp;#x2019;infrarouge passif.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Cette autorisation est r&amp;#x00E9;serv&amp;#x00E9;e aux personnes titulaires d&amp;#x2019;un permis de chasser valide et ayant particip&amp;#x00E9; &amp;#x00E0; une op&amp;#x00E9;ration encadr&amp;#x00E9;e par un ou plusieurs lieutenants de louveterie.&lt;/p&gt;&lt;p&gt;L&amp;#x2019;amendement pr&amp;#x00E9;cise &amp;#x00E9;galement les conditions de dur&amp;#x00E9;e et de p&amp;#x00E9;rim&amp;#x00E8;tre de cette autorisation, d&amp;#x00E9;livr&amp;#x00E9;e pour une dur&amp;#x00E9;e maximale de trente jours et limit&amp;#x00E9;e au territoire de la commune o&amp;#x00F9; s&amp;#x2019;est d&amp;#x00E9;roul&amp;#x00E9;e l&amp;#x2019;op&amp;#x00E9;ration encadr&amp;#x00E9;e par les lieutenants de louveterie, ainsi qu&amp;#x2019;aux communes limitrophes.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-15</dateDepot>        
+      <datePublication>2026-05-22</datePublication>        
+      <soumisArticle40>true</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>AC</code>                
+            <libelle>A discuter</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N002102?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune>        
+      <idDiscussion>38807</idDiscussion>        
+      <typePosition>Dernier</typePosition>    
+   </discussionCommune>    
+   <discussionIdentique>        
+      <idDiscussion>90473</idDiscussion>        
+      <typePosition>Dernier</typePosition>    
+   </discussionIdentique>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

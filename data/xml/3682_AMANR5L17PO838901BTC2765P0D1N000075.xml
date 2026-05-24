@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N000075</uid>    
+   <chronotag>1779316621052</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>75</numeroLong>        
+      <numeroOrdreDepot>75</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>adicaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaai</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA793664</acteurRef>            
+         <groupePolitiqueRef>PO845439</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA2940</acteurRef>            
+         <acteurRef>PA840997</acteurRef>            
+         <acteurRef>PA795362</acteurRef>            
+         <acteurRef>PA841507</acteurRef>            
+         <acteurRef>PA842045</acteurRef>            
+         <acteurRef>PA794154</acteurRef>            
+         <acteurRef>PA793948</acteurRef>            
+         <acteurRef>PA610968</acteurRef>            
+         <acteurRef>PA793780</acteurRef>            
+         <acteurRef>PA588884</acteurRef>            
+         <acteurRef>PA841701</acteurRef>            
+         <acteurRef>PA335999</acteurRef>            
+         <acteurRef>PA795454</acteurRef>            
+         <acteurRef>PA841885</acteurRef>            
+         <acteurRef>PA794008</acteurRef>            
+         <acteurRef>PA721210</acteurRef>            
+         <acteurRef>PA793452</acteurRef>            
+         <acteurRef>PA841351</acteurRef>            
+         <acteurRef>PA793980</acteurRef>            
+         <acteurRef>PA795010</acteurRef>            
+         <acteurRef>PA841419</acteurRef>            
+         <acteurRef>PA842013</acteurRef>            
+         <acteurRef>PA840947</acteurRef>            
+         <acteurRef>PA794022</acteurRef>            
+         <acteurRef>PA794146</acteurRef>            
+         <acteurRef>PA841223</acteurRef>            
+         <acteurRef>PA795636</acteurRef>            
+         <acteurRef>PA793708</acteurRef>            
+         <acteurRef>PA794778</acteurRef>            
+         <acteurRef>PA606545</acteurRef>            
+         <acteurRef>PA795076</acteurRef>            
+         <acteurRef>PA722142</acteurRef>            
+         <acteurRef>PA610002</acteurRef>            
+         <acteurRef>PA795808</acteurRef>            
+         <acteurRef>PA796018</acteurRef>            
+         <acteurRef>PA736201</acteurRef>            
+         <acteurRef>PA841713</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> Mme&amp;#160;Pochon,  Mme&amp;#160;Voynet, M.&amp;#160;Biteau, Mme&amp;#160;Belluco, M.&amp;#160;Nicolas&amp;#160;Bonnet, Mme&amp;#160;Ozenne, M.&amp;#160;Raux, M.&amp;#160;Thierry, M.&amp;#160;Amirshahi, Mme&amp;#160;Arrighi, Mme&amp;#160;Autain, Mme&amp;#160;Balage&amp;#160;El&amp;#160;Mariky, Mme&amp;#160;Batho, M.&amp;#160;Ben&amp;#160;Cheikh, M.&amp;#160;Arnaud&amp;#160;Bonnet, Mme&amp;#160;Chatelain, M.&amp;#160;Corbi&amp;#232;re, M.&amp;#160;Davi, M.&amp;#160;Duplessy, M.&amp;#160;Fournier, Mme&amp;#160;Garin, M.&amp;#160;Damien&amp;#160;Girard, M.&amp;#160;Gustave, Mme&amp;#160;Catherine&amp;#160;Hervieu, M.&amp;#160;Iordanoff, Mme&amp;#160;Laernoes, M.&amp;#160;Lahais, M.&amp;#160;Lucas-Lundy, M.&amp;#160;Peytavie, Mme&amp;#160;Regol, M.&amp;#160;Roum&amp;#233;gas, Mme&amp;#160;Sandrine&amp;#160;Rousseau, M.&amp;#160;Ruffin, Mme&amp;#160;Sas, Mme&amp;#160;Sebaihi, Mme&amp;#160;Simonnet, Mme&amp;#160;Taill&amp;#233;-Polian et M.&amp;#160;Tavernier</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Supprimer cet article.&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Le pr&amp;#x00E9;sent amendement vise &amp;#x00E0; supprimer l&amp;#x2019;article&amp;nbsp;14 du projet de loi d&amp;#x2019;urgence agricole.&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Premi&amp;#x00E8;rement, cet article n&amp;#x2019;est pas justifi&amp;#x00E9;. En effet, les dispositions l&amp;#x00E9;gislatives et r&amp;#x00E9;glementaires existantes permettent d&amp;#x00E9;j&amp;#x00E0; la mise en &amp;#x0153;uvre de mesures de gestion des populations de loups en France, par arr&amp;#x00EA;t&amp;#x00E9;s minist&amp;#x00E9;riels. Le Conseil d&amp;#x2019;&amp;#x00C9;tat rel&amp;#x00E8;ve ainsi que &amp;#x00AB;&amp;nbsp;les dispositions propos&amp;#x00E9;es, qui ne rel&amp;#x00E8;vent pas du niveau de la loi, ne sont pas n&amp;#x00E9;cessaires pour lui permettre d&amp;#x2019;atteindre l&amp;#x2019;objectif poursuivi par le projet de loi&amp;nbsp;&amp;#x00BB; et propose de ne pas retenir les dispositions de cet article, qu&amp;#x2019;il estime &amp;#x00AB;&amp;nbsp;ni n&amp;#x00E9;cessaires, ni opportunes&amp;nbsp;&amp;#x00BB;.&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Nous connaissons que trop bien des &amp;#x00E9;leveurs et &amp;#x00E9;leveuses qui se sentent l&amp;#x00E9;gitimement d&amp;#x00E9;sarm&amp;#x00E9;s et abandonn&amp;#x00E9;s face au loup et la pr&amp;#x00E9;dation. Toutefois, ces derni&amp;#x00E8;res ann&amp;#x00E9;es, et &amp;#x00E0; travers ce projet de loi, le Gouvernement r&amp;#x00E9;pond &amp;#x00E0; une situation complexe par des mesures simplistes, court termistes et surtout non &amp;#x00E9;prouv&amp;#x00E9;es. Cela ne pourra jamais constituer une r&amp;#x00E9;ponse politique satisfaisante, pour &amp;#x00E0; la fois prot&amp;#x00E9;ger notre &amp;#x00E9;levage, notamment pastoral, et pour assurer un &amp;#x00E9;tat de conservation favorable du loup.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;L&amp;#x2019;article&amp;nbsp;14 r&amp;#x00E9;v&amp;#x00E8;le une approche uniquement comptable de l&amp;#x2019;esp&amp;#x00E8;ce, alors m&amp;#x00EA;me que l&amp;#x2019;&amp;#x00E9;tude d&amp;#x2019;impact sur le projet de loi pr&amp;#x00E9;cise que les tirs de d&amp;#x00E9;fense des troupeaux sont loin d&amp;#x2019;&amp;#x00EA;tre la mesure la plus efficace face &amp;#x00E0; la pr&amp;#x00E9;dation du loup. Cela rel&amp;#x00E8;ve &amp;#x00E9;galement au passage d&amp;#x2019;une politique de gestion de l&amp;#x2019;esp&amp;#x00E8;ce, propre au Minist&amp;#x00E8;re de la Transition &amp;#x00C9;cologique&amp;nbsp;; en cela que le pr&amp;#x00E9;l&amp;#x00E8;vement d&amp;#x2019;un pourcentage d&amp;#x00E9;termin&amp;#x00E9; de loups n&amp;#x2019;impacte en rien le nombre d&amp;#x2019;attaques qui touchent les cheptels d&amp;#x2019;&amp;#x00E9;levage. Nous estimons en l&amp;#x2019;occurrence que cet article n&amp;#x2019;a pas sa place dans une loi agricole, visant &amp;#x00E0; d&amp;#x00E9;fendre et prot&amp;#x00E9;ger les &amp;#x00E9;levages puisque ces dispositions sont d&amp;#x00E9;connect&amp;#x00E9;es.&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Ces dispositions sont par ailleurs inqui&amp;#x00E9;tantes, tant elles ne prennent pas en compte les connaissances scientifiques les plus r&amp;#x00E9;centes. En effet, selon les chiffres de l&amp;#x2019;&amp;#x00C9;tat (DREAL), il y a une stabilit&amp;#x00E9; depuis plusieurs ann&amp;#x00E9;es dans les d&amp;#x00E9;partements de pr&amp;#x00E9;sence historique de l&amp;#x2019;esp&amp;#x00E8;ce. Les dommages augmentent dans les nouveaux d&amp;#x00E9;partements pr&amp;#x00E9;dat&amp;#x00E9;s o&amp;#x00F9; la majorit&amp;#x00E9; des troupeaux n&amp;#x2019;est pas prot&amp;#x00E9;g&amp;#x00E9;e. Ces donn&amp;#x00E9;es d&amp;#x00E9;montrent l&amp;#x2019;efficacit&amp;#x00E9; de la protection et d&amp;#x00E9;mentent concr&amp;#x00E8;tement l&amp;#x2019;affirmation de la ministre que &amp;#x00AB;&amp;nbsp;la protection n&amp;#x2019;est pas une solution&amp;nbsp;&amp;#x00BB;. Entre 2017 et 2025, alors que la population du loup a &amp;#x00E9;t&amp;#x00E9; multipli&amp;#x00E9;e par trois, pour atteindre plus de 1000 individus, le nombre de victimes animales a stagn&amp;#x00E9;&amp;nbsp;&amp;#x2013;&amp;nbsp;autour de 12&amp;nbsp;000 par an. L&amp;#x00E0; o&amp;#x00F9; la pr&amp;#x00E9;sence de l&amp;#x2019;esp&amp;#x00E8;ce est historique, cette diminution s&amp;#x2019;explique &amp;#x00AB;&amp;nbsp;par le d&amp;#x00E9;ploiement massif de mesures de protection encourag&amp;#x00E9;es et financ&amp;#x00E9;es par l&amp;#x2019;&amp;#x00C9;tat&amp;nbsp;&amp;#x00BB;, selon l&amp;#x2019;&amp;#x00E9;tude d&amp;#x2019;impact du projet de loi.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Sans utilisation de mesures de protection (cl&amp;#x00F4;tures, chiens de protection, gardiennage etc.), les tirs ne sauraient donc avoir un impact r&amp;#x00E9;ellement positif. Un constat &amp;#x00E9;galement pr&amp;#x00E9;sent dans l&amp;#x2019;&amp;#x00E9;tude d&amp;#x2019;impact, qui r&amp;#x00E9;v&amp;#x00E8;le que les tirs de d&amp;#x00E9;fense des troupeaux sont loin d&amp;#x2019;&amp;#x00EA;tre la mesure la plus efficace face au loup&amp;nbsp;: &amp;#x00AB;&amp;nbsp;au del&amp;#x00E0; de la d&amp;#x00E9;structuration sociale des meutes provoqu&amp;#x00E9;e par les tirs qui peut conduire les individus suivants du groupe &amp;#x00E0; multiplier les attaques, on observe souvent le remplacement des individus pr&amp;#x00E9;lev&amp;#x00E9;s par des loups dispersants venus de territoires voisins. Le tir l&amp;#x00E9;tal est une mesure &amp;#x00AB;&amp;nbsp;de dernier recours&amp;nbsp;&amp;#x00BB;&amp;nbsp;&amp;#x00BB;.&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Par ailleurs, plusieurs &amp;#x00E9;tudes ont montr&amp;#x00E9; qu&amp;#x2019;il n&amp;#x2019;y avait pas de corr&amp;#x00E9;lation entre le nombre de loups et les attaques. La simplification des protocoles de tir, si elle n&amp;#x2019;est pas adoss&amp;#x00E9;e &amp;#x00E0; des recommandations scientifiques et &amp;#x00E0; minima ajust&amp;#x00E9;e aux contextes locaux risque ainsi d&amp;#x2019;&amp;#x00EA;tre une solution de maladaptation, qui ne b&amp;#x00E9;n&amp;#x00E9;ficiera ni &amp;#x00E0; la biodiversit&amp;#x00E9;, ni aux &amp;#x00E9;leveurs. Le groupe &amp;#x00C9;cologiste et Social se positionne donc &amp;#x00E9;galement contre les dispositions de cet article concernant la gestion nationale sur l&amp;#x2019;&amp;#x00E9;tat de conservation du loup, convaincus qu&amp;#x2019;une gestion efficace de la population lupine doit imp&amp;#x00E9;rativement &amp;#x00EA;tre une gestion territoriale.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Enfin, la construction d&amp;#x2019;une cohabitation apais&amp;#x00E9;e avec le loup n&amp;#x00E9;cessite une bien meilleure connaissance scientifique de l&amp;#x2019;esp&amp;#x00E8;ce et donc des moyens et un cap pour la recherche, sujet majeur qui ne figure pas dans ce texte.&amp;nbsp;&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-11</dateDepot>        
+      <datePublication>2026-05-20</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>AC</code>                
+            <libelle>A discuter</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N000075?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique>        
+      <idDiscussion>90457</idDiscussion>        
+      <typePosition>Premier</typePosition>    
+   </discussionIdentique>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

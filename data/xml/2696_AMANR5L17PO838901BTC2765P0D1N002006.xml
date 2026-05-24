@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N002006</uid>    
+   <chronotag>1779316691267</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>2006</numeroLong>        
+      <numeroOrdreDepot>2006</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>adicaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaci</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA719472</acteurRef>            
+         <groupePolitiqueRef>PO845407</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Jean-Ren&amp;#233;&amp;#160;Cazeneuve</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>                
+            <numero>5</numero>                
+            <alineaDesignation>Alinéa 5</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s la premi&amp;#x00E8;re phrase de l'alin&amp;#x00E9;a 5, ins&amp;#x00E9;rer la phrase suivante&amp;nbsp;:&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;Ces mesures tiennent compte de la n&amp;#x00E9;cessit&amp;#x00E9; de pr&amp;#x00E9;venir l&amp;#x2019;installation durable du loup dans les territoires jusqu&amp;#x2019;alors exempts de pr&amp;#x00E9;sence permanente de l&amp;#x2019;esp&amp;#x00E8;ce et expos&amp;#x00E9;s &amp;#x00E0; des fronts de colonisation.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p&gt;Le pr&amp;#x00E9;sent amendement introduit dans le pouvoir r&amp;#x00E9;glementaire confi&amp;#x00E9; aux ministres charg&amp;#x00E9;s de l&amp;#x2019;agriculture et de la protection de la nature une clause de vigilance pr&amp;#x00E9;ventive : pr&amp;#x00E9;venir l&amp;#x2019;installation durable du loup dans les territoires qui en sont aujourd&amp;#x2019;hui exempts.&lt;/p&gt;&lt;p&gt;La progression de l&amp;#x2019;esp&amp;#x00E8;ce sur le territoire m&amp;#x00E9;tropolitain est continue. De 1992, date de sa r&amp;#x00E9;apparition dans le Mercantour, &amp;#x00E0; aujourd&amp;#x2019;hui, le loup a colonis&amp;#x00E9; l&amp;#x2019;ensemble du massif alpin, le Massif central, les Pyr&amp;#x00E9;n&amp;#x00E9;es, le Jura, les Vosges, et progresse d&amp;#x00E9;sormais vers les zones de plaine et de bocage de l&amp;#x2019;Ouest et du Sud-Ouest. Or, lorsqu&amp;#x2019;une meute s&amp;#x2019;installe dans un territoire d&amp;#x2019;&amp;#x00E9;levage qui n&amp;#x2019;a aucune tradition lupine r&amp;#x00E9;cente, l&amp;#x2019;&amp;#x00E9;radication devient impossible et les &amp;#x00E9;leveurs subissent une pression permanente, sans disposer des savoir-faire de protection accumul&amp;#x00E9;s ailleurs.&lt;/p&gt;&lt;p&gt;Le pr&amp;#x00E9;sent article 14 instaure un cadre r&amp;#x00E9;nov&amp;#x00E9; de gestion fond&amp;#x00E9; sur des mesures diff&amp;#x00E9;renci&amp;#x00E9;es selon les territoires et l&amp;#x2019;&amp;#x00E9;volution de la pression de pr&amp;#x00E9;dation. Il convient d&amp;#x2019;aller au bout de cette logique en reconnaissant que la d&amp;#x00E9;fense de l&amp;#x2019;&amp;#x00E9;levage passe d&amp;#x2019;abord par la pr&amp;#x00E9;vention de l&amp;#x2019;installation du pr&amp;#x00E9;dateur dans les bassins qui en sont aujourd&amp;#x2019;hui pr&amp;#x00E9;serv&amp;#x00E9;s. C&amp;#x2019;est moins co&amp;#x00FB;teux pour l&amp;#x2019;&amp;#x00E9;leveur, moins co&amp;#x00FB;teux pour les finances publiques, et plus efficace que la gestion d&amp;#x2019;une population d&amp;#x00E9;j&amp;#x00E0; install&amp;#x00E9;e.&lt;/p&gt;&lt;p&gt;La notion de &amp;#x00AB; front de colonisation &amp;#x00BB; correspond &amp;#x00E0; un usage scientifique &amp;#x00E9;prouv&amp;#x00E9;, mobilis&amp;#x00E9; tant par l&amp;#x2019;Office fran&amp;#x00E7;ais de la biodiversit&amp;#x00E9; que par le plan national d&amp;#x2019;actions sur le loup. La r&amp;#x00E9;daction propos&amp;#x00E9;e se borne &amp;#x00E0; int&amp;#x00E9;grer cette r&amp;#x00E9;alit&amp;#x00E9; de terrain dans les &amp;#x00E9;l&amp;#x00E9;ments dont l&amp;#x2019;arr&amp;#x00EA;t&amp;#x00E9; minist&amp;#x00E9;riel doit tenir compte, sans cr&amp;#x00E9;er de r&amp;#x00E9;gime juridique autonome ni pr&amp;#x00E9;juger des mesures retenues. Elle pr&amp;#x00E9;serve ainsi pleinement la marge d&amp;#x2019;appr&amp;#x00E9;ciation de l&amp;#x2019;autorit&amp;#x00E9; administrative et la conformit&amp;#x00E9; du dispositif aux engagements internationaux et europ&amp;#x00E9;ens de la France.&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-15</dateDepot>        
+      <datePublication>2026-05-20</datePublication>        
+      <soumisArticle40>true</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>AC</code>                
+            <libelle>A discuter</libelle>            
+         </etat>            
+         <sousEtat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N002006?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference>        
+      <codeLoi>1</codeLoi>        
+      <divisionCodeLoi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </loiReference>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

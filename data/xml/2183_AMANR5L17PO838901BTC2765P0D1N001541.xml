@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO838901BTC2765P0D1N001541</uid>    
+   <chronotag>1779316694446</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>1541</numeroLong>        
+      <numeroOrdreDepot>1541</numeroOrdreDepot>        
+      <prefixeOrganeExamen>AN</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO838901BTC2765P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17BTC2765</texteLegislatifRef>    
+   <triAmendement>adiiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabc</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Député</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA793214</acteurRef>            
+         <groupePolitiqueRef>PO845485</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires>            
+         <acteurRef>PA841543</acteurRef>            
+         <acteurRef>PA267763</acteurRef>            
+         <acteurRef>PA840817</acteurRef>            
+         <acteurRef>PA719138</acteurRef>            
+         <acteurRef>PA719286</acteurRef>            
+         <acteurRef>PA942</acteurRef>            
+         <acteurRef>PA841359</acteurRef>            
+         <acteurRef>PA267042</acteurRef>            
+         <acteurRef>PA1592</acteurRef>            
+         <acteurRef>PA841017</acteurRef>            
+         <acteurRef>PA795244</acteurRef>            
+         <acteurRef>PA227089</acteurRef>            
+         <acteurRef>PA720976</acteurRef>            
+         <acteurRef>PA841931</acteurRef>            
+         <acteurRef>PA607619</acteurRef>            
+         <acteurRef>PA721486</acteurRef>            
+         <acteurRef>PA721110</acteurRef>            
+         <acteurRef>PA720960</acteurRef>            
+         <acteurRef>PA793796</acteurRef>            
+         <acteurRef>PA721474</acteurRef>            
+         <acteurRef>PA2952</acteurRef>            
+         <acteurRef>PA796078</acteurRef>        
+      </cosignataires>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> Mme&amp;#160;Abadie-Amiel,  M.&amp;#160;Bodart, M.&amp;#160;Bataille, M.&amp;#160;Bruneau, M.&amp;#160;Castellani, M.&amp;#160;Colombani, M.&amp;#160;de&amp;#160;Courson, Mme&amp;#160;de&amp;#160;P&amp;#233;lichy, M.&amp;#160;Favennec-B&amp;#233;cot, M.&amp;#160;Habib, M.&amp;#160;Huwart, M.&amp;#160;Lenormand, Mme&amp;#160;L&amp;#233;tard, M.&amp;#160;Mathiasin, M.&amp;#160;Mazaury, M.&amp;#160;Molac, M.&amp;#160;Naegelen, Mme&amp;#160;Sanquer, M.&amp;#160;Serva, M.&amp;#160;Taupiac, M.&amp;#160;Viry, M.&amp;#160;Warsmann et Mme&amp;#160;Youssouffa</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>APRÈS ART. 14</articleDesignationCourte>            
+         <articleDesignation>APRÈS L'ARTICLE 14, insérer l'article suivant:</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>Après</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>true</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2765.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif>Cet amendement a été déclaré irrecevable après publication en application de l'article 98 du règlement de l'Assemblée nationale.</cartoucheInformatif>        
+      <contenuAuteur xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-05-15</dateDepot>        
+      <datePublication>2026-05-19</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>IRR45</code>                
+            <libelle>Irrecevable</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>IRR45</code>                
+            <libelle>Cavalier (45)</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <sort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO838901BTC2765P0D1N001541?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference>        
+      <codeLoi>c environnement</codeLoi>        
+      <divisionCodeLoi>L411-2</divisionCodeLoi>    
+   </loiReference>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>

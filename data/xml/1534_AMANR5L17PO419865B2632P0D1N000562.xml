@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amendement xmlns="http://schemas.assemblee-nationale.fr/referentiel">    
+   <uid>AMANR5L17PO419865B2632P0D1N000562</uid>    
+   <chronotag>1777498592262</chronotag>    
+   <legislature>17</legislature>    
+   <identification>        
+      <numeroLong>CD562</numeroLong>        
+      <numeroOrdreDepot>562</numeroOrdreDepot>        
+      <prefixeOrganeExamen>CION-DVP</prefixeOrganeExamen>        
+      <numeroRect>0</numeroRect>    
+   </identification>    
+   <examenRef>EXANR5L17PO419865B2632P0D1</examenRef>    
+   <texteLegislatifRef>PRJLANR5L17B2632</texteLegislatifRef>    
+   <triAmendement>esaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaavzatl</triAmendement>    
+   <cardinaliteAmdtMultiples>1</cardinaliteAmdtMultiples>    
+   <amendementParentRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <signataires>        
+      <auteur>            
+         <typeAuteur>Rapporteur</typeAuteur>            
+         <gouvernementRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <acteurRef>PA721458</acteurRef>            
+         <groupePolitiqueRef>PO845470</groupePolitiqueRef>            
+         <auteurRapporteurOrganeRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </auteur>        
+      <cosignataires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <suffixe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <libelle> M.&amp;#160;Roseren, rapporteur</libelle>    
+   </signataires>    
+   <pointeurFragmentTexte>        
+      <partieAmendableRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <division>            
+         <titre>Article 14</titre>            
+         <articleDesignationCourte>ART. 14</articleDesignationCourte>            
+         <articleDesignation>ARTICLE 14</articleDesignation>            
+         <type>ARTICLE</type>            
+         <avant_A_Apres>A</avant_A_Apres>            
+         <divisionRattachee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <articleAdditionnel>false</articleAdditionnel>            
+         <chapitreAdditionnel>false</chapitreAdditionnel>            
+         <urlDivisionTexteVise>/17/textes/2632.asp#D_Article_14</urlDivisionTexteVise>        
+      </division>        
+      <amendementStandard>            
+         <alinea>                
+            <avant_A_Apres>Apres</avant_A_Apres>                
+            <numero>6</numero>                
+            <alineaDesignation>Après l'alinéa 6</alineaDesignation>            
+         </alinea>        
+      </amendementStandard>    
+   </pointeurFragmentTexte>    
+   <corps>        
+      <cartoucheInformatif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      <contenuAuteur>            
+         <dispositif>&lt;p style="text-align: justify;"&gt;Apr&amp;#x00E8;s l&amp;#x2019;alin&amp;#x00E9;a&amp;nbsp;6, ins&amp;#x00E9;rer l&amp;#x2019;alin&amp;#x00E9;a suivant&amp;nbsp;:&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;&amp;#x00AB;&amp;nbsp;L&amp;#x2019;arr&amp;#x00EA;t&amp;#x00E9; pr&amp;#x00E9;cise les conditions dans lesquelles le pr&amp;#x00E9;fet de d&amp;#x00E9;partement d&amp;#x00E9;finit, apr&amp;#x00E8;s accord du pr&amp;#x00E9;fet coordonnateur sur le loup, les communes rev&amp;#x00EA;tant le caract&amp;#x00E8;re de zone difficilement prot&amp;#x00E9;geable, en raison caract&amp;#x00E9;ristiques topographiques et &amp;#x00E9;cologiques des milieux&amp;nbsp;exploit&amp;#x00E9;s par les troupeaux emp&amp;#x00EA;chant la mise en &amp;#x0153;uvre de moyens de protection efficace des troupeaux d&amp;#x2019;ovins et de caprins.&amp;nbsp;&amp;#x00BB;&lt;/p&gt;</dispositif>            
+         <avantAppel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <exposeSommaire>&lt;p style="text-align: justify;"&gt;Cet amendement vise &amp;#x00E0; conf&amp;#x00E9;rer une base l&amp;#x00E9;gale aux zones difficilement prot&amp;#x00E9;geables (ZDP), qui recensent les zones dans lesquelles les p&amp;#x00E2;turages d&amp;#x2019;ovins et de caprins sont o&amp;#x00F9; les tirs de d&amp;#x00E9;fense et de pr&amp;#x00E9;l&amp;#x00E8;vement du loup ne sont plus conditionn&amp;#x00E9;s par l&amp;#x2019;engagement de mettre en &amp;#x0153;uvre de&amp;nbsp;mesures de protection des troupeaux.&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Les zones difficilement prot&amp;#x00E9;geables b&amp;#x00E9;n&amp;#x00E9;ficient du m&amp;#x00EA;me r&amp;#x00E9;gime juridique que les &amp;#x00E9;levages prot&amp;#x00E9;g&amp;#x00E9;s, en raison de leurs caract&amp;#x00E9;ristiques g&amp;#x00E9;ographiques&amp;nbsp;: ils sont souvent situ&amp;#x00E9;s sur des terrains de montagne o&amp;#x00F9; la mise en place de cl&amp;#x00F4;tures est inop&amp;#x00E9;rante.&lt;/p&gt;&lt;p style="text-align: justify;"&gt;L&amp;#x2019;objectif de cet amendement est de permettre au pr&amp;#x00E9;fet de d&amp;#x00E9;finir des zones difficilement prot&amp;#x00E9;geables afin de ne pas imposer les m&amp;#x00EA;mes exigences de protection sans tenir compte des sp&amp;#x00E9;cificit&amp;#x00E9;s des p&amp;#x00E2;turages de montagnards, pour lutter efficacement contre la pr&amp;#x00E9;dation lupine.&amp;nbsp;&lt;/p&gt;</exposeSommaire>            
+         <annexeExposeSommaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </contenuAuteur>    
+   </corps>    
+   <cycleDeVie>        
+      <dateDepot>2026-04-27</dateDepot>        
+      <datePublication>2026-04-29</datePublication>        
+      <soumisArticle40>false</soumisArticle40>        
+      <etatDesTraitements>            
+         <etat>                
+            <code>DI</code>                
+            <libelle>Discuté</libelle>            
+         </etat>            
+         <sousEtat>                
+            <code>DI</code>                
+            <libelle>Retiré</libelle>            
+         </sousEtat>        
+      </etatDesTraitements>        
+      <dateSort>2026-04-29T23:36:04+02:00</dateSort>        
+      <sort>Retiré</sort>    
+   </cycleDeVie>    
+   <representations>        
+      <representation>            
+         <nom>PDF</nom>            
+         <typeMime>                
+            <type>application</type>                
+            <subType>PDF</subType>            
+         </typeMime>            
+         <statutRepresentation>                
+            <verbatim>true</verbatim>                
+            <canonique>true</canonique>                
+            <officielle>true</officielle>                
+            <transcription>false</transcription>                
+            <enregistrement>false</enregistrement>            
+         </statutRepresentation>            
+         <repSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <offset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>            
+         <contenu>                
+            <documentURI>/base/AMANR5L17PO419865B2632P0D1N000562?format=pdf</documentURI>            
+         </contenu>            
+         <dateDispoRepresentation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>        
+      </representation>    
+   </representations>    
+   <seanceDiscussionRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <article99>false</article99>    
+   <loiReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionCommune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <discussionIdentique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>    
+   <accordGouvernementDepotHorsDelai>Sans objet</accordGouvernementDepotHorsDelai>
+</amendement>
